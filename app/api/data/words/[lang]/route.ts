@@ -6,8 +6,6 @@ import engWords from "../eng/words.json";
 import farWords from "../far/words.json";
 import tjkWords from "../tjk/words.json";
 
-export const runtime = "nodejs";
-export const dynamic = "force-dynamic";
 
 const dictionary: Record<string, unknown> = {
   eng: engWords,

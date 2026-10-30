@@ -4,8 +4,6 @@ import { timingSafeEqual } from "node:crypto";
 
 import lessons from "./lessons.json";
 
-export const runtime = "nodejs";
-export const dynamic = "force-dynamic";
 
 export async function GET(request: NextRequest) {
   const secret = process.env.LESSONS_API_SECRET;

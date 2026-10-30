@@ -6,8 +6,7 @@ import engAlphabet from "../eng/alphabet.json";
 import farAlphabet from "../far/alphabet.json";
 import tjkAlphabet from "../tjk/alphabet.json";
 
-export const runtime = "nodejs";
-export const dynamic = "force-dynamic";
+
 
 const alphabetMap: Record<string, unknown> = {
   eng: engAlphabet,
