@@ -1,0 +1,291 @@
+
+[
+  {
+    "letter": "ا",
+    "letterName": "Alef",
+    "transcription": "â",
+    "word": "انار",
+    "wordTranscription": "anar",
+    "translation": "Гранат",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f352.svg"
+  },
+  {
+    "letter": "ب",
+    "letterName": "Be",
+    "transcription": "b",
+    "word": "باد",
+    "wordTranscription": "bad",
+    "translation": "Ветер",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f32c.svg"
+  },
+  {
+    "letter": "پ",
+    "letterName": "Pe",
+    "transcription": "p",
+    "word": "پدر",
+    "wordTranscription": "pedar",
+    "translation": "Отец",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f468.svg"
+  },
+  {
+    "letter": "ت",
+    "letterName": "Te",
+    "transcription": "t",
+    "word": "توپ",
+    "wordTranscription": "tup",
+    "translation": "Мяч",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/26bd.svg"
+  },
+  {
+    "letter": "ث",
+    "letterName": "Se",
+    "transcription": "s",
+    "word": "ثروت",
+    "wordTranscription": "servat",
+    "translation": "Богатство",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4b0.svg"
+  },
+  {
+    "letter": "ج",
+    "letterName": "Jim",
+    "transcription": "j",
+    "word": "جوجه",
+    "wordTranscription": "juje",
+    "translation": "Цыплёнок",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f425.svg"
+  },
+  {
+    "letter": "چ",
+    "letterName": "Che",
+    "transcription": "ch",
+    "word": "چای",
+    "wordTranscription": "chay",
+    "translation": "Чай",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f375.svg"
+  },
+  {
+    "letter": "ح",
+    "letterName": "He",
+    "transcription": "h",
+    "word": "حلوا",
+    "wordTranscription": "halva",
+    "translation": "Халва",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f36e.svg"
+  },
+  {
+    "letter": "خ",
+    "letterName": "Khe",
+    "transcription": "kh",
+    "word": "خرگوش",
+    "wordTranscription": "khargush",
+    "translation": "Кролик",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f430.svg"
+  },
+  {
+    "letter": "د",
+    "letterName": "Dal",
+    "transcription": "d",
+    "word": "درخت",
+    "wordTranscription": "derakht",
+    "translation": "Дерево",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f333.svg"
+  },
+  {
+    "letter": "ذ",
+    "letterName": "Zal",
+    "transcription": "z",
+    "word": "ذرت",
+    "wordTranscription": "zorrat",
+    "translation": "Кукуруза",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f33d.svg"
+  },
+  {
+    "letter": "ر",
+    "letterName": "Re",
+    "transcription": "r",
+    "word": "رنگ",
+    "wordTranscription": "rang",
+    "translation": "Цвет",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f3a8.svg"
+  },
+  {
+    "letter": "ز",
+    "letterName": "Ze",
+    "transcription": "z",
+    "word": "زرافه",
+    "wordTranscription": "zarafe",
+    "translation": "Жираф",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f992.svg"
+  },
+  {
+    "letter": "ژ",
+    "letterName": "Zhe",
+    "transcription": "zh",
+    "word": "ژاکت",
+    "wordTranscription": "zhaket",
+    "translation": "Жакет",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9e5.svg"
+  },
+  {
+    "letter": "س",
+    "letterName": "Sin",
+    "transcription": "s",
+    "word": "سیب",
+    "wordTranscription": "sib",
+    "translation": "Яблоко",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34e.svg"
+  },
+  {
+    "letter": "ش",
+    "letterName": "Shin",
+    "transcription": "sh",
+    "word": "شیر",
+    "wordTranscription": "shir",
+    "translation": "Молоко",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f95b.svg"
+  },
+  {
+    "letter": "ص",
+    "letterName": "Sad",
+    "transcription": "s",
+    "word": "صابون",
+    "wordTranscription": "sabun",
+    "translation": "Мыло",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9fc.svg"
+  },
+  {
+    "letter": "ض",
+    "letterName": "Zad",
+    "transcription": "z",
+    "word": "ضربان",
+    "wordTranscription": "zaraban",
+    "translation": "Пульс",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f493.svg"
+  },
+  {
+    "letter": "ط",
+    "letterName": "Ta",
+    "transcription": "t",
+    "word": "طوطی",
+    "wordTranscription": "tuti",
+    "translation": "Попугай",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f99c.svg"
+  },
+  {
+    "letter": "ظ",
+    "letterName": "Za",
+    "transcription": "z",
+    "word": "ظرف",
+    "wordTranscription": "zarf",
+    "translation": "Посуда, ёмкость",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f963.svg"
+  },
+  {
+    "letter": "ع",
+    "letterName": "Ayn",
+    "transcription": "ʔ",
+    "word": "عسل",
+    "wordTranscription": "asal",
+    "translation": "Мёд",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f36f.svg"
+  },
+  {
+    "letter": "غ",
+    "letterName": "Gheyn",
+    "transcription": "gh",
+    "word": "غذا",
+    "wordTranscription": "ghaza",
+    "translation": "Еда",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f372.svg"
+  },
+  {
+    "letter": "ف",
+    "letterName": "Fe",
+    "transcription": "f",
+    "word": "فیل",
+    "wordTranscription": "fil",
+    "translation": "Слон",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f418.svg"
+  },
+  {
+    "letter": "ق",
+    "letterName": "Qaf",
+    "transcription": "gh",
+    "word": "قورباغه",
+    "wordTranscription": "ghurbaghe",
+    "translation": "Лягушка",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f438.svg"
+  },
+  {
+    "letter": "ک",
+    "letterName": "Kaf",
+    "transcription": "k",
+    "word": "کتاب",
+    "wordTranscription": "ketab",
+    "translation": "Книга",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4d8.svg"
+  },
+  {
+    "letter": "گ",
+    "letterName": "Gaf",
+    "transcription": "g",
+    "word": "گربه",
+    "wordTranscription": "gorbe",
+    "translation": "Кошка",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f431.svg"
+  },
+  {
+    "letter": "ل",
+    "letterName": "Lam",
+    "transcription": "l",
+    "word": "لیمو",
+    "wordTranscription": "limu",
+    "translation": "Лимон",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34b.svg"
+  },
+  {
+    "letter": "م",
+    "letterName": "Mim",
+    "transcription": "m",
+    "word": "موز",
+    "wordTranscription": "muz",
+    "translation": "Банан",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34c.svg"
+  },
+  {
+    "letter": "ن",
+    "letterName": "Nun",
+    "transcription": "n",
+    "word": "نان",
+    "wordTranscription": "nan",
+    "translation": "Хлеб",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f35e.svg"
+  },
+  {
+    "letter": "و",
+    "letterName": "Vav",
+    "transcription": "v",
+    "word": "ورزش",
+    "wordTranscription": "varzesh",
+    "translation": "Спорт",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f3c3.svg"
+  },
+  {
+    "letter": "ه",
+    "letterName": "He",
+    "transcription": "h",
+    "word": "هوا",
+    "wordTranscription": "hava",
+    "translation": "Воздух, погода",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/2601.svg"
+  },
+  {
+    "letter": "ی",
+    "letterName": "Ye",
+    "transcription": "y",
+    "word": "یخ",
+    "wordTranscription": "yakh",
+    "translation": "Лёд",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9ca.svg"
+  }
+]

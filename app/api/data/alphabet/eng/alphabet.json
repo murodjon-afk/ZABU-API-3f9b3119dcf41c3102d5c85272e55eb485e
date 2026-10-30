@@ -1,0 +1,159 @@
+
+[
+  {
+    "letter": "A",
+    "word": "Apple",
+    "translation": "Яблоко",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34e.svg"
+  },
+  {
+    "letter": "B",
+    "word": "Ball",
+    "translation": "Мяч",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/26bd.svg"
+  },
+  {
+    "letter": "C",
+    "word": "Cat",
+    "translation": "Кошка",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f431.svg"
+  },
+  {
+    "letter": "D",
+    "word": "Dog",
+    "translation": "Собака",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f436.svg"
+  },
+  {
+    "letter": "E",
+    "word": "Elephant",
+    "translation": "Слон",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f418.svg"
+  },
+  {
+    "letter": "F",
+    "word": "Fish",
+    "translation": "Рыба",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f41f.svg"
+  },
+  {
+    "letter": "G",
+    "word": "Grapes",
+    "translation": "Виноград",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f347.svg"
+  },
+  {
+    "letter": "H",
+    "word": "House",
+    "translation": "Дом",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f3e0.svg"
+  },
+  {
+    "letter": "I",
+    "word": "Ice cream",
+    "translation": "Мороженое",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f366.svg"
+  },
+  {
+    "letter": "J",
+    "word": "Juice",
+    "translation": "Сок",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9c3.svg"
+  },
+  {
+    "letter": "K",
+    "word": "Kite",
+    "translation": "Воздушный змей",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1fa81.svg"
+  },
+  {
+    "letter": "L",
+    "word": "Lion",
+    "translation": "Лев",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f981.svg"
+  },
+  {
+    "letter": "M",
+    "word": "Moon",
+    "translation": "Луна",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f319.svg"
+  },
+  {
+    "letter": "N",
+    "word": "Nose",
+    "translation": "Нос",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f443.svg"
+  },
+  {
+    "letter": "O",
+    "word": "Orange",
+    "translation": "Апельсин",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34a.svg"
+  },
+  {
+    "letter": "P",
+    "word": "Pencil",
+    "translation": "Карандаш",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/270f.svg"
+  },
+  {
+    "letter": "Q",
+    "word": "Queen",
+    "translation": "Королева",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f451.svg"
+  },
+  {
+    "letter": "R",
+    "word": "Robot",
+    "translation": "Робот",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f916.svg"
+  },
+  {
+    "letter": "S",
+    "word": "Sun",
+    "translation": "Солнце",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/2600.svg"
+  },
+  {
+    "letter": "T",
+    "word": "Tiger",
+    "translation": "Тигр",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f42f.svg"
+  },
+  {
+    "letter": "U",
+    "word": "Unicorn",
+    "translation": "Единорог",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f984.svg"
+  },
+  {
+    "letter": "V",
+    "word": "Violin",
+    "translation": "Скрипка",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f3bb.svg"
+  },
+  {
+    "letter": "W",
+    "word": "Watch",
+    "translation": "Часы",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/231a.svg"
+  },
+  {
+    "letter": "X",
+    "word": "X-ray",
+    "translation": "Рентген",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1fa7b.svg"
+  },
+  {
+    "letter": "Y",
+    "word": "Yacht",
+    "translation": "Яхта",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/26f5.svg"
+  },
+  {
+    "letter": "Z",
+    "word": "Zebra",
+    "translation": "Зебра",
+    "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f993.svg"
+  }
+]
