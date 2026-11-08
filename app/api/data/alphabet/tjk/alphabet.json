@@ -3,211 +3,456 @@
   {
     "letter": "А",
     "word": "анор",
-    "translation": "Гранат",
+    "translations": {
+      "ru": "Гранат",
+      "uz": "Anor",
+      "fa": "انار",
+      "it": "Melagrana",
+      "en": "Pomegranate",
+      "he": "רימון"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f352.svg"
   },
   {
     "letter": "Б",
     "word": "барф",
-    "translation": "Снег",
+    "translations": {
+      "ru": "Снег",
+      "uz": "Qor",
+      "fa": "برف",
+      "it": "Neve",
+      "en": "Snow",
+      "he": "שלג"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/2744.svg"
   },
   {
     "letter": "В",
     "word": "варзиш",
-    "translation": "Спорт",
+    "translations": {
+      "ru": "Спорт",
+      "uz": "Sport",
+      "fa": "ورزش",
+      "it": "Sport",
+      "en": "Sport",
+      "he": "ספורט"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f3c3.svg"
   },
   {
     "letter": "Г",
     "word": "гул",
-    "translation": "Цветок",
+    "translations": {
+      "ru": "Цветок",
+      "uz": "Gul",
+      "fa": "گل",
+      "it": "Fiore",
+      "en": "Flower",
+      "he": "פרח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f338.svg"
   },
   {
     "letter": "Ғ",
     "word": "ғалла",
-    "translation": "Зерно",
+    "translations": {
+      "ru": "Зерно",
+      "uz": "Don",
+      "fa": "غله",
+      "it": "Grano",
+      "en": "Grain",
+      "he": "דגן"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f33e.svg"
   },
   {
     "letter": "Д",
     "word": "дарахт",
-    "translation": "Дерево",
+    "translations": {
+      "ru": "Дерево",
+      "uz": "Daraxt",
+      "fa": "درخت",
+      "it": "Albero",
+      "en": "Tree",
+      "he": "עץ"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f333.svg"
   },
   {
     "letter": "Е",
     "word": "Европа",
-    "translation": "Европа",
+    "translations": {
+      "ru": "Европа",
+      "uz": "Yevropa",
+      "fa": "اروپا",
+      "it": "Europa",
+      "en": "Europe",
+      "he": "אירופה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f30d.svg"
   },
   {
     "letter": "Ё",
     "word": "ёд",
-    "translation": "Память",
+    "translations": {
+      "ru": "Память",
+      "uz": "Xotira",
+      "fa": "حافظه",
+      "it": "Memoria",
+      "en": "Memory",
+      "he": "זיכרון"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9e0.svg"
   },
   {
     "letter": "Ж",
     "word": "жираф",
-    "translation": "Жираф",
+    "translations": {
+      "ru": "Жираф",
+      "uz": "Jirafa",
+      "fa": "زرافه",
+      "it": "Giraffa",
+      "en": "Giraffe",
+      "he": "ג'ירפה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f992.svg"
   },
   {
     "letter": "З",
     "word": "зебра",
-    "translation": "Зебра",
+    "translations": {
+      "ru": "Зебра",
+      "uz": "Zebra",
+      "fa": "گورخر",
+      "it": "Zebra",
+      "en": "Zebra",
+      "he": "זברה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f993.svg"
   },
   {
     "letter": "И",
     "word": "илон",
-    "translation": "Змея",
+    "translations": {
+      "ru": "Змея",
+      "uz": "Ilon",
+      "fa": "مار",
+      "it": "Serpente",
+      "en": "Snake",
+      "he": "נחש"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f40d.svg"
   },
   {
     "letter": "Ӣ",
     "word": "дӯстӣ",
-    "translation": "Дружба",
+    "translations": {
+      "ru": "Дружба",
+      "uz": "Do‘stlik",
+      "fa": "دوستی",
+      "it": "Amicizia",
+      "en": "Friendship",
+      "he": "ידידות"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f91d.svg"
   },
   {
     "letter": "Й",
     "word": "йогурт",
-    "translation": "Йогурт",
+    "translations": {
+      "ru": "Йогурт",
+      "uz": "Yogurt",
+      "fa": "ماست",
+      "it": "Yogurt",
+      "en": "Yogurt",
+      "he": "יוגורט"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f95b.svg"
   },
   {
     "letter": "К",
     "word": "китоб",
-    "translation": "Книга",
+    "translations": {
+      "ru": "Книга",
+      "uz": "Kitob",
+      "fa": "کتاب",
+      "it": "Libro",
+      "en": "Book",
+      "he": "ספר"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4d8.svg"
   },
   {
     "letter": "Қ",
     "word": "қалам",
-    "translation": "Ручка",
+    "translations": {
+      "ru": "Ручка",
+      "uz": "Qalam",
+      "fa": "خودکار",
+      "it": "Penna",
+      "en": "Pen",
+      "he": "עט"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/270f.svg"
   },
   {
     "letter": "Л",
     "word": "лола",
-    "translation": "Тюльпан",
+    "translations": {
+      "ru": "Тюльпан",
+      "uz": "Lola",
+      "fa": "لاله",
+      "it": "Tulipano",
+      "en": "Tulip",
+      "he": "צבעוני"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f337.svg"
   },
   {
     "letter": "М",
     "word": "моҳ",
-    "translation": "Луна",
+    "translations": {
+      "ru": "Луна",
+      "uz": "Oy",
+      "fa": "ماه",
+      "it": "Luna",
+      "en": "Moon",
+      "he": "ירח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f319.svg"
   },
   {
     "letter": "Н",
     "word": "нон",
-    "translation": "Хлеб",
+    "translations": {
+      "ru": "Хлеб",
+      "uz": "Non",
+      "fa": "نان",
+      "it": "Pane",
+      "en": "Bread",
+      "he": "לחם"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f35e.svg"
   },
   {
     "letter": "О",
     "word": "офтоб",
-    "translation": "Солнце",
+    "translations": {
+      "ru": "Солнце",
+      "uz": "Quyosh",
+      "fa": "خورشید",
+      "it": "Sole",
+      "en": "Sun",
+      "he": "שמש"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/2600.svg"
   },
   {
     "letter": "П",
     "word": "паранда",
-    "translation": "Птица",
+    "translations": {
+      "ru": "Птица",
+      "uz": "Qush",
+      "fa": "پرنده",
+      "it": "Uccello",
+      "en": "Bird",
+      "he": "ציפור"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f426.svg"
   },
   {
     "letter": "Р",
     "word": "робот",
-    "translation": "Робот",
+    "translations": {
+      "ru": "Робот",
+      "uz": "Robot",
+      "fa": "ربات",
+      "it": "Robot",
+      "en": "Robot",
+      "he": "רובוט"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f916.svg"
   },
   {
     "letter": "С",
     "word": "себ",
-    "translation": "Яблоко",
+    "translations": {
+      "ru": "Яблоко",
+      "uz": "Olma",
+      "fa": "سیب",
+      "it": "Mela",
+      "en": "Apple",
+      "he": "תפוח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34e.svg"
   },
   {
     "letter": "Т",
     "word": "тӯб",
-    "translation": "Мяч",
+    "translations": {
+      "ru": "Мяч",
+      "uz": "To‘p",
+      "fa": "توپ",
+      "it": "Palla",
+      "en": "Ball",
+      "he": "כדור"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/26bd.svg"
   },
   {
     "letter": "У",
     "word": "уқоб",
-    "translation": "Орёл",
+    "translations": {
+      "ru": "Орёл",
+      "uz": "Burgut",
+      "fa": "عقاب",
+      "it": "Aquila",
+      "en": "Eagle",
+      "he": "עיט"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f985.svg"
   },
   {
     "letter": "Ӯ",
     "word": "ӯҳдадорӣ",
-    "translation": "Обязанность",
+    "translations": {
+      "ru": "Обязанность",
+      "uz": "Majburiyat",
+      "fa": "وظیفه",
+      "it": "Obbligo",
+      "en": "Duty",
+      "he": "חובה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4cb.svg"
   },
   {
     "letter": "Ф",
     "word": "фил",
-    "translation": "Слон",
+    "translations": {
+      "ru": "Слон",
+      "uz": "Fil",
+      "fa": "فیل",
+      "it": "Elefante",
+      "en": "Elephant",
+      "he": "פיל"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f418.svg"
   },
   {
     "letter": "Х",
     "word": "харгӯш",
-    "translation": "Кролик",
+    "translations": {
+      "ru": "Кролик",
+      "uz": "Quyon",
+      "fa": "خرگوش",
+      "it": "Coniglio",
+      "en": "Rabbit",
+      "he": "ארנב"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f430.svg"
   },
   {
     "letter": "Ҳ",
     "word": "ҳаво",
-    "translation": "Воздух, погода",
+    "translations": {
+      "ru": "Воздух, погода",
+      "uz": "Havo",
+      "fa": "هوا",
+      "it": "Aria, tempo",
+      "en": "Air, weather",
+      "he": "אוויר, מזג אוויר"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/2601.svg"
   },
   {
     "letter": "Ч",
     "word": "чой",
-    "translation": "Чай",
+    "translations": {
+      "ru": "Чай",
+      "uz": "Choy",
+      "fa": "چای",
+      "it": "Tè",
+      "en": "Tea",
+      "he": "תה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f375.svg"
   },
   {
     "letter": "Ҷ",
     "word": "ҷуворимакка",
-    "translation": "Кукуруза",
+    "translations": {
+      "ru": "Кукуруза",
+      "uz": "Makkajo‘xori",
+      "fa": "ذرت",
+      "it": "Mais",
+      "en": "Corn",
+      "he": "תירס"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f33d.svg"
   },
   {
     "letter": "Ш",
     "word": "шер",
-    "translation": "Лев",
+    "translations": {
+      "ru": "Лев",
+      "uz": "Sher",
+      "fa": "شیر",
+      "it": "Leone",
+      "en": "Lion",
+      "he": "אריה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f981.svg"
   },
   {
     "letter": "Ъ",
     "word": "маъно",
-    "translation": "Значение, смысл",
+    "translations": {
+      "ru": "Значение, смысл",
+      "uz": "Ma'no",
+      "fa": "معنی",
+      "it": "Significato",
+      "en": "Meaning",
+      "he": "משמעות"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9e0.svg"
   },
   {
     "letter": "Э",
     "word": "экран",
-    "translation": "Экран",
+    "translations": {
+      "ru": "Экран",
+      "uz": "Ekran",
+      "fa": "صفحه نمایش",
+      "it": "Schermo",
+      "en": "Screen",
+      "he": "מסך"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4bb.svg"
   },
   {
     "letter": "Ю",
     "word": "Юнон",
-    "translation": "Греция",
+    "translations": {
+      "ru": "Греция",
+      "uz": "Gretsiya",
+      "fa": "یونان",
+      "it": "Grecia",
+      "en": "Greece",
+      "he": "יוון"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f1ec-1f1f7.svg"
   },
   {
     "letter": "Я",
     "word": "ях",
-    "translation": "Лёд",
+    "translations": {
+      "ru": "Лёд",
+      "uz": "Muz",
+      "fa": "یخ",
+      "it": "Ghiaccio",
+      "en": "Ice",
+      "he": "קרח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9ca.svg"
   }
 ]

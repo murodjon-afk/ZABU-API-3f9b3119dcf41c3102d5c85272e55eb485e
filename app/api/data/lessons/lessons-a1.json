@@ -1,0 +1,435 @@
+[
+  {
+    "id": 0,
+    "type": "alphabet",
+    "category": "alphabet",
+    "title": {
+      "ru": "Изучи алфавит и научись читать",
+      "tg": "Алифборо омӯз ва хонданро ёд гир",
+      "fa": "الفبا را یاد بگیر و خواندن را بیاموز",
+      "en": "Learn the Alphabet and Start Reading",
+      "it": "Impara l'alfabeto e inizia a leggere",
+      "he": "למד את האלפבית והתחל לקרוא",
+      "uz": "Alifboni o‘rgan va o‘qishni boshlа"
+    },
+    "words": []
+  },
+  {
+    "id": 1,
+    "type": "lesson",
+    "category": "greetings",
+    "title": {
+      "ru": "Приветствия и основные фразы",
+      "tg": "Салом ва ибораҳои асосӣ",
+      "fa": "سلام و عبارت‌های اصلی",
+      "en": "Greetings and Basic Phrases",
+      "it": "Saluti e frasi di base",
+      "he": "ברכות וביטויים בסיסיים",
+      "uz": "Salomlashish va asosiy iboralar"
+    },
+    "words": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  },
+  {
+    "id": 2,
+    "type": "lesson",
+    "category": "greetings",
+    "title": {
+      "ru": "Знакомство и пожелания",
+      "tg": "Шиносоӣ ва таманниёт",
+      "fa": "آشنایی و آرزوها",
+      "en": "Introductions and Good Wishes",
+      "it": "Presentazioni e auguri",
+      "he": "היכרות ואיחולים",
+      "uz": "Tanishuv va tilaklar"
+    },
+    "words": [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+  },
+  {
+    "id": 3,
+    "type": "lesson",
+    "category": "numbers",
+    "title": {
+      "ru": "Числа от нуля до четырнадцати",
+      "tg": "Ададҳо аз сифр то чордаҳ",
+      "fa": "اعداد از صفر تا چهارده",
+      "en": "Numbers from Zero to Fourteen",
+      "it": "Numeri da zero a quattordici",
+      "he": "מספרים מאפס עד ארבע עשרה",
+      "uz": "Noldan o‘n to‘rttagacha bo‘lgan sonlar"
+    },
+    "words": [201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215]
+  },
+  {
+    "id": 4,
+    "type": "lesson",
+    "category": "numbers",
+    "title": {
+      "ru": "Числа от пятнадцати до двухсот",
+      "tg": "Ададҳо аз понздаҳ то дусад",
+      "fa": "اعداد از پانزده تا دویست",
+      "en": "Numbers from Fifteen to Two Hundred",
+      "it": "Numeri da quindici a duecento",
+      "he": "מספרים מחמש עשרה עד מאתיים",
+      "uz": "O‘n beshdan ikki yuzgacha bo‘lgan sonlar"
+    },
+    "words": [216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230]
+  },
+  {
+    "id": 1001,
+    "type": "mini_test",
+    "category": "review",
+    "title": {
+      "ru": "Мини-тест 1: Приветствия и числа",
+      "tg": "Санҷиши хурд 1: Салом ва ададҳо",
+      "fa": "آزمون کوتاه ۱: سلام و اعداد",
+      "en": "Mini Test 1: Greetings and Numbers",
+      "it": "Mini test 1: Saluti e numeri",
+      "he": "מבחן קצר 1: ברכות ומספרים",
+      "uz": "Mini test 1: Salomlashish va sonlar"
+    },
+    "afterLessonId": 4,
+    "lessonIds": [1, 2, 3, 4],
+    "words": [
+      1, 2, 4, 6, 8, 10, 12, 14, 15,
+      16, 17, 19, 21, 23, 25, 27, 29, 30,
+      201, 203, 205, 207, 209, 211, 212, 214, 215,
+      216, 218, 220, 222, 224, 226, 228, 229, 230
+    ]
+  },
+  {
+    "id": 5,
+    "type": "lesson",
+    "category": "food",
+    "title": {
+      "ru": "Продукты, напитки и фрукты",
+      "tg": "Маҳсулоти хӯрокворӣ, нӯшокиҳо ва меваҳо",
+      "fa": "مواد غذایی، نوشیدنی‌ها و میوه‌ها",
+      "en": "Food, Drinks and Fruits",
+      "it": "Cibi, bevande e frutta",
+      "he": "מזון, משקאות ופירות",
+      "uz": "Oziq-ovqatlar, ichimliklar va mevalar"
+    },
+    "words": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+  },
+  {
+    "id": 6,
+    "type": "lesson",
+    "category": "food",
+    "title": {
+      "ru": "Овощи, продукты и национальные блюда",
+      "tg": "Сабзавот, маҳсулоти хӯрокворӣ ва таомҳои миллӣ",
+      "fa": "سبزیجات، مواد غذایی و غذاهای محلی",
+      "en": "Vegetables, Food and Traditional Dishes",
+      "it": "Verdure, alimenti e piatti tradizionali",
+      "he": "ירקות, מוצרי מזון ומאכלים מסורתיים",
+      "uz": "Sabzavotlar, oziq-ovqatlar va milliy taomlar"
+    },
+    "words": [46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]
+  },
+  {
+    "id": 7,
+    "type": "lesson",
+    "category": "family",
+    "title": {
+      "ru": "Моя семья и близкие родственники",
+      "tg": "Оилаи ман ва хешовандони наздик",
+      "fa": "خانواده من و خویشاوندان نزدیک",
+      "en": "My Family and Close Relatives",
+      "it": "La mia famiglia e i parenti stretti",
+      "he": "המשפחה שלי וקרובי משפחה",
+      "uz": "Mening oilam va yaqin qarindoshlarim"
+    },
+    "words": [61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75]
+  },
+  {
+    "id": 8,
+    "type": "lesson",
+    "category": "family",
+    "title": {
+      "ru": "Родственники и поколения семьи",
+      "tg": "Хешовандон ва наслҳои оила",
+      "fa": "خویشاوندان و نسل‌های خانواده",
+      "en": "Relatives and Family Generations",
+      "it": "Parenti e generazioni della famiglia",
+      "he": "קרובי משפחה ודורות במשפחה",
+      "uz": "Qarindoshlar va oila avlodlari"
+    },
+    "words": [76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90]
+  },
+  {
+    "id": 1002,
+    "type": "mini_test",
+    "category": "review",
+    "title": {
+      "ru": "Мини-тест 2: Еда и семья",
+      "tg": "Санҷиши хурд 2: Хӯрок ва оила",
+      "fa": "آزمون کوتاه ۲: غذا و خانواده",
+      "en": "Mini Test 2: Food and Family",
+      "it": "Mini test 2: Cibo e famiglia",
+      "he": "מבחן קצר 2: אוכל ומשפחה",
+      "uz": "Mini test 2: Oziq-ovqat va oila"
+    },
+    "afterLessonId": 8,
+    "lessonIds": [5, 6, 7, 8],
+    "words": [
+      31, 32, 34, 36, 38, 40, 42, 44, 45,
+      46, 47, 49, 51, 53, 55, 57, 59, 60,
+      62, 66, 70, 74, 76, 79, 83, 87, 90
+    ]
+  },
+  {
+    "id": 9,
+    "type": "lesson",
+    "category": "emotions",
+    "title": {
+      "ru": "Эмоции и чувства",
+      "tg": "Эҳсосот ва ҳиссиёт",
+      "fa": "عواطف و احساسات",
+      "en": "Emotions and Feelings",
+      "it": "Emozioni e sentimenti",
+      "he": "רגשות ותחושות",
+      "uz": "Hissiyotlar va tuyg‘ular"
+    },
+    "words": [91, 92, 93, 94, 95, 96, 97, 98, 99, 100]
+  },
+  {
+    "id": 10,
+    "type": "lesson",
+    "category": "education",
+    "title": {
+      "ru": "Школа и школьные принадлежности",
+      "tg": "Мактаб ва лавозимоти хониш",
+      "fa": "مدرسه و لوازم تحریر",
+      "en": "School and School Supplies",
+      "it": "Scuola e materiale scolastico",
+      "he": "בית הספר וציוד לבית הספר",
+      "uz": "Maktab va o‘quv qurollari"
+    },
+    "words": [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115]
+  },
+  {
+    "id": 11,
+    "type": "lesson",
+    "category": "education",
+    "title": {
+      "ru": "Учёба, знания и экзамены",
+      "tg": "Таҳсил, дониш ва имтиҳонҳо",
+      "fa": "تحصیل، دانش و امتحان‌ها",
+      "en": "Studies, Knowledge and Exams",
+      "it": "Studio, conoscenza ed esami",
+      "he": "לימודים, ידע ומבחנים",
+      "uz": "Ta’lim, bilim va imtihonlar"
+    },
+    "words": [116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+  },
+  {
+    "id": 1003,
+    "type": "mini_test",
+    "category": "review",
+    "title": {
+      "ru": "Мини-тест 3: Эмоции и учёба",
+      "tg": "Санҷиши хурд 3: Эҳсосот ва таҳсил",
+      "fa": "آزمون کوتاه ۳: احساسات و تحصیل",
+      "en": "Mini Test 3: Emotions and Studies",
+      "it": "Mini test 3: Emozioni e studio",
+      "he": "מבחן קצר 3: רגשות ולימודים",
+      "uz": "Mini test 3: Hissiyotlar va ta’lim"
+    },
+    "afterLessonId": 11,
+    "lessonIds": [9, 10, 11],
+    "words": [
+      91, 92, 94, 96, 98, 100,
+      101, 102, 104, 106, 108, 110, 112, 114, 115,
+      116, 117, 119, 121, 123, 125, 127, 129, 130
+    ]
+  },
+  {
+    "id": 12,
+    "type": "lesson",
+    "category": "nature",
+    "title": {
+      "ru": "Горы и леса",
+      "tg": "Кӯҳҳо ва ҷангалҳо",
+      "fa": "کوه‌ها و جنگل‌ها",
+      "en": "Mountains and Forests",
+      "it": "Montagne e foreste",
+      "he": "הרים ויערות",
+      "uz": "Tog‘lar va o‘rmonlar"
+    },
+    "words": [231, 232, 233, 234, 235, 236, 237, 238, 239, 240]
+  },
+  {
+    "id": 13,
+    "type": "lesson",
+    "category": "nature",
+    "title": {
+      "ru": "Песок, вода и водоёмы",
+      "tg": "Рег, об ва обанборҳо",
+      "fa": "شن، آب و پهنه‌های آبی",
+      "en": "Sand, Water and Bodies of Water",
+      "it": "Sabbia, acqua e specchi d'acqua",
+      "he": "חול, מים ומקווי מים",
+      "uz": "Qum, suv va suv havzalari"
+    },
+    "words": [241, 242, 243, 244, 245, 246, 247, 248, 249, 250]
+  },
+  {
+    "id": 14,
+    "type": "lesson",
+    "category": "nature",
+    "title": {
+      "ru": "Небо, погода и земля",
+      "tg": "Осмон, обу ҳаво ва замин",
+      "fa": "آسمان، آب‌وهوا و زمین",
+      "en": "Sky, Weather and Earth",
+      "it": "Cielo, clima e terra",
+      "he": "שמיים, מזג אוויר וכדור הארץ",
+      "uz": "Osmon, ob-havo va yer"
+    },
+    "words": [251, 252, 253, 254, 255, 256, 257, 258, 259, 260]
+  },
+  {
+    "id": 15,
+    "type": "lesson",
+    "category": "travel",
+    "title": {
+      "ru": "Путешествие и документы",
+      "tg": "Сафар ва ҳуҷҷатҳо",
+      "fa": "سفر و مدارک",
+      "en": "Travel and Documents",
+      "it": "Viaggi e documenti",
+      "he": "נסיעות ומסמכים",
+      "uz": "Sayohat va hujjatlar"
+    },
+    "words": [131, 132, 133, 134, 135, 136, 137, 138, 139, 140]
+  },
+  {
+    "id": 16,
+    "type": "lesson",
+    "category": "travel",
+    "title": {
+      "ru": "Города и транспорт",
+      "tg": "Шаҳрҳо ва нақлиёт",
+      "fa": "شهرها و حمل‌ونقل",
+      "en": "Cities and Transport",
+      "it": "Città e trasporti",
+      "he": "ערים ותחבורה",
+      "uz": "Shaharlar va transport"
+    },
+    "words": [141, 142, 143, 144, 145, 146, 147, 148, 149, 150]
+  },
+  {
+    "id": 17,
+    "type": "lesson",
+    "category": "travel",
+    "title": {
+      "ru": "Транспорт и действия в путешествии",
+      "tg": "Нақлиёт ва амалҳо ҳангоми сафар",
+      "fa": "حمل‌ونقل و کارهای مربوط به سفر",
+      "en": "Transport and Activities While Travelling",
+      "it": "Trasporti e attività durante il viaggio",
+      "he": "תחבורה ופעילויות במהלך הטיול",
+      "uz": "Transport va sayohatdagi harakatlar"
+    },
+    "words": [151, 152, 153, 154, 155, 156, 157, 158, 159, 160]
+  },
+  {
+    "id": 1003,
+    "type": "test",
+    "category": "nature_travel",
+    "title": {
+      "ru": "Природа и путешествия",
+      "tg": "Табиат ва сафар",
+      "fa": "طبیعت و سفر",
+      "en": "Nature and Travel",
+      "it": "Natura e viaggi",
+      "he": "טבע וטיולים",
+      "uz": "Tabiat va sayohat"
+    },
+    "words": [
+      231, 232, 233, 234, 235,
+      236, 237, 238, 239, 240,
+      131, 132, 133, 134, 135,
+      136, 137, 138, 139, 140
+    ]
+  },
+  {
+    "id": 18,
+    "type": "lesson",
+    "category": "work",
+    "title": {
+      "ru": "Работа и профессии",
+      "tg": "Кор ва касбҳо",
+      "fa": "کار و حرفه‌ها",
+      "en": "Work and Professions",
+      "it": "Lavoro e professioni",
+      "he": "עבודה ומקצועות",
+      "uz": "Ish va kasblar"
+    },
+    "words": [161, 162, 163, 164, 165, 166, 167, 168, 169, 170]
+  },
+  {
+    "id": 19,
+    "type": "lesson",
+    "category": "work",
+    "title": {
+      "ru": "Рабочие задачи и документы",
+      "tg": "Вазифаҳои корӣ ва ҳуҷҷатҳо",
+      "fa": "وظایف کاری و اسناد",
+      "en": "Work Tasks and Documents",
+      "it": "Attività lavorative e documenti",
+      "he": "משימות עבודה ומסמכים",
+      "uz": "Ish vazifalari va hujjatlar"
+    },
+    "words": [171, 172, 173, 174, 175, 176, 177, 178, 179, 180]
+  },
+  {
+    "id": 20,
+    "type": "lesson",
+    "category": "work",
+    "title": {
+      "ru": "Навыки и профессии",
+      "tg": "Малакаҳо ва касбҳо",
+      "fa": "مهارت‌ها و حرفه‌ها",
+      "en": "Skills and Professions",
+      "it": "Competenze e professioni",
+      "he": "מיומנויות ומקצועות",
+      "uz": "Ko‘nikmalar va kasblar"
+    },
+    "words": [181, 182, 183, 184, 185, 186, 187, 188, 189, 190]
+  },
+  {
+    "id": 21,
+    "type": "lesson",
+    "category": "home",
+    "title": {
+      "ru": "Дом и комнаты",
+      "tg": "Хона ва ҳуҷраҳо",
+      "fa": "خانه و اتاق‌ها",
+      "en": "Home and Rooms",
+      "it": "Casa e stanze",
+      "he": "בית וחדרים",
+      "uz": "Uy va xonalar"
+    },
+    "words": [191, 192, 193, 194, 195, 196, 197, 198, 199, 200]
+  },
+  {
+    "id": 1004,
+    "type": "test",
+    "category": "home_work",
+    "title": {
+      "ru": "Дом и работа",
+      "tg": "Хона ва кор",
+      "fa": "خانه و کار",
+      "en": "Home and Work",
+      "it": "Casa e lavoro",
+      "he": "בית ועבודה",
+      "uz": "Uy va ish"
+    },
+    "words": [
+      161, 162, 163, 164, 165,
+      166, 167, 168, 169, 170,
+      191, 192, 193, 194, 195
+    ]
+  }
+]

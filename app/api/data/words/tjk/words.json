@@ -4,9 +4,17 @@
     "word": "салом",
     "sam_dialect": "салом",
     "translation": "привет",
+    "translations": {
+      "ru": "привет",
+      "fa": "سلام",
+      "en": "hello",
+      "he": "שלום",
+      "it": "ciao",
+      "uz": "salom"
+    },
     "transcription": "salom",
     "partOfSpeech": "noun",
-    "url":"https://thridy.com/i/dicons/handshake-f0c7f643.webp",
+    "url": "https://thridy.com/i/dicons/handshake-f0c7f643.webp",
     "level": "A1",
     "category": "greetings",
     "example": "Салом, дӯстам!",
@@ -17,2608 +25,4259 @@
     "word": "салом алейкум",
     "sam_dialect": "ассалому алайкум",
     "translation": "мир вам",
+    "translations": {
+      "ru": "мир вам",
+      "fa": "سلام بر شما",
+      "en": "peace be upon you",
+      "he": "שלום עליכם",
+      "it": "la pace sia con voi",
+      "uz": "assalomu alaykum"
+    },
     "transcription": "salom aleikum",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Салом алейкум, устод!",
     "exampleTranslation": "Мир вам, учитель!",
-    "url":"https://thridy.com/i/dicons/waving-hand-3b5a65fd.webp"
+    "url": "https://thridy.com/i/dicons/waving-hand-3b5a65fd.webp"
   },
   {
     "id": 3,
     "word": "хуш омадед",
     "sam_dialect": "хуш омадед",
     "translation": "добро пожаловать",
+    "translations": {
+      "ru": "добро пожаловать",
+      "fa": "خوش آمدید",
+      "en": "welcome",
+      "he": "ברוכים הבאים",
+      "it": "benvenuti",
+      "uz": "xush kelibsiz"
+    },
     "transcription": "khush omaded",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Хуш омадед ба шаҳри мо!",
     "exampleTranslation": "Добро пожаловать в наш город!",
-    "url":"https://thridy.com/i/dicons/door-mat-954074f2.webp"
+    "url": "https://thridy.com/i/dicons/door-mat-954074f2.webp"
   },
   {
     "id": 4,
     "word": "субҳ ба хайр",
     "sam_dialect": "субҳ ба хайр",
     "translation": "доброе утро",
+    "translations": {
+      "ru": "доброе утро",
+      "fa": "صبح بخیر",
+      "en": "good morning",
+      "he": "בוקר טוב",
+      "it": "buongiorno",
+      "uz": "xayrli tong"
+    },
     "transcription": "subh ba khayr",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Субҳ ба хайр, модар!",
     "exampleTranslation": "Доброе утро, мама!",
-    "url":"https://thridy.com/i/dicons/waking-up.webp"
+    "url": "https://thridy.com/i/dicons/waking-up.webp"
   },
   {
     "id": 5,
     "word": "рӯз ба хайр",
     "sam_dialect": "рӯз ба хайр",
     "translation": "добрый день",
+    "translations": {
+      "ru": "добрый день",
+      "fa": "روز بخیر",
+      "en": "good afternoon",
+      "he": "צהריים טובים",
+      "it": "buon pomeriggio",
+      "uz": "xayrli kun"
+    },
     "transcription": "ruz ba khayr",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Рӯз ба хайр, дӯстам!",
     "exampleTranslation": "Добрый день, мой друг!",
-    "url":"https://thridy.com/i/dicons/sunny-day.webp"
+    "url": "https://thridy.com/i/dicons/sunny-day.webp"
   },
   {
     "id": 6,
     "word": "шом ба хайр",
     "sam_dialect": "шом ба хайр",
     "translation": "добрый вечер",
+    "translations": {
+      "ru": "добрый вечер",
+      "fa": "عصر بخیر",
+      "en": "good evening",
+      "he": "ערב טוב",
+      "it": "buonasera",
+      "uz": "xayrli kech"
+    },
     "transcription": "shom ba khayr",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Шом ба хайр, падар!",
     "exampleTranslation": "Добрый вечер, папа!",
-    "url":"https://thridy.com/i/dicons/sunset-ad9f5c48.webp"
+    "url": "https://thridy.com/i/dicons/sunset-ad9f5c48.webp"
   },
   {
     "id": 7,
     "word": "хайр",
     "sam_dialect": "хайр",
     "translation": "пока",
+    "translations": {
+      "ru": "пока",
+      "fa": "خداحافظ",
+      "en": "goodbye",
+      "he": "להתראות",
+      "it": "arrivederci",
+      "uz": "xayr"
+    },
     "transcription": "khayr",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "greetings",
     "example": "Хайр, то боздид!",
     "exampleTranslation": "Пока, до встречи!",
-    "url":"https://thridy.com/i/dicons/raised-hand-man-b70be034.webp"
+    "url": "https://thridy.com/i/dicons/raised-hand-man-b70be034.webp"
   },
   {
     "id": 8,
     "word": "то боздид",
     "sam_dialect": "то дидана",
     "translation": "до свидания",
+    "translations": {
+      "ru": "до свидания",
+      "fa": "خداحافظ",
+      "en": "goodbye",
+      "he": "להתראות",
+      "it": "arrivederci",
+      "uz": "xayr"
+    },
     "transcription": "to bozdid",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "То боздид, дӯстам!",
     "exampleTranslation": "До свидания, мой друг!",
-    "url":"https://thridy.com/i/dicons/hugging-people-4601ce8c.webp"
+    "url": "https://thridy.com/i/dicons/hugging-people-4601ce8c.webp"
   },
   {
     "id": 9,
     "word": "то пагоҳ",
     "sam_dialect": "то пагая",
     "translation": "до завтра",
+    "translations": {
+      "ru": "до завтра",
+      "fa": "تا فردا",
+      "en": "see you tomorrow",
+      "he": "עד מחר",
+      "it": "a domani",
+      "uz": "ertagacha"
+    },
     "transcription": "to pagoh",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "То пагоҳ, бародар!",
     "exampleTranslation": "До завтра, брат!",
-    "url":"https://thridy.com/i/dicons/woman-raising-hand-906ee8e3.webp"
+    "url": "https://thridy.com/i/dicons/woman-raising-hand-906ee8e3.webp"
   },
   {
     "id": 10,
     "word": "хуш омадед",
     "sam_dialect": "хуш омадед",
     "translation": "рады вас видеть",
+    "translations": {
+      "ru": "рады вас видеть",
+      "fa": "از دیدن شما خوشحالیم",
+      "en": "glad to see you",
+      "he": "שמחים לראות אתכם",
+      "it": "lieti di vedervi",
+      "uz": "sizni ko'rib xursandmiz"
+    },
     "transcription": "khush omaded",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Хуш омадед ба хона!",
     "exampleTranslation": "Рады вас видеть дома!",
-    "url":"https://thridy.com/i/dicons/raised-hands-ab697f15.webp"
+    "url": "https://thridy.com/i/dicons/raised-hands-ab697f15.webp"
   },
   {
     "id": 11,
     "word": "чӣ ҳол доред?",
     "sam_dialect": "читу шумо?",
     "translation": "как вы?",
+    "translations": {
+      "ru": "как вы?",
+      "fa": "حال شما چطور است؟",
+      "en": "how are you?",
+      "he": "מה שלומכם?",
+      "it": "come sta?",
+      "uz": "qalaysiz?"
+    },
     "transcription": "chi hol dored?",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Салом! Чӣ ҳол доред?",
     "exampleTranslation": "Здравствуйте! Как вы?",
-    "url":"https://thridy.com/i/dicons/two-women.webp"
+    "url": "https://thridy.com/i/dicons/two-women.webp"
   },
   {
     "id": 12,
     "word": "чӣ ҳол дорӣ?",
     "sam_dialect": "читу ту?",
     "translation": "как ты?",
+    "translations": {
+      "ru": "как ты?",
+      "fa": "حالت چطور است؟",
+      "en": "how are you?",
+      "he": "מה שלומך?",
+      "it": "come stai?",
+      "uz": "qalaysan?"
+    },
     "transcription": "chi hol dori?",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Салом! Чӣ ҳол дорӣ?",
     "exampleTranslation": "Привет! Как ты?",
-    "url":"https://thridy.com/i/dicons/thinking-face-0ba45d5d.webp"
+    "url": "https://thridy.com/i/dicons/thinking-face-0ba45d5d.webp"
   },
   {
     "id": 13,
     "word": "хуб ҳастам",
     "sam_dialect": "ман нагз ",
     "translation": "я в порядке",
+    "translations": {
+      "ru": "я в порядке",
+      "fa": "حالم خوب است",
+      "en": "I'm fine",
+      "he": "אני בסדר",
+      "it": "sto bene",
+      "uz": "yaxshiman"
+    },
     "transcription": "khub hastam",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Раҳмат, хуб ҳастам.",
     "exampleTranslation": "Спасибо, я в порядке.",
-    "url":"https://thridy.com/i/dicons/relieved-face-4a195154.webp"
+    "url": "https://thridy.com/i/dicons/relieved-face-4a195154.webp"
   },
   {
     "id": 14,
     "word": "хубӣ?",
     "sam_dialect": "нагз ми?",
     "translation": "ты в порядке?",
+    "translations": {
+      "ru": "ты в порядке?",
+      "fa": "حالت خوب است؟",
+      "en": "are you okay?",
+      "he": "אתה בסדר?",
+      "it": "stai bene?",
+      "uz": "yaxshimisan?"
+    },
     "transcription": "khubi?",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Салом, хубӣ?",
-    "exampleTranslation": "Привет, ты в порядке?"
-    ,"url":"https://thridy.com/i/dicons/thumbs-up-e2db6c62.webp"
+    "exampleTranslation": "Привет, ты в порядке?",
+    "url": "https://thridy.com/i/dicons/thumbs-up-e2db6c62.webp"
   },
   {
     "id": 15,
     "word": "раҳмат",
     "sam_dialect": "раҳмат",
     "translation": "спасибо",
+    "translations": {
+      "ru": "спасибо",
+      "fa": "ممنون",
+      "en": "thank you",
+      "he": "תודה",
+      "it": "grazie",
+      "uz": "rahmat"
+    },
     "transcription": "rahmat",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "greetings",
     "example": "Раҳмат, ман хуб ҳастам.",
-    "exampleTranslation": "Спасибо, я в порядке."
-        ,"url":"https://thridy.com/i/dicons/thank-you-6d47e20e.webp"
-
+    "exampleTranslation": "Спасибо, я в порядке.",
+    "url": "https://thridy.com/i/dicons/thank-you-6d47e20e.webp"
   },
   {
     "id": 16,
     "word": "хуш омадӣ",
     "sam_dialect": "хуш омадӣ",
     "translation": "добро пожаловать",
+    "translations": {
+      "ru": "добро пожаловать",
+      "fa": "خوش آمدی",
+      "en": "welcome",
+      "he": "ברוך הבא",
+      "it": "benvenuto",
+      "uz": "xush kelding"
+    },
     "transcription": "khush omadi",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Хуш омадӣ, дӯстам!",
-    "exampleTranslation": "Добро пожаловать, мой друг!"
-        ,"url":"https://thridy.com/i/dicons/door-mat-954074f2.webp"
-
+    "exampleTranslation": "Добро пожаловать, мой друг!",
+    "url": "https://thridy.com/i/dicons/door-mat-954074f2.webp"
   },
   {
     "id": 17,
     "word": "хушбахт шудам",
     "sam_dialect": "хушбахт шудам",
     "translation": "рад познакомиться",
+    "translations": {
+      "ru": "рад познакомиться",
+      "fa": "از آشنایی خوشوقتم",
+      "en": "nice to meet you",
+      "he": "נעים להכיר",
+      "it": "piacere di conoscerti",
+      "uz": "tanishganimdan xursandman"
+    },
     "transcription": "khushbakht shudam",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Аз шиносоӣ хушбахт шудам.",
-    "exampleTranslation": "Рад познакомиться."
-        ,"url":"https://thridy.com/i/dicons/cooperation.webp"
-
+    "exampleTranslation": "Рад познакомиться.",
+    "url": "https://thridy.com/i/dicons/cooperation.webp"
   },
   {
     "id": 18,
     "word": "шиносоӣ",
     "sam_dialect": "шиносӣ",
     "translation": "знакомство",
+    "translations": {
+      "ru": "знакомство",
+      "fa": "آشنایی",
+      "en": "acquaintance",
+      "he": "היכרות",
+      "it": "conoscenza",
+      "uz": "tanishuv"
+    },
     "transcription": "shinosoi",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "greetings",
     "example": "Аз шиносоӣ хушҳолам.",
-    "exampleTranslation": "Я рад знакомству."
-        ,"url":"https://thridy.com/i/dicons/teamwork-70940ead.webp"
-
+    "exampleTranslation": "Я рад знакомству.",
+    "url": "https://thridy.com/i/dicons/teamwork-70940ead.webp"
   },
   {
     "id": 19,
     "word": "хушҳолам",
     "sam_dialect": "хурсандман",
     "translation": "я рад",
+    "translations": {
+      "ru": "я рад",
+      "fa": "خوشحالم",
+      "en": "I am glad",
+      "he": "אני שמח",
+      "it": "sono felice",
+      "uz": "xursandman"
+    },
     "transcription": "khushholam",
     "partOfSpeech": "adjective",
     "level": "A1",
     "category": "greetings",
     "example": "Аз дидани шумо хушҳолам.",
-    "exampleTranslation": "Я рад вас видеть."
-        ,"url":"https://thridy.com/i/dicons/blushing-smile.webp"
-
+    "exampleTranslation": "Я рад вас видеть.",
+    "url": "https://thridy.com/i/dicons/blushing-smile.webp"
   },
   {
     "id": 20,
     "word": "дидан",
     "sam_dialect": "дидан",
     "translation": "видеть",
+    "translations": {
+      "ru": "видеть",
+      "fa": "دیدن",
+      "en": "to see",
+      "he": "לראות",
+      "it": "vedere",
+      "uz": "ko'rmoq"
+    },
     "transcription": "didan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "greetings",
     "example": "Аз дидани ту хушҳолам.",
-    "exampleTranslation": "Я рад тебя видеть."
-        ,"url":"https://thridy.com/i/dicons/eye-7b8b4db1.webp"
-
+    "exampleTranslation": "Я рад тебя видеть.",
+    "url": "https://thridy.com/i/dicons/eye-7b8b4db1.webp"
   },
   {
     "id": 21,
     "word": "боз дидан",
     "sam_dialect": "бо дидана",
     "translation": "увидеть снова",
+    "translations": {
+      "ru": "увидеть снова",
+      "fa": "دوباره دیدن",
+      "en": "to see again",
+      "he": "לראות שוב",
+      "it": "rivedere",
+      "uz": "yana ko'rmoq"
+    },
     "transcription": "boz didan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "greetings",
     "example": "Умедворам, боз мебинем.",
-    "exampleTranslation": "Надеюсь, увидимся снова."
-        ,"url":"https://thridy.com/i/dicons/eye-speech-bubble-5f51be5e.webp"
-
+    "exampleTranslation": "Надеюсь, увидимся снова.",
+    "url": "https://thridy.com/i/dicons/eye-speech-bubble-5f51be5e.webp"
   },
   {
     "id": 22,
     "word": "умедворам",
     "sam_dialect": "умед мукунам",
     "translation": "надеюсь",
+    "translations": {
+      "ru": "надеюсь",
+      "fa": "امیدوارم",
+      "en": "I hope",
+      "he": "אני מקווה",
+      "it": "spero",
+      "uz": "umid qilaman"
+    },
     "transcription": "umedvoram",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "greetings",
     "example": "Умедворам, боз мебинем.",
-    "exampleTranslation": "Надеюсь, увидимся снова."
-        ,"url":"https://thridy.com/i/dicons/fingers-crossed.webp"
-
+    "exampleTranslation": "Надеюсь, увидимся снова.",
+    "url": "https://thridy.com/i/dicons/fingers-crossed.webp"
   },
   {
     "id": 23,
     "word": "мебинем",
     "sam_dialect": "мебинем",
     "translation": "увидимся",
+    "translations": {
+      "ru": "увидимся",
+      "fa": "همدیگر را می‌بینیم",
+      "en": "see you",
+      "he": "נתראה",
+      "it": "ci vediamo",
+      "uz": "ko'rishamiz"
+    },
     "transcription": "mebinem",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "greetings",
     "example": "То боздид, боз мебинем!",
-    "exampleTranslation": "До свидания, увидимся снова!"
-        ,"url":"https://thridy.com/i/dicons/pinky-promise.webp"
-
+    "exampleTranslation": "До свидания, увидимся снова!",
+    "url": "https://thridy.com/i/dicons/pinky-promise.webp"
   },
   {
     "id": 24,
     "word": "саломат бошед",
     "sam_dialect": "саломат бошед",
     "translation": "будьте здоровы",
+    "translations": {
+      "ru": "будьте здоровы",
+      "fa": "سلامت باشید",
+      "en": "take care",
+      "he": "היו בריאים",
+      "it": "state bene",
+      "uz": "sog' bo'ling"
+    },
     "transcription": "salomat boshed",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Хайр, саломат бошед!",
-    "exampleTranslation": "Пока, будьте здоровы!"    ,"url":"https://thridy.com/i/dicons/cough-b6da76a2.webp"
-
+    "exampleTranslation": "Пока, будьте здоровы!",
+    "url": "https://thridy.com/i/dicons/cough-b6da76a2.webp"
   },
   {
     "id": 25,
     "word": "саломат бошӣ",
     "sam_dialect": "саломат бош",
     "translation": "будь здоров",
+    "translations": {
+      "ru": "будь здоров",
+      "fa": "سلامت باش",
+      "en": "take care",
+      "he": "היה בריא",
+      "it": "stai bene",
+      "uz": "sog' bo'l"
+    },
     "transcription": "salomat boshi",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Хайр, саломат бошӣ!",
-    "exampleTranslation": "Пока, будь здоров!"
-        ,"url":"https://images.openai.com/static-rsc-4/hyYVwtSE6FqXfgCPXKahlYT01GJaL_dYOa8PR-c6BmC55Yu0UPFPc74sRISqIkr_TtTmC9NWCMEcXtIaEDvw3hPQrj6UMpW-3H3ADBPSouvuq94Ia5oi_amFRvqupfsOMgoMGN6NW_48cr-re2HbdUcF0geQUBxRF7UfLR4o5-uhiMQvbKEvRs9T7cEcI4nO?purpose=fullsize"
-
+    "exampleTranslation": "Пока, будь здоров!",
+    "url": "https://images.openai.com/static-rsc-4/hyYVwtSE6FqXfgCPXKahlYT01GJaL_dYOa8PR-c6BmC55Yu0UPFPc74sRISqIkr_TtTmC9NWCMEcXtIaEDvw3hPQrj6UMpW-3H3ADBPSouvuq94Ia5oi_amFRvqupfsOMgoMGN6NW_48cr-re2HbdUcF0geQUBxRF7UfLR4o5-uhiMQvbKEvRs9T7cEcI4nO?purpose=fullsize"
   },
   {
     "id": 26,
     "word": "рӯзатон ба хайр",
     "sam_dialect": "рӯзтон ба хайр",
     "translation": "хорошего вам дня",
+    "translations": {
+      "ru": "хорошего вам дня",
+      "fa": "روز خوبی داشته باشید",
+      "en": "have a good day",
+      "he": "שיהיה לכם יום טוב",
+      "it": "buona giornata",
+      "uz": "kuningiz xayrli o'tsin"
+    },
     "transcription": "ruzaton ba khayr",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Хайр, рӯзатон ба хайр!",
-    "exampleTranslation": "До свидания, хорошего вам дня!"
-        ,"url":"https://images.openai.com/static-rsc-4/d_Ltx_AzvUqyxlehB05PlRQRz08VzH8B-0mH-gOXtpZEf30PyHRqZYLkFMLJ7J9C701zsySp2ZMbVJWgOjm61BmsV1E5163ZAr_ySkx-Z96spYWl4RVHB-nxlvRBAUL4Ii0EsY8wIkhdU1Z4PdBFbeQEPDJ-58AoFXq_ax2BFI8Q8KVP8vlMkZ7BK6or3T8m?purpose=fullsize"
-
+    "exampleTranslation": "До свидания, хорошего вам дня!",
+    "url": "https://images.openai.com/static-rsc-4/d_Ltx_AzvUqyxlehB05PlRQRz08VzH8B-0mH-gOXtpZEf30PyHRqZYLkFMLJ7J9C701zsySp2ZMbVJWgOjm61BmsV1E5163ZAr_ySkx-Z96spYWl4RVHB-nxlvRBAUL4Ii0EsY8wIkhdU1Z4PdBFbeQEPDJ-58AoFXq_ax2BFI8Q8KVP8vlMkZ7BK6or3T8m?purpose=fullsize"
   },
   {
     "id": 27,
     "word": "шаби хуш",
     "sam_dialect": "шаби хуш",
     "translation": "доброй ночи",
+    "translations": {
+      "ru": "доброй ночи",
+      "fa": "شب بخیر",
+      "en": "good night",
+      "he": "לילה טוב",
+      "it": "buonanotte",
+      "uz": "xayrli tun"
+    },
     "transcription": "shabi khush",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Шаби хуш, дӯстам!",
-    "exampleTranslation": "Доброй ночи, мой друг!"
-        ,"url":"https://thridy.com/i/dicons/crescent-moon-5de2c3a9.webp"
-
+    "exampleTranslation": "Доброй ночи, мой друг!",
+    "url": "https://thridy.com/i/dicons/crescent-moon-5de2c3a9.webp"
   },
   {
     "id": 28,
     "word": "то дидор",
     "sam_dialect": "то дидана",
     "translation": "до встречи",
+    "translations": {
+      "ru": "до встречи",
+      "fa": "تا دیدار بعد",
+      "en": "see you",
+      "he": "להתראות",
+      "it": "arrivederci",
+      "uz": "ko'rishguncha"
+    },
     "transcription": "to didor",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Хайр, то дидор!",
-    "exampleTranslation": "Пока, до встречи!"    ,"url":"https://images.openai.com/static-rsc-4/7xiU2sP1UoS57FYgILpP_qBCeRZU_EpOQ4lCgm5gmQyyCU5xhtOIYRYape-J93HT5ESx3TRlpeZQu8-xcJN5-EkI-o_SMuP_Ukob_5hzU_rRs4-mIzdM1XmgdUg1SLEvTX7es1VBjelm6G398tLF89SHbDQ6EB4l9Op5zHgI_-JylcmUmoDsClAXmEjdYB-2?purpose=fullsize"
-
+    "exampleTranslation": "Пока, до встречи!",
+    "url": "https://images.openai.com/static-rsc-4/7xiU2sP1UoS57FYgILpP_qBCeRZU_EpOQ4lCgm5gmQyyCU5xhtOIYRYape-J93HT5ESx3TRlpeZQu8-xcJN5-EkI-o_SMuP_Ukob_5hzU_rRs4-mIzdM1XmgdUg1SLEvTX7es1VBjelm6G398tLF89SHbDQ6EB4l9Op5zHgI_-JylcmUmoDsClAXmEjdYB-2?purpose=fullsize"
   },
-{
-  "id": 29,
-  "word": "нури дида, тоҷи сар",
-  "sam_dialect": "нури дида, тоҷи сар",
-  "translation": "свет очей, корона головы",
-  "transcription": "nuri dida, toji sar",
-  "partOfSpeech": "phrase",
-  "level": "A1",
-  "category": "greetings",
-  "example": "Ту нури дидаву тоҷи сари ман ҳастӣ!",
-  "exampleTranslation": "Ты свет моих очей и венец моей головы!",
-  "url": "https://thridy.com/i/dicons/crown-d0b46dc8.webp"
-} ,
+  {
+    "id": 29,
+    "word": "нури дида, тоҷи сар",
+    "sam_dialect": "нури дида, тоҷи сар",
+    "translation": "свет очей, корона головы",
+    "translations": {
+      "ru": "свет очей, венец головы",
+      "fa": "نور چشم، تاج سر",
+      "en": "light of my eyes, crown of my head",
+      "he": "אור עיניי, כתר ראשי",
+      "it": "luce dei miei occhi, corona della mia testa",
+      "uz": "ko'zimning nuri, boshimning toji"
+    },
+    "transcription": "nuri dida, toji sar",
+    "partOfSpeech": "phrase",
+    "level": "A1",
+    "category": "greetings",
+    "example": "Ту нури дидаву тоҷи сари ман ҳастӣ!",
+    "exampleTranslation": "Ты свет моих очей и венец моей головы!",
+    "url": "https://thridy.com/i/dicons/crown-d0b46dc8.webp"
+  },
   {
     "id": 30,
     "word": "рӯзатон хуш",
     "sam_dialect": "рӯзтон хуш",
     "translation": "хорошего вам дня",
+    "translations": {
+      "ru": "хорошего вам дня",
+      "fa": "روز خوشی داشته باشید",
+      "en": "have a nice day",
+      "he": "שיהיה לכם יום טוב",
+      "it": "buona giornata",
+      "uz": "kuningiz xayrli o'tsin"
+    },
     "transcription": "ruzaton khush",
     "partOfSpeech": "phrase",
     "level": "A1",
     "category": "greetings",
     "example": "Рӯзатон хуш бошад!",
-    "exampleTranslation": "Хорошего вам дня!"    ,"url":"https://images.openai.com/static-rsc-4/_J2JK_eY5d88U__HsrNz4VRcKa8XxEKjRNODR1DW_NgbJ01yXJfv4im2e27wOIxcw2LIszMlQyu2PvYk2c1gWeP1HZVFen31QnPdZ1_nrf5fgu_YQX2fbOoTgzwqOwWy0_ZelDebsxS2iuDTIscRYm0hgEaGUqggPER4SVSq6NerXgbhzJIBk8NqBfHp9Llr?purpose=fullsize"
+    "exampleTranslation": "Хорошего вам дня!",
+    "url": "https://images.openai.com/static-rsc-4/_J2JK_e5d88U__HsrNz4VRcKa8XxEKjRNODR1DW_NgbJ01yXJfv4im2e27wOIxcw2LIszMlQyu2PvYk2c1gWeP1HZVFen31QnPdZ1_nrf5fgu_YQX2fbOoTgzwqOwWy0_ZelDebsxS2iuDTIscRYm0hgEaGUqggPER4SVSq6NerXgbhzJIB8k8NqBfHp9Llr?purpose=fullsize"
+  } ,
 
-  },
 
-
-   {
+  {
     "id": 201,
     "word": "сифр",
     "sam_dialect": "сифр",
     "translation": "ноль",
+    "translations": {
+      "ru": "ноль",
+      "fa": "صفر",
+      "en": "zero",
+      "he": "אפס",
+      "it": "zero",
+      "uz": "nol"
+    },
     "transcription": "sifr",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Сифр аз як кам аст.",
-    "exampleTranslation": "Ноль меньше единицы."    ,"url":"https://thridy.com/i/dicons/zero.webp"
-
+    "exampleTranslation": "Ноль меньше единицы.",
+    "url": "https://thridy.com/i/dicons/zero.webp"
   },
   {
     "id": 202,
     "word": "як",
     "sam_dialect": "як",
     "translation": "один",
+    "translations": {
+      "ru": "один",
+      "fa": "یک",
+      "en": "one",
+      "he": "אחד",
+      "it": "uno",
+      "uz": "bir"
+    },
     "transcription": "yak",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман як китоб дорам.",
-    "exampleTranslation": "У меня есть одна книга."    ,"url":"https://thridy.com/i/dicons/number-one-10e6a1d8.webp"
-
+    "exampleTranslation": "У меня есть одна книга.",
+    "url": "https://thridy.com/i/dicons/number-one-10e6a1d8.webp"
   },
   {
     "id": 203,
     "word": "ду",
     "sam_dialect": "ду",
     "translation": "два",
+    "translations": {
+      "ru": "два",
+      "fa": "دو",
+      "en": "two",
+      "he": "שניים",
+      "it": "due",
+      "uz": "ikki"
+    },
     "transcription": "du",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман ду бародар дорам.",
-    "exampleTranslation": "У меня два брата."    ,"url":"https://thridy.com/i/dicons/number-two.webp"
-
+    "exampleTranslation": "У меня два брата.",
+    "url": "https://thridy.com/i/dicons/number-two.webp"
   },
   {
     "id": 204,
     "word": "се",
     "sam_dialect": "се",
     "translation": "три",
+    "translations": {
+      "ru": "три",
+      "fa": "سه",
+      "en": "three",
+      "he": "שלושה",
+      "it": "tre",
+      "uz": "uch"
+    },
     "transcription": "se",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Дар хона се ҳуҷра ҳаст.",
-    "exampleTranslation": "В доме три комнаты."    ,"url":"https://thridy.com/i/dicons/number-three.webp"
-
+    "exampleTranslation": "В доме три комнаты.",
+    "url": "https://thridy.com/i/dicons/number-three.webp"
   },
   {
     "id": 205,
     "word": "чор",
     "sam_dialect": "чор",
     "translation": "четыре",
+    "translations": {
+      "ru": "четыре",
+      "fa": "چهار",
+      "en": "four",
+      "he": "ארבעה",
+      "it": "quattro",
+      "uz": "to'rt"
+    },
     "transcription": "chor",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман чор қалам дорам.",
-    "exampleTranslation": "У меня четыре ручки."    ,"url":"https://thridy.com/i/dicons/number-4.webp"
-
+    "exampleTranslation": "У меня четыре ручки.",
+    "url": "https://thridy.com/i/dicons/number-4.webp"
   },
   {
     "id": 206,
     "word": "панҷ",
     "sam_dialect": "панҷ",
     "translation": "пять",
+    "translations": {
+      "ru": "пять",
+      "fa": "پنج",
+      "en": "five",
+      "he": "חמישה",
+      "it": "cinque",
+      "uz": "besh"
+    },
     "transcription": "panj",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Панҷ китоб рӯйи миз аст.",
-    "exampleTranslation": "На столе пять книг."    ,"url":"https://thridy.com/i/dicons/number-five.webp"
-
+    "exampleTranslation": "На столе пять книг.",
+    "url": "https://thridy.com/i/dicons/number-five.webp"
   },
   {
     "id": 207,
     "word": "шаш",
     "sam_dialect": "шиш",
     "translation": "шесть",
+    "translations": {
+      "ru": "шесть",
+      "fa": "شش",
+      "en": "six",
+      "he": "שישה",
+      "it": "sei",
+      "uz": "olti"
+    },
     "transcription": "shash",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Соат шаш шуд.",
-    "exampleTranslation": "Стало шесть часов."    ,"url":"https://thridy.com/i/dicons/number-6.webp"
-
+    "exampleTranslation": "Стало шесть часов.",
+    "url": "https://thridy.com/i/dicons/number-6.webp"
   },
   {
     "id": 208,
     "word": "ҳафт",
     "sam_dialect": "ҳафт",
     "translation": "семь",
+    "translations": {
+      "ru": "семь",
+      "fa": "هفت",
+      "en": "seven",
+      "he": "שבעה",
+      "it": "sette",
+      "uz": "yetti"
+    },
     "transcription": "haft",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Як ҳафта ҳафт рӯз дорад.",
-    "exampleTranslation": "В одной неделе семь дней."    ,"url":"https://thridy.com/i/dicons/number-seven.webp"
-
+    "exampleTranslation": "В одной неделе семь дней.",
+    "url": "https://thridy.com/i/dicons/number-seven.webp"
   },
   {
     "id": 209,
     "word": "ҳашт",
     "sam_dialect": "ҳашт",
     "translation": "восемь",
+    "translations": {
+      "ru": "восемь",
+      "fa": "هشت",
+      "en": "eight",
+      "he": "שמונה",
+      "it": "otto",
+      "uz": "sakkiz"
+    },
     "transcription": "hasht",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман ҳашт сол дорам.",
-    "exampleTranslation": "Мне восемь лет."    ,"url":"https://thridy.com/i/dicons/number-eight.webp"
-
+    "exampleTranslation": "Мне восемь лет.",
+    "url": "https://thridy.com/i/dicons/number-eight.webp"
   },
   {
     "id": 210,
     "word": "нуҳ",
     "sam_dialect": "нуҳ",
     "translation": "девять",
+    "translations": {
+      "ru": "девять",
+      "fa": "نه",
+      "en": "nine",
+      "he": "תשעה",
+      "it": "nove",
+      "uz": "to'qqiz"
+    },
     "transcription": "nuh",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Дар синф нуҳ хонанда ҳаст.",
-    "exampleTranslation": "В классе девять учеников."    ,"url":"https://thridy.com/i/dicons/number-nine.webp"
-
+    "exampleTranslation": "В классе девять учеников.",
+    "url": "https://thridy.com/i/dicons/number-nine.webp"
   },
   {
     "id": 211,
     "word": "даҳ",
     "sam_dialect": "даҳ",
     "translation": "десять",
+    "translations": {
+      "ru": "десять",
+      "fa": "ده",
+      "en": "ten",
+      "he": "עשרה",
+      "it": "dieci",
+      "uz": "o'n"
+    },
     "transcription": "dah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман даҳ сомонӣ дорам.",
-    "exampleTranslation": "У меня десять сомони."    ,"url":"https://thridy.com/i/dicons/number-10-11b18883.webp"
-
+    "exampleTranslation": "У меня десять сомони.",
+    "url": "https://thridy.com/i/dicons/number-10-11b18883.webp"
   },
   {
     "id": 212,
     "word": "ёздаҳ",
     "sam_dialect": "ёздаҳ",
     "translation": "одиннадцать",
+    "translations": {
+      "ru": "одиннадцать",
+      "fa": "یازده",
+      "en": "eleven",
+      "he": "אחד עשר",
+      "it": "undici",
+      "uz": "o'n bir"
+    },
     "transcription": "yozdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Соат ёздаҳ аст.",
-    "exampleTranslation": "Сейчас одиннадцать часов."    ,"url":"https://images.openai.com/static-rsc-4/6qmrOANAb3MyulKOZ0HYD5ViXcL80u3363Y9ckNkH-vejYNOUAEhTum8czPT7XhRBktv2WuLUyi6gx9YDw2_-pjfTszDQjRECzN3e3G2I4hTrIGruX1NSfSp2QcA2BiAU89AQ_M48RfZ-PRHXyKXVj24hfpU1PAasyJIRFQ-A82PtAagbqLU9URMK39xbcUn?purpose=fullsize"
-
+    "exampleTranslation": "Сейчас одиннадцать часов.",
+    "url": "https://images.openai.com/static-rsc-4/6qmrOANAb3MyulKOZ0HYD5ViXcL80u3363Y9ckNkH-vejYNOUAEhTum8czPT7XhRBktv2WuLUyi6gx9YDw2_-pjfTszDQjRECzN3e3G2I4hTrIGruX1NSfSp2QcA2BiAU89AQ_M48RfZ-PRHXyKXVj24hfpU1PAasyJIRFQ-A82PtAagbqLU9URMK39xbcUn?purpose=fullsize"
   },
   {
     "id": 213,
     "word": "дувоздаҳ",
     "sam_dialect": "дувоздаҳ",
     "translation": "двенадцать",
+    "translations": {
+      "ru": "двенадцать",
+      "fa": "دوازده",
+      "en": "twelve",
+      "he": "שנים עשר",
+      "it": "dodici",
+      "uz": "o'n ikki"
+    },
     "transcription": "duvozdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман дувоздаҳ сол дорам.",
-    "exampleTranslation": "Мне двенадцать лет."    ,"url":"https://images.openai.com/static-rsc-4/hacfVCMqcZrCTPIHsmR-1k6ScSjr2NQGlDqmjknT9IpA3ULVgYhjiIJt2LUAHyXRvrf_nwztKT7ljLfY-NkamSjRGKjrZ_2nk35CtoBk4xo_6Y7RtbEVnIx4BIoiSDIiYKkWQHDQ8A-lt1JdMhImSn0qTzhgF8HGrrw47HmkElu0OIJdWum9Ir23Xh4tV8Ju?purpose=fullsize"
-
+    "exampleTranslation": "Мне двенадцать лет.",
+    "url": "https://images.openai.com/static-rsc-4/hacfVCMqcZrCTPIHsmR-1k6ScSjr2NQGlDqmjknT9IpA3ULVgYhjiIJt2LUAHyXRvrf_nwztKT7ljLfY-NkamSjRGKjrZ_2nk35CtoBk4xo_6Y7RtbEVnIx4BIoiSDIiYKkWQHDQ8A-lt1JdMhImSn0qTzhgF8HGrrw47HmkElu0OIJdWum9Ir23Xh4tV8Ju?purpose=fullsize"
   },
   {
     "id": 214,
     "word": "сездаҳ",
     "sam_dialect": "сездаҳ",
     "translation": "тринадцать",
+    "translations": {
+      "ru": "тринадцать",
+      "fa": "سیزده",
+      "en": "thirteen",
+      "he": "שלושה עשר",
+      "it": "tredici",
+      "uz": "o'n uch"
+    },
     "transcription": "sezdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Дар гурӯҳ сездаҳ нафар ҳаст.",
-    "exampleTranslation": "В группе тринадцать человек."    ,"url":"https://images.openai.com/static-rsc-4/J-_trqrB91-6rqflfX2c3BJxcgoE4seuINRDLXJxq_R58WpnETLDldTPDKnoA28ToCSueDAD-Y1PXpOdfQTRLpQ6Vs_DwxRaJ-qW2dH4XpFAHyorrv-UpXiX1I31Jj_YmuvvnCdFCi2RgjtOsPkOSjSdpj7Ovss4ocVlsX9kA9D-DatE-QqN33Sqr7M3DcS6?purpose=fullsize"
-
+    "exampleTranslation": "В группе тринадцать человек.",
+    "url": "https://images.openai.com/static-rsc-4/J-_trqrB91-6rqflfX2c3BJxcgoE4seuINRDLXJxq_R58WpnETLDldTPDKnoA28ToCSueDAD-Y1PXpOdfQTRLpQ6Vs_DwxRaJ-qW2dH4XpFAHyorrv-UpXiX1I31Jj_YmuvvnCdFCi2RgjtOsPkOSjSdpj7Ovss4ocVlsX9kA9D-DatE-QqN33Sqr7M3DcS6?purpose=fullsize"
   },
   {
     "id": 215,
     "word": "чордаҳ",
     "sam_dialect": "чордаҳ",
     "translation": "четырнадцать",
+    "translations": {
+      "ru": "четырнадцать",
+      "fa": "چهارده",
+      "en": "fourteen",
+      "he": "ארבעה עשר",
+      "it": "quattordici",
+      "uz": "o'n to'rt"
+    },
     "transcription": "chordah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Чордаҳ рӯз ду ҳафта аст.",
-    "exampleTranslation": "Четырнадцать дней — это две недели."    ,"url":"https://images.openai.com/static-rsc-4/dafEH0Td1kc2kNZyM22eVBUkS7ANg5GE5VVlSFY6H7e9YtVdhuJ0DPjFTlhzBVXBCwgzRcxXEetbaJaSm_n7jMWlUg3O0fWmGApxTV4FCNwgX5RRnMiNolE8Jx7gpSM5cAD-NHNDHJH8_lJxq_W_gEuvYCcwnVB4nC7HbOoDTgVSjsycmqa0rEAgaMJQ72fY?purpose=fullsize"
-
+    "exampleTranslation": "Четырнадцать дней — это две недели.",
+    "url": "https://images.openai.com/static-rsc-4/dafEH0Td1kc2kNZyM22eVBUkS7ANg5GE5VVlSFY6H7e9YtVdhuJ0DPjFTlhzBVXBCwgzRcxXEetbaJaSm_n7jMWlUg3O0fWmGApxTV4FCNwgX5RRnMiNolE8Jx7gpSM5cAD-NHNDHJH8_lJxq_W_gEuvYCcwnVB4nC7HbOoDTgVSjsycmqa0rEAgaMJQ72fY?purpose=fullsize"
   },
   {
     "id": 216,
     "word": "понздаҳ",
     "sam_dialect": "понздаҳ",
     "translation": "пятнадцать",
+    "translations": {
+      "ru": "пятнадцать",
+      "fa": "پانزده",
+      "en": "fifteen",
+      "he": "חמישה עשר",
+      "it": "quindici",
+      "uz": "o'n besh"
+    },
     "transcription": "ponzdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман понздаҳ китоб дорам.",
-    "exampleTranslation": "У меня пятнадцать книг."    ,"url":"https://images.openai.com/static-rsc-4/OnOVAjhA-tsI7cEbzPptsOSGhRSg4RXn5AhBiOk8IlAZj_Ql0LjMvAd0cGhHgv9TEndAMhfJqQMmeHL7RjdZGPKXZkWs6Kw6nKLCfyj9FISYv4Tx8cEul-Cw7jx25l0x5s6SFHz6Xwj0svRF_OeveeO2MOWipg7WOGzxbS_UP-fhBr7CV5KpWsYy5RCXfoSP?purpose=fullsize"
-
+    "exampleTranslation": "У меня пятнадцать книг.",
+    "url": "https://images.openai.com/static-rsc-4/OnOVAjhA-tsI7cEbzPptsOSGhRSg4RXn5AhBiOk8IlAZj_Ql0LjMvAd0cGhHgv9TEndAMhfJqQMmeHL7RjdZGPKXZkWs6Kw6nKLCfyj9FISYv4Tx8cEul-Cw7jx25l0x5s6SFHz6Xwj0svRF_OeveeO2MOWipg7WOGzxbS_UP-fhBr7CV5KpWsYy5RCXfoSP?purpose=fullsize"
   },
   {
     "id": 217,
     "word": "шонздаҳ",
     "sam_dialect": "шонздаҳ",
     "translation": "шестнадцать",
+    "translations": {
+      "ru": "шестнадцать",
+      "fa": "شانزده",
+      "en": "sixteen",
+      "he": "שישה עשר",
+      "it": "sedici",
+      "uz": "o'n olti"
+    },
     "transcription": "shonzdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ӯ шонздаҳсола аст.",
-    "exampleTranslation": "Ему шестнадцать лет."    ,"url":"https://images.openai.com/static-rsc-4/Rd7BOpM7b0RtKIRk2Q_NoYuByilv4s2RX1onVqv515q6pimPQpFyob74k5X2VXAq8E4QVQzwbAayQ8ig9RfZt76YW-eOxQWN-NYqBBbnPjFlqQi6_YuADphF6p5jbGH1eAyGfUBbcJM356iFOQkrFjUxU2S2fbR5DMJWzr5BPgCsH35xnl0peuGZv4hEIbcI?purpose=fullsize"
-
+    "exampleTranslation": "Ему шестнадцать лет.",
+    "url": "https://images.openai.com/static-rsc-4/Rd7BOpM7b0RtKIRk2Q_NoYuByilv4s2RX1onVqv515q6pimPQpFyob74k5X2VXAq8E4QVQzwbAayQ8ig9RfZt76YW-eOxQWN-NYqBBbnPjFlqQi6_YuADphF6p5jbGH1eAyGfUBbcJM356iFOQkrFjUxU2S2fbR5DMJWzr5BPgCsH35xnl0peuGZv4hEIbcI?purpose=fullsize"
   },
   {
     "id": 218,
     "word": "ҳабдаҳ",
     "sam_dialect": "ҳабдаҳ",
     "translation": "семнадцать",
+    "translations": {
+      "ru": "семнадцать",
+      "fa": "هفده",
+      "en": "seventeen",
+      "he": "שבעה עשר",
+      "it": "diciassette",
+      "uz": "o'n yetti"
+    },
     "transcription": "habdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ӯ ҳабдаҳ сол дорад.",
-    "exampleTranslation": "Ему семнадцать лет."    ,"url":"https://images.openai.com/static-rsc-4/zJWEe0V9itL1C_Dxay42kbnJdXFWjlAlst1kyrXe48NxqVFxclC_6FAiB5b-awc09JU96t0I_chKNHzgEXu21_so6MzHf-vVxc2mRcL8-eQMGPi5H3EoTAF5Irdgwepo8tEk4SF415_xV9G-ByDREW5nHqVc7EzWTTa5oKJBStMCtirtYqpGDcxbTqSPjtpm?purpose=fullsize"
-
+    "exampleTranslation": "Ему семнадцать лет.",
+    "url": "https://images.openai.com/static-rsc-4/zJWEe0V9itL1C_Dxay42kbnJdXFWjlAlst1kyrXe48NxqVFxclC_6FAiB5b-awc09JU96t0I_chKNHzgEXu21_so6MzHf-vVxc2mRcL8-eQMGPi5H3EoTAF5Irdgwepo8tEk4SF415_xV9G-ByDREW5nHqVc7EzWTTa5oKJBStMCtirtYqpGDcxbTqSPjtpm?purpose=fullsize"
   },
   {
     "id": 219,
     "word": "ҳаждаҳ",
     "sam_dialect": "ҳаждаҳ",
     "translation": "восемнадцать",
+    "translations": {
+      "ru": "восемнадцать",
+      "fa": "هجده",
+      "en": "eighteen",
+      "he": "שמונה עשר",
+      "it": "diciotto",
+      "uz": "o'n sakkiz"
+    },
     "transcription": "hajdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ӯ ҳаждаҳсола аст.",
-    "exampleTranslation": "Ему восемнадцать лет."    ,"url":"https://images.openai.com/static-rsc-4/euknOMKqhdHfyrXL7QXtSQhtrsk_kYghhJRv3NoFgvviIoS2eBZCfyLISuAXk5VZiTFXd0_4uRxPPmy8gWuYaK8LfOhlSZOGyH1kWHUuZ2IWZiufV0J3xu66QtSSNLWk9ZVCH7NR_ZUEivJs-GN9z3b5cR1JZIsuwzLb9kArGPYUz2ZhbFWrUNwRIPNpJKpx?purpose=fullsize"
-
+    "exampleTranslation": "Ему восемнадцать лет.",
+    "url": "https://images.openai.com/static-rsc-4/euknOMKqhdHfyrXL7QXtSQhtrsk_kYghhJRv3NoFgvviIoS2eBZCfyLISuAXk5VZiTFXd0_4uRxPPmy8gWuYaK8LfOhlSZOGyH1kWHUuZ2IWZiufV0J3xu66QtSSNLWk9ZVCH7NR_ZUEivJs-GN9z3b5cR1JZIsuwzLb9kArGPYUz2ZhbFWrUNwRIPNpJKpx?purpose=fullsize"
   },
   {
     "id": 220,
     "word": "нуздаҳ",
     "sam_dialect": "нуздаҳ",
     "translation": "девятнадцать",
+    "translations": {
+      "ru": "девятнадцать",
+      "fa": "نوزده",
+      "en": "nineteen",
+      "he": "תשעה עשר",
+      "it": "diciannove",
+      "uz": "o'n to'qqiz"
+    },
     "transcription": "nuzdah",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Дар синф нуздаҳ хонанда ҳаст.",
-    "exampleTranslation": "В классе девятнадцать учеников."    ,"url":"https://images.openai.com/static-rsc-4/Byrkzk7oSY22Y0XAzi0SmAkemKyqIjyMEP_YFIUN_m5j-HkK43VOaQUuX1wopEaTI_ALJ4KBW8L6GDvoLo8leeGC07pjb_8nY6ikXo9yyzIMgn2eTf5wz5tgIKPUL4Rc_RZLEiZkJfNTI8zWcUhsifOfR7yhuA_KFx2wLbNWJDzHX3P8PDiIvmSXDRfJt84k?purpose=fullsize"
-
+    "exampleTranslation": "В классе девятнадцать учеников.",
+    "url": "https://images.openai.com/static-rsc-4/Byrkzk7oSY22Y0XAzi0SmAkemKyqIjyMEP_YFIUN_m5j-HkK43VOaQUuX1wopEaTI_ALJ4KBW8L6GDvoLo8leeGC07pjb_8nY6ikXo9yyzIMgn2eTf5wz5tgIKPUL4Rc_RZLEiZkJfNTI8zWcUhsifOfR7yhuA_KFx2wLbNWJDzHX3P8PDiIvmSXDRfJt84k?purpose=fullsize"
   },
   {
     "id": 221,
     "word": "бист",
     "sam_dialect": "бист",
     "translation": "двадцать",
+    "translations": {
+      "ru": "двадцать",
+      "fa": "بیست",
+      "en": "twenty",
+      "he": "עשרים",
+      "it": "venti",
+      "uz": "yigirma"
+    },
     "transcription": "bist",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ман бист сомонӣ дорам.",
-    "exampleTranslation": "У меня двадцать сомони."    ,"url":"https://images.openai.com/static-rsc-4/LVGt9Ut0eaMcG62X78Lelmf6WS1UpaCsjkoC7AoiwLkFnNEfYFQvrn2bdWK0LJDW26GioBkW3kHDKBVckp3cRtIpi-WflVHvi75cAG5_akkOO1Z4Cdh7xiZ6_r77wkfPwueTmEgLLUuZJLyAEZ8f5l6Xjlj9pRWVZ8HyEXCNaWvWtzMUoSx4YuXu0ksCUxlF?purpose=fullsize"
-
+    "exampleTranslation": "У меня двадцать сомони.",
+    "url": "https://images.openai.com/static-rsc-4/LVGt9Ut0eaMcG62X78Lelmf6WS1UpaCsjkoC7AoiwLkFnNEfYFQvrn2bdWK0LJDW26GioBkW3kHDKBVckp3cRtIpi-WflVHvi75cAG5_akkOO1Z4Cdh7xiZ6_r77wkfPwueTmEgLLUuZJLyAEZ8f5l6Xjlj9pRWVZ8HyEXCNaWvWtzMUoSx4YuXu0ksCUxlF?purpose=fullsize"
   },
   {
     "id": 222,
     "word": "сӣ",
     "sam_dialect": "сӣ",
     "translation": "тридцать",
+    "translations": {
+      "ru": "тридцать",
+      "fa": "سی",
+      "en": "thirty",
+      "he": "שלושים",
+      "it": "trenta",
+      "uz": "o'ttiz"
+    },
     "transcription": "si",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Дар синф сӣ хонанда ҳаст.",
-    "exampleTranslation": "В классе тридцать учеников."    ,"url":"https://images.openai.com/static-rsc-4/h_5cbSARnp7vQgMLatlSxF0aXsX_NTkktZwXsafr_o3_SAH_dHbUZY2MJnRaEsV4YVCEr9bJgys6qoxBmpiGBr2R3Cp4R9Cigm379UMBGgOUxYnhx7jl-FQKylBi1hqPQpBm-4X5MpN_yT8dbByynRg3V3RcSH3QpFmKg7VdGXfD5LDtKy7bocKfRR7-bKw1?purpose=fullsize"
-
+    "exampleTranslation": "В классе тридцать учеников.",
+    "url": "https://images.openai.com/static-rsc-4/h_5cbSARnp7vQgMLatlSxF0aXsX_NTkktZwXsafr_o3_SAH_dHbUZY2MJnRaEsV4YVCEr9bJgys6qoxBmpiGBr2R3Cp4R9Cigm379UMBGgOUxYnhx7jl-FQKylBi1hqPQpBm-4X5MpN_yT8dbByynRg3V3RcSH3QpFmKg7VdGXfD5LDtKy7bocKfRR7-bKw1?purpose=fullsize"
   },
   {
     "id": 223,
     "word": "чил",
     "sam_dialect": "чил",
     "translation": "сорок",
+    "translations": {
+      "ru": "сорок",
+      "fa": "چهل",
+      "en": "forty",
+      "he": "ארבעים",
+      "it": "quaranta",
+      "uz": "qirq"
+    },
     "transcription": "chil",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Чил дақиқа гузашт.",
-    "exampleTranslation": "Прошло сорок минут."    ,"url":"https://images.openai.com/static-rsc-4/ro5e2z3KeoDa4B4HF1vw2u8x2Bppsc5sVySqjrxSc_I6HCIr587f6XGIlsg9jnIkoawbGFbq0mmaTszxYj2pI8Hk3zpjSrJiDyW0zWxbaaYW7TRg2VVCe7xg-fHsyeD9DobJiahbyUBFQpO7Zm0Dr9c-YMMqhYmJf4fv8gKnGurHwkXdbvAIcSNBI7mJpZZY?purpose=fullsize"
-
+    "exampleTranslation": "Прошло сорок минут.",
+    "url": "https://images.openai.com/static-rsc-4/ro5e2z3KeoDa4B4HF1vw2u8x2Bppsc5sVySqjrxSc_I6HCIr587f6XGIlsg9jnIkoawbGFbq0mmaTszxYj2pI8Hk3zpjSrJiDyW0zWxbaaYW7TRg2VVCe7xg-fHsyeD9DobJiahbyUBFQpO7Zm0Dr9c-YMMqhYmJf4fv8gKnGurHwkXdbvAIcSNBI7mJpZZY?purpose=fullsize"
   },
   {
     "id": 224,
     "word": "панҷоҳ",
     "sam_dialect": "панҷоҳ",
     "translation": "пятьдесят",
+    "translations": {
+      "ru": "пятьдесят",
+      "fa": "پنجاه",
+      "en": "fifty",
+      "he": "חמישים",
+      "it": "cinquanta",
+      "uz": "ellik"
+    },
     "transcription": "panjoh",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Панҷоҳ сомонӣ лозим аст.",
-    "exampleTranslation": "Нужно пятьдесят сомони."    ,"url":"https://images.openai.com/static-rsc-4/P93nMQzNULoaoOHVm_Z3yUkXAjVSgH28R6kl43dEzbbyhV97EZUDK4zBbe_Q4x02SqC3RnnSMiFbeveVsq56tkBz0fTY-xQM1hQNsz75VsKZbswcIqTicJWIFsVf259S64gaK8OtXD74BAsGsSt10g3hW_kEz9zw1miq904Wcqn4wkB1TCWQWi4ZSBxGoFqm?purpose=fullsize"
-
+    "exampleTranslation": "Нужно пятьдесят сомони.",
+    "url": "https://images.openai.com/static-rsc-4/P93nMQzNULoaoOHVm_Z3yUkXAjVSgH28R6kl43dEzbbyhV97EZUDK4zBbe_Q4x02SqC3RnnSMiFbeveVsq56tkBz0fTY-xQM1hQNsz75VsKZbswcIqTicJWIFsVf259S64gaK8OtXD74BAsGsSt10g3hW_kEz9zw1miq904Wcqn4wkB1TCWQWi4ZSBxGoFqm?purpose=fullsize"
   },
   {
     "id": 225,
     "word": "шаст",
     "sam_dialect": "шаст",
     "translation": "шестьдесят",
+    "translations": {
+      "ru": "шестьдесят",
+      "fa": "شصت",
+      "en": "sixty",
+      "he": "שישים",
+      "it": "sessanta",
+      "uz": "oltmish"
+    },
     "transcription": "shast",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Шаст дақиқа як соат аст.",
-    "exampleTranslation": "Шестьдесят минут — это один час."    ,"url":"https://images.openai.com/static-rsc-4/OrwQFeiQQBk_eQnvR-84OeD0y37oVvjj6xqwjBtyPxZSFg72dqS0lI15dSbCENgqtzkpULTC9LyQiEK-ksTK_2GKjJJQM_eBurecBTydBZkSwiqSvbo9qDvgVtgQ-5GRh04exp6Z3MAwHaLnCUbpGt6KIEOfrlSebH9RDImfMJpFpv8Rhiku6xNRSNrysENE?purpose=fullsize"
-
+    "exampleTranslation": "Шестьдесят минут — это один час.",
+    "url": "https://images.openai.com/static-rsc-4/OrwQFeiQQBk_eQnvR-84OeD0y37oVvjj6xqwjBtyPxZSFg72dqS0lI15dSbCENgqtzkpULTC9LyQiEK-ksTK_2GKjJJQM_eBurecBTydBZkSwiqSvbo9qDvgVtgQ-5GRh04exp6Z3MAwHaLnCUbpGt6KIEOfrlSebH9RDImfMJpFpv8Rhiku6xNRSNrysENE?purpose=fullsize"
   },
   {
     "id": 226,
     "word": "ҳафтод",
     "sam_dialect": "ҳафтод",
     "translation": "семьдесят",
+    "translations": {
+      "ru": "семьдесят",
+      "fa": "هفتاد",
+      "en": "seventy",
+      "he": "שבעים",
+      "it": "settanta",
+      "uz": "yetmish"
+    },
     "transcription": "haftod",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ҳафтод нафар омаданд.",
-    "exampleTranslation": "Пришло семьдесят человек."    ,"url":"https://images.openai.com/static-rsc-4/YkVyEmmHp4HemlN4ufFgjCdtTSmQVY2blfvCJochm5llONwDG73rIxrU3h5H5HwSMhy_p419YLQDqT1ijQAsStQBASWRLWCVJrIO8QSjaZYH2HF-Zfi2YOlFJQNOFsU_lQK9SAv6I5ihcZH-4eZaGAGe43I2QQR6yqK4xtom0KC2dzysamgGuCJbvQpdKWXR?purpose=fullsize"
-
+    "exampleTranslation": "Пришло семьдесят человек.",
+    "url": "https://images.openai.com/static-rsc-4/YkVyEmmHp4HemlN4ufFgjCdtTSmQVY2blfvCJochm5llONwDG73rIxrU3h5H5HwSMhy_p419YLQDqT1ijQAsStQBASWRLWCVJrIO8QSjaZYH2HF-Zfi2YOlFJQNOFsU_lQK9SAv6I5ihcZH-4eZaGAGe43I2QQR6yqK4xtom0KC2dzysamgGuCJbvQpdKWXR?purpose=fullsize"
   },
   {
     "id": 227,
     "word": "ҳаштод",
     "sam_dialect": "ҳаштод",
     "translation": "восемьдесят",
+    "translations": {
+      "ru": "восемьдесят",
+      "fa": "هشتاد",
+      "en": "eighty",
+      "he": "שמונים",
+      "it": "ottanta",
+      "uz": "sakson"
+    },
     "transcription": "hashtod",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Ҳаштод нафар иштирок карданд.",
-    "exampleTranslation": "Участвовали восемьдесят человек."    ,"url":"https://images.openai.com/static-rsc-4/qFk3zMsVG9HYBubnAMoZyLbMeaeyZzw-m0G-3FsY2-sEwwVR1uDJvvnTEh9Q1ekbwhZBERmaMys9IVJ9x9Q6zqH8mJf-O-sh9MJFZeG6dC4PILWrbcOyjZQ9fWbjKbZfGkgM2OZTOq5iMuGWGGzdHEEesgaUVV_IEPRC5j3Z7aW8PQ8nHnLjHmVDIqKFE2eT?purpose=fullsize"
-
+    "exampleTranslation": "Участвовали восемьдесят человек.",
+    "url": "https://images.openai.com/static-rsc-4/qFk3zMsVG9HYBubnAMoZyLbMeaeyZzw-m0G-3FsY2-sEwwVR1uDJvvnTEh9Q1ekbwhZBERmaMys9IVJ9x9Q6zqH8mJf-O-sh9MJFZeG6dC4PILWrbcOyjZQ9fWbjKbZfGkgM2OZTOq5iMuGWGGzdHEEesgaUVV_IEPRC5j3Z7aW8PQ8nHnLjHmVDIqKFE2eT?purpose=fullsize"
   },
   {
     "id": 228,
     "word": "навад",
     "sam_dialect": "навад",
     "translation": "девяносто",
+    "translations": {
+      "ru": "девяносто",
+      "fa": "نود",
+      "en": "ninety",
+      "he": "תשעים",
+      "it": "novanta",
+      "uz": "to'qson"
+    },
     "transcription": "navad",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Навад нафар иштирок карданд.",
-    "exampleTranslation": "Участвовали девяносто человек."    ,"url":"https://images.openai.com/static-rsc-4/3h4G4JWcW9hffUinRIMGZLyntx0Xe_DaRmJWznlMgwhhoNzGnDgnoLVn_w8vmJsVy8W-yAdBvPyoXz6udW5r3OYRbQYtINCCJoFT--EYhXhxrqGa88qQ48qvHoiUwL4GJt7cadQdH6CwQCAUFVZlgr0UpmXRbE7RvCp5REVPNoeJJ4W0xB_L8BJHRZbHYgGz?purpose=fullsize"
-
+    "exampleTranslation": "Участвовали девяносто человек.",
+    "url": "https://images.openai.com/static-rsc-4/3h4G4JWcW9hffUinRIMGZLyntx0Xe_DaRmJWznlMgwhhoNzGnDgnoLVn_w8vmJsVy8W-yAdBvPyoXz6udW5r3OYRbQYtINCCJoFT--EYhXhxrqGa88qQ48qvHoiUwL4GJt7cadQdH6CwQCAUFVZlgr0UpmXRbE7RvCp5REVPNoeJJ4W0xB_L8BJHRZbHYgGz?purpose=fullsize"
   },
   {
     "id": 229,
     "word": "сад",
     "sam_dialect": "сад",
     "translation": "сто",
+    "translations": {
+      "ru": "сто",
+      "fa": "صد",
+      "en": "one hundred",
+      "he": "מאה",
+      "it": "cento",
+      "uz": "yuz"
+    },
     "transcription": "sad",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Дар китоб сад саҳифа ҳаст.",
-    "exampleTranslation": "В книге сто страниц."    ,"url":"https://thridy.com/i/dicons/100-points-844f84aa.webp"
-
+    "exampleTranslation": "В книге сто страниц.",
+    "url": "https://thridy.com/i/dicons/100-points-844f84aa.webp"
   },
   {
     "id": 230,
     "word": "дусад",
     "sam_dialect": "дусад",
-    "translation": "двесте",
+    "translation": "двести",
+    "translations": {
+      "ru": "двести",
+      "fa": "دویست",
+      "en": "two hundred",
+      "he": "מאתיים",
+      "it": "duecento",
+      "uz": "ikki yuz"
+    },
     "transcription": "dusad",
     "partOfSpeech": "numeral",
     "level": "A1",
     "category": "numbers",
     "example": "Дар китоб дусад саҳифа ҳаст.",
-    "exampleTranslation": "В книге двесте страниц."    ,"url":"https://images.openai.com/static-rsc-4/YUhKCMSoRadBhXqcJuMTmXFukLieY5TlXRmgjthFOGw7a4zO2BRkQxxtsf1ILcTZNVLDq1iXnVSOh6thrENo9nLGrI77tZ5cFBHtth6MjzIm8uyqcWNIz1ksq1YUhQWWr-wp0w-2MvyXFTWIdq_AgMpLJ-vTs1AMwC3kO8BUglD_G-3QbqmEClNpK3u6PXAM?purpose=fullsize"
-
-  },
+    "exampleTranslation": "В книге двести страниц.",
+    "url": "https://images.openai.com/static-rsc-4/YUhKCMSoRadBhXqcJuMTmXFukLieY5TlXRmgjthFOGw7a4zO2BRkQxxtsf1ILcTZNVLDq1iXnVSOh6thrENo9nLGrI77tZ5cFBHtth6MjzIm8uyqcWNIz1ksq1YUhQWWr-wp0w-2MvyXFTWIdq_AgMpLJ-vTs1AMwC3kO8BUglD_G-3QbqmEClNpK3u6PXAM?purpose=fullsize"
+  } ,
   {
     "id": 31,
     "word": "нон",
     "sam_dialect": "нон",
     "translation": "хлеб",
+    "translations": {
+      "ru": "хлеб",
+      "fa": "نان",
+      "en": "bread",
+      "he": "לחם",
+      "it": "pane",
+      "uz": "non"
+    },
     "transcription": "non",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман нон мехӯрам.",
-    "exampleTranslation": "Я ем хлеб."    ,"url":"https://thridy.com/i/dicons/white-bread-616abe61.webp"
-
+    "exampleTranslation": "Я ем хлеб.",
+    "url": "https://thridy.com/i/dicons/white-bread-616abe61.webp"
   },
   {
     "id": 32,
     "word": "об",
     "sam_dialect": "об",
     "translation": "вода",
+    "translations": {
+      "ru": "вода",
+      "fa": "آب",
+      "en": "water",
+      "he": "מים",
+      "it": "acqua",
+      "uz": "suv"
+    },
     "transcription": "ob",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман об менӯшам.",
-    "exampleTranslation": "Я пью воду."    ,"url":"https://thridy.com/i/dicons/water.webp"
-
+    "exampleTranslation": "Я пью воду.",
+    "url": "https://thridy.com/i/dicons/water.webp"
   },
   {
     "id": 33,
     "word": "шир",
     "sam_dialect": "шир",
     "translation": "молоко",
+    "translations": {
+      "ru": "молоко",
+      "fa": "شیر",
+      "en": "milk",
+      "he": "חלב",
+      "it": "latte",
+      "uz": "sut"
+    },
     "transcription": "shir",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман шир менӯшам.",
-    "exampleTranslation": "Я пью молоко."    ,"url":"https://thridy.com/i/dicons/milk-e6068c51.webp"
-
+    "exampleTranslation": "Я пью молоко.",
+    "url": "https://thridy.com/i/dicons/milk-e6068c51.webp"
   },
   {
     "id": 34,
     "word": "чой",
     "sam_dialect": "чой",
     "translation": "чай",
+    "translations": {
+      "ru": "чай",
+      "fa": "چای",
+      "en": "tea",
+      "he": "תה",
+      "it": "tè",
+      "uz": "choy"
+    },
     "transcription": "choy",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман чой менӯшам.",
-    "exampleTranslation": "Я пью чай."    ,"url":"https://thridy.com/i/dicons/tea.webp"
-
+    "exampleTranslation": "Я пью чай.",
+    "url": "https://thridy.com/i/dicons/tea.webp"
   },
   {
     "id": 35,
     "word": "гӯшт",
     "sam_dialect": "гӯшт",
     "translation": "мясо",
+    "translations": {
+      "ru": "мясо",
+      "fa": "گوشت",
+      "en": "meat",
+      "he": "בשר",
+      "it": "carne",
+      "uz": "go'sht"
+    },
     "transcription": "gusht",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Гӯшт болаззат аст.",
-    "exampleTranslation": "Мясо вкусное."    ,"url":"https://thridy.com/i/dicons/meat-2cc61da3.webp"
-
+    "exampleTranslation": "Мясо вкусное.",
+    "url": "https://thridy.com/i/dicons/meat-2cc61da3.webp"
   },
   {
     "id": 36,
     "word": "биринҷ",
     "sam_dialect": "биринҷ",
     "translation": "рис",
+    "translations": {
+      "ru": "рис",
+      "fa": "برنج",
+      "en": "rice",
+      "he": "אורז",
+      "it": "riso",
+      "uz": "guruch"
+    },
     "transcription": "birinj",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман биринҷ мехӯрам.",
-    "exampleTranslation": "Я ем рис."    ,"url":"https://thridy.com/i/dicons/bag-of-rice.webp"
-
+    "exampleTranslation": "Я ем рис.",
+    "url": "https://thridy.com/i/dicons/bag-of-rice.webp"
   },
   {
     "id": 37,
     "word": "шӯрбо",
     "sam_dialect": "шӯрбо",
     "translation": "суп",
+    "translations": {
+      "ru": "суп",
+      "fa": "سوپ",
+      "en": "soup",
+      "he": "מרק",
+      "it": "zuppa",
+      "uz": "sho'rva"
+    },
     "transcription": "shurbo",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Шӯрбо гарм аст.",
-    "exampleTranslation": "Суп горячий."    ,"url":"https://thridy.com/i/dicons/soup.webp"
-
+    "exampleTranslation": "Суп горячий.",
+    "url": "https://thridy.com/i/dicons/soup.webp"
   },
   {
     "id": 38,
     "word": "себ",
     "sam_dialect": "себ",
     "translation": "яблоко",
+    "translations": {
+      "ru": "яблоко",
+      "fa": "سیب",
+      "en": "apple",
+      "he": "תפוח",
+      "it": "mela",
+      "uz": "olma"
+    },
     "transcription": "seb",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Себ ширин аст.",
-    "exampleTranslation": "Яблоко сладкое."    ,"url":"https://thridy.com/i/dicons/honeycrisp-apple-c17e3ed5.webp"
-
+    "exampleTranslation": "Яблоко сладкое.",
+    "url": "https://thridy.com/i/dicons/honeycrisp-apple-c17e3ed5.webp"
   },
   {
     "id": 39,
     "word": "ангур",
     "sam_dialect": "ангур",
     "translation": "виноград",
+    "translations": {
+      "ru": "виноград",
+      "fa": "انگور",
+      "en": "grapes",
+      "he": "ענבים",
+      "it": "uva",
+      "uz": "uzum"
+    },
     "transcription": "angur",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ангур ширин аст.",
-    "exampleTranslation": "Виноград сладкий."    ,"url":"https://thridy.com/i/dicons/grape-f2a2d919.webp"
-
+    "exampleTranslation": "Виноград сладкий.",
+    "url": "https://thridy.com/i/dicons/grape-f2a2d919.webp"
   },
   {
     "id": 40,
     "word": "шафтолу",
     "sam_dialect": "шофтолу",
     "translation": "персик",
+    "translations": {
+      "ru": "персик",
+      "fa": "هلو",
+      "en": "peach",
+      "he": "אפרסק",
+      "it": "pesca",
+      "uz": "shaftoli"
+    },
     "transcription": "shaftolu",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Шафтолу болаззат аст.",
-    "exampleTranslation": "Персик вкусный."    ,"url":"https://thridy.com/i/dicons/peach-e1d08176.webp"
-
+    "exampleTranslation": "Персик вкусный.",
+    "url": "https://thridy.com/i/dicons/peach-e1d08176.webp"
   },
   {
     "id": 41,
     "word": "нок",
     "sam_dialect": "мурёт",
     "translation": "груша",
+    "translations": {
+      "ru": "груша",
+      "fa": "گلابی",
+      "en": "pear",
+      "he": "אגס",
+      "it": "pera",
+      "uz": "nok"
+    },
     "transcription": "nok",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Нок ширин аст.",
-    "exampleTranslation": "Груша сладкая."    ,"url":"https://thridy.com/i/dicons/pear-82f6a841.webp"
-
+    "exampleTranslation": "Груша сладкая.",
+    "url": "https://thridy.com/i/dicons/pear-82f6a841.webp"
   },
   {
     "id": 42,
     "word": "тарбуз",
     "sam_dialect": "тарбуз",
     "translation": "арбуз",
+    "translations": {
+      "ru": "арбуз",
+      "fa": "هندوانه",
+      "en": "watermelon",
+      "he": "אבטיח",
+      "it": "anguria",
+      "uz": "tarvuz"
+    },
     "transcription": "tarbuz",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Тарбуз калон аст.",
-    "exampleTranslation": "Арбуз большой."    ,"url":"https://thridy.com/i/dicons/watermelon-8fbb115a.webp"
-
+    "exampleTranslation": "Арбуз большой.",
+    "url": "https://thridy.com/i/dicons/watermelon-8fbb115a.webp"
   },
   {
     "id": 43,
     "word": "харбуза",
     "sam_dialect": "харбуза",
     "translation": "дыня",
+    "translations": {
+      "ru": "дыня",
+      "fa": "خربزه",
+      "en": "melon",
+      "he": "מלון",
+      "it": "melone",
+      "uz": "qovun"
+    },
     "transcription": "kharbuza",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Харбуза хеле ширин аст.",
-    "exampleTranslation": "Дыня очень сладкая."    ,"url":"https://thridy.com/i/dicons/cantaloupe-f3e56a90.webp"
-
+    "exampleTranslation": "Дыня очень сладкая.",
+    "url": "https://thridy.com/i/dicons/cantaloupe-f3e56a90.webp"
   },
   {
     "id": 44,
     "word": "картошка",
     "sam_dialect": "картошка",
     "translation": "картофель",
+    "translations": {
+      "ru": "картофель",
+      "fa": "سیب‌زمینی",
+      "en": "potato",
+      "he": "תפוח אדמה",
+      "it": "patata",
+      "uz": "kartoshka"
+    },
     "transcription": "kartoshka",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман картошка мехӯрам.",
-    "exampleTranslation": "Я ем картофель."    ,"url":"https://thridy.com/i/dicons/baby-potato-d3f51fd8.webp"
-
+    "exampleTranslation": "Я ем картофель.",
+    "url": "https://thridy.com/i/dicons/baby-potato-d3f51fd8.webp"
   },
   {
     "id": 45,
     "word": "пиёз",
     "sam_dialect": "пиёз",
     "translation": "лук",
+    "translations": {
+      "ru": "лук",
+      "fa": "پیاز",
+      "en": "onion",
+      "he": "בצל",
+      "it": "cipolla",
+      "uz": "piyoz"
+    },
     "transcription": "piyoz",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Пиёз дар хӯрок аст.",
-    "exampleTranslation": "Лук в еде."    ,"url":"https://thridy.com/i/dicons/onion-5d3f53ba.webp"
-
+    "exampleTranslation": "Лук в еде.",
+    "url": "https://thridy.com/i/dicons/onion-5d3f53ba.webp"
   },
   {
     "id": 46,
     "word": "сабзӣ",
     "sam_dialect": "сабзӣ",
     "translation": "морковь",
+    "translations": {
+      "ru": "морковь",
+      "fa": "هویج",
+      "en": "carrot",
+      "he": "גזר",
+      "it": "carota",
+      "uz": "sabzi"
+    },
     "transcription": "sabzi",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Сабзӣ дар ош аст.",
-    "exampleTranslation": "Морковь в плове."    ,"url":"https://thridy.com/i/dicons/carrot-16f7536c.webp"
-
+    "exampleTranslation": "Морковь в плове.",
+    "url": "https://thridy.com/i/dicons/carrot-16f7536c.webp"
   },
   {
     "id": 47,
     "word": "хӯрок",
     "sam_dialect": "авқот",
     "translation": "еда",
+    "translations": {
+      "ru": "еда",
+      "fa": "غذا",
+      "en": "food",
+      "he": "אוכל",
+      "it": "cibo",
+      "uz": "ovqat"
+    },
     "transcription": "Khurok",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "хӯрок барои одам қувват аст.",
-    "exampleTranslation": "Еда есть сила для человека."    ,"url":"https://thridy.com/i/dicons/enjoying-food-0abb9912.webp"
-
+    "exampleTranslation": "Еда есть сила для человека.",
+    "url": "https://thridy.com/i/dicons/enjoying-food-0abb9912.webp"
   },
   {
     "id": 48,
     "word": "бодиринг",
     "sam_dialect": "бодиринг",
     "translation": "огурец",
+    "translations": {
+      "ru": "огурец",
+      "fa": "خیار",
+      "en": "cucumber",
+      "he": "מלפפון",
+      "it": "cetriolo",
+      "uz": "bodring"
+    },
     "transcription": "bodiring",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Бодиринг тару тоза аст.",
-    "exampleTranslation": "Огурец свежий."    ,"url":"https://thridy.com/i/dicons/pickle.webp"
-
+    "exampleTranslation": "Огурец свежий.",
+    "url": "https://thridy.com/i/dicons/pickle.webp"
   },
   {
     "id": 49,
     "word": "тухм",
     "sam_dialect": "тухум",
     "translation": "яйцо",
+    "translations": {
+      "ru": "яйцо",
+      "fa": "تخم‌مرغ",
+      "en": "egg",
+      "he": "ביצה",
+      "it": "uovo",
+      "uz": "tuxum"
+    },
     "transcription": "tukhm",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман тухм мехӯрам.",
-    "exampleTranslation": "Я ем яйцо."    ,"url":"https://thridy.com/i/dicons/egg-0727ae08.webp"
-
+    "exampleTranslation": "Я ем яйцо.",
+    "url": "https://thridy.com/i/dicons/egg-0727ae08.webp"
   },
   {
     "id": 50,
     "word": "панир",
     "sam_dialect": "панир",
     "translation": "сыр",
+    "translations": {
+      "ru": "сыр",
+      "fa": "پنیر",
+      "en": "cheese",
+      "he": "גבינה",
+      "it": "formaggio",
+      "uz": "pishloq"
+    },
     "transcription": "panir",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Панир болаззат аст.",
-    "exampleTranslation": "Сыр вкусный."    ,"url":"https://thridy.com/i/dicons/cheese-d812e6c8.webp"
-
+    "exampleTranslation": "Сыр вкусный.",
+    "url": "https://thridy.com/i/dicons/cheese-d812e6c8.webp"
   },
   {
     "id": 51,
     "word": "равған",
     "sam_dialect": "рӯған",
     "translation": "масло",
+    "translations": {
+      "ru": "масло",
+      "fa": "روغن",
+      "en": "oil",
+      "he": "שמן",
+      "it": "olio",
+      "uz": "yog'"
+    },
     "transcription": "ravghan",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Равған дар ош аст.",
-    "exampleTranslation": "Масло в плове."    ,"url":"https://thridy.com/i/dicons/sunflower-oil-d3bd2704.webp"
-
+    "exampleTranslation": "Масло в плове.",
+    "url": "https://thridy.com/i/dicons/sunflower-oil-d3bd2704.webp"
   },
   {
     "id": 52,
     "word": "шакар",
     "sam_dialect": "шакар",
     "translation": "сахар",
+    "translations": {
+      "ru": "сахар",
+      "fa": "شکر",
+      "en": "sugar",
+      "he": "סוכר",
+      "it": "zucchero",
+      "uz": "shakar"
+    },
     "transcription": "shakar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман ба чой шакар меандозам.",
-    "exampleTranslation": "Я кладу сахар в чай."    ,"url":"https://thridy.com/i/dicons/sugar.webp"
-
+    "exampleTranslation": "Я кладу сахар в чай.",
+    "url": "https://thridy.com/i/dicons/sugar.webp"
   },
   {
     "id": 53,
     "word": "намак",
     "sam_dialect": "намак",
     "translation": "соль",
+    "translations": {
+      "ru": "соль",
+      "fa": "نمک",
+      "en": "salt",
+      "he": "מלח",
+      "it": "sale",
+      "uz": "tuz"
+    },
     "transcription": "namak",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ба хӯрок намак илова кунед.",
-    "exampleTranslation": "Добавьте соль в еду."    ,"url":"https://thridy.com/i/dicons/salt-shaker.webp"
-
+    "exampleTranslation": "Добавьте соль в еду.",
+    "url": "https://thridy.com/i/dicons/salt-shaker.webp"
   },
   {
     "id": 54,
     "word": "ош",
     "sam_dialect": "ош",
     "translation": "плов",
+    "translations": {
+      "ru": "плов",
+      "fa": "پلو",
+      "en": "pilaf",
+      "he": "פילאף",
+      "it": "pilaf",
+      "uz": "palov"
+    },
     "transcription": "osh",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ош хеле болаззат аст.",
-    "exampleTranslation": "Плов очень вкусный."    ,"url":"https://thridy.com/i/dicons/fried-rice-c83a60b7.webp"
-
+    "exampleTranslation": "Плов очень вкусный.",
+    "url": "https://thridy.com/i/dicons/fried-rice-c83a60b7.webp"
   },
   {
     "id": 55,
     "word": "самбӯса",
     "sam_dialect": "самбӯса",
     "translation": "самса",
+    "translations": {
+      "ru": "самса",
+      "fa": "سمبوسه",
+      "en": "samosa",
+      "he": "סמבוסק",
+      "it": "samosa",
+      "uz": "somsa"
+    },
     "transcription": "sambusa",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман самбӯса дӯст медорам.",
-    "exampleTranslation": "Я люблю самсу."    ,"url":"https://thridy.com/i/dicons/samosa-fb2efe4d.webp"
-
+    "exampleTranslation": "Я люблю самсу.",
+    "url": "https://thridy.com/i/dicons/samosa-fb2efe4d.webp"
   },
   {
     "id": 56,
     "word": "манту",
     "sam_dialect": "манту",
     "translation": "манты",
+    "translations": {
+      "ru": "манты",
+      "fa": "مانتی",
+      "en": "manti",
+      "he": "מנטי",
+      "it": "manti",
+      "uz": "manti"
+    },
     "transcription": "mantu",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман манту мехӯрам.",
-    "exampleTranslation": "Я ем манты."    ,"url":"https://thridy.com/i/dicons/dumplings-87d58b6c.webp"
-
+    "exampleTranslation": "Я ем манты.",
+    "url": "https://thridy.com/i/dicons/dumplings-87d58b6c.webp"
   },
   {
     "id": 57,
     "word": "қурутоб",
     "sam_dialect": "қурутоб",
     "translation": "курутоб",
+    "translations": {
+      "ru": "курутоб",
+      "fa": "قروت‌آب",
+      "en": "qurutob",
+      "he": "קורוטוב",
+      "it": "qurutob",
+      "uz": "qurutob"
+    },
     "transcription": "qurutob",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Қурутоб хӯроки миллӣ аст.",
-    "exampleTranslation": "Курутоб — национальное блюдо."    ,"url":"https://thridy.com/i/dicons/banh-lot-noodles.webp"
-
+    "exampleTranslation": "Курутоб — национальное блюдо.",
+    "url": "https://thridy.com/i/dicons/banh-lot-noodles.webp"
   },
   {
     "id": 58,
     "word": "кабоб",
     "sam_dialect": "кабоб",
     "translation": "шашлык",
+    "translations": {
+      "ru": "шашлык",
+      "fa": "کباب",
+      "en": "kebab",
+      "he": "קבב",
+      "it": "kebab",
+      "uz": "shashlik"
+    },
     "transcription": "kabob",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Кабоб хеле болаззат аст.",
-    "exampleTranslation": "Шашлык очень вкусный."    ,"url":"https://thridy.com/i/dicons/shish-kebab-9c67fc4f.webp"
-
+    "exampleTranslation": "Шашлык очень вкусный.",
+    "url": "https://thridy.com/i/dicons/shish-kebab-9c67fc4f.webp"
   },
   {
     "id": 59,
     "word": "ширинӣ",
     "sam_dialect": "ширинӣ",
     "translation": "сладость",
+    "translations": {
+      "ru": "сладость",
+      "fa": "شیرینی",
+      "en": "sweets",
+      "he": "ממתקים",
+      "it": "dolci",
+      "uz": "shirinlik"
+    },
     "transcription": "shirini",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман ширинӣ дӯст медорам.",
-    "exampleTranslation": "Я люблю сладости."    ,"url":"https://thridy.com/i/dicons/candy-33e8cffa.webp"
-
+    "exampleTranslation": "Я люблю сладости.",
+    "url": "https://thridy.com/i/dicons/candy-33e8cffa.webp"
   },
   {
     "id": 60,
     "word": "яхмос",
     "sam_dialect": "яхмос",
     "translation": "мороженое",
+    "translations": {
+      "ru": "мороженое",
+      "fa": "بستنی",
+      "en": "ice cream",
+      "he": "גלידה",
+      "it": "gelato",
+      "uz": "muzqaymoq"
+    },
     "transcription": "yakhmos",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "food",
     "example": "Ман яхмос мехӯрам.",
-    "exampleTranslation": "Я ем мороженое."    ,"url":"https://thridy.com/i/dicons/popsicle-bb3fd1cf.webp"
-
-  },
-  {
+    "exampleTranslation": "Я ем мороженое.",
+    "url": "https://thridy.com/i/dicons/popsicle-bb3fd1cf.webp"
+  }
+,
+   {
     "id": 61,
     "word": "оила",
     "sam_dialect": "оила",
     "translation": "семья",
+    "translations": {
+      "ru": "семья",
+      "fa": "خانواده",
+      "en": "family",
+      "he": "משפחה",
+      "it": "famiglia",
+      "uz": "oila"
+    },
     "transcription": "oila",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Оилаи ман калон аст.",
-    "exampleTranslation": "Моя семья большая."    ,"url":"https://thridy.com/i/dicons/family-2e9c67ed.webp"
-
+    "exampleTranslation": "Моя семья большая.",
+    "url": "https://thridy.com/i/dicons/family-2e9c67ed.webp"
   },
   {
     "id": 62,
     "word": "падар",
     "sam_dialect": "Дада",
     "translation": "отец",
+    "translations": {
+      "ru": "отец",
+      "fa": "پدر",
+      "en": "father",
+      "he": "אבא",
+      "it": "padre",
+      "uz": "ota"
+    },
     "transcription": "padar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Падари ман дар хона аст.",
-    "exampleTranslation": "Мой отец дома."    ,"url":"https://thridy.com/i/dicons/parent-e9a306b9.webp"
-
+    "exampleTranslation": "Мой отец дома.",
+    "url": "https://thridy.com/i/dicons/parent-e9a306b9.webp"
   },
   {
     "id": 63,
     "word": "модар",
     "sam_dialect": "Бийи",
     "translation": "мать",
+    "translations": {
+      "ru": "мать",
+      "fa": "مادر",
+      "en": "mother",
+      "he": "אמא",
+      "it": "madre",
+      "uz": "ona"
+    },
     "transcription": "modar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Модари ман меҳрубон аст.",
-    "exampleTranslation": "Моя мама добрая."    ,"url":"https://thridy.com/i/dicons/mother-and-baby.webp"
-
+    "exampleTranslation": "Моя мама добрая.",
+    "url": "https://thridy.com/i/dicons/mother-and-baby.webp"
   },
   {
     "id": 64,
     "word": "писар",
     "sam_dialect": "писар",
     "translation": "сын, мальчик",
+    "translations": {
+      "ru": "сын, мальчик",
+      "fa": "پسر",
+      "en": "son, boy",
+      "he": "בן, ילד",
+      "it": "figlio, ragazzo",
+      "uz": "o'g'il, bola"
+    },
     "transcription": "pisar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Писари ӯ донишҷӯ аст.",
-    "exampleTranslation": "Его сын — студент."    ,"url":"https://thridy.com/i/dicons/boy-5b601b6b.webp"
-
+    "exampleTranslation": "Его сын — студент.",
+    "url": "https://thridy.com/i/dicons/boy-5b601b6b.webp"
   },
   {
     "id": 65,
     "word": "духтар",
     "sam_dialect": "духтар",
     "translation": "дочь, девочка",
+    "translations": {
+      "ru": "дочь, девочка",
+      "fa": "دختر",
+      "en": "daughter, girl",
+      "he": "בת, ילדה",
+      "it": "figlia, ragazza",
+      "uz": "qiz"
+    },
     "transcription": "dukhtar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Духтари ман дар мактаб мехонад.",
-    "exampleTranslation": "Моя дочь учится в школе."    ,"url":"https://thridy.com/i/dicons/girl-c9a9fc04.webp"
-
+    "exampleTranslation": "Моя дочь учится в школе.",
+    "url": "https://thridy.com/i/dicons/girl-c9a9fc04.webp"
   },
   {
     "id": 66,
     "word": "бародар",
     "sam_dialect": "ака",
     "translation": "брат",
+    "translations": {
+      "ru": "брат",
+      "fa": "برادر",
+      "en": "brother",
+      "he": "אח",
+      "it": "fratello",
+      "uz": "aka, uka"
+    },
     "transcription": "barodar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Бародари ман ҷавон аст.",
-    "exampleTranslation": "Мой брат молодой."    ,"url":"https://images.openai.com/static-rsc-4/E_LiZuPXWLFCPuxxQWZ-M05gRUcxSk4IDgM5Qwkv3njj5_BTn_90-ocwEoklJQyfIBEW-JUioipl6P52EOW6Aw4tGBUjM7Ykyz17rQEzzJGpgdXSnjA-VHhBnNi4pDzBk3T8rrL_-WF-j8yqUiIiyz531RjK1heaLzW9yLgnpcf6eEnTx8ms2yaZsdvJbWJT?purpose=fullsize"
-
+    "exampleTranslation": "Мой брат молодой.",
+    "url": "https://images.openai.com/static-rsc-4/E_LiZuPXWLFCPuxxQWZ-M05gRUcxSk4IDgM5Qwkv3njj5_BTn_90-ocwEoklJQyfIBEW-JUioipl6P52EOW6Aw4tGBUjM7Ykyz17rQEzzJGpgdXSnjA-VHhBnNi4pDzBk3T8rrL_-WF-j8yqUiIiyz531RjK1heaLzW9yLgnpcf6eEnTx8ms2yaZsdvJbWJT?purpose=fullsize"
   },
   {
     "id": 67,
     "word": "хоҳар",
     "sam_dialect": "хоҳар",
     "translation": "сестра",
+    "translations": {
+      "ru": "сестра",
+      "fa": "خواهر",
+      "en": "sister",
+      "he": "אחות",
+      "it": "sorella",
+      "uz": "opa, singil"
+    },
     "transcription": "khohar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Хоҳари ман донишҷӯ аст.",
-    "exampleTranslation": "Моя сестра — студентка."    ,"url":"https://images.openai.com/static-rsc-4/uypORYxR6fRw1BE2dgMHegShdXFN4VsJzFWxSbTDAegIulDtIKEpR5RavSKzR3oNIAQFLxsC8BAHHYDM7leLw4GiX75yNAjCXegF3Mo7089btXxEkKBECsdiSaWDBdTin-3NBMd7yOw6uufcg2DJ0WV5Ry5s1Hjxw1Q6DF2pozcd4j2uBe-_2flMwUED5idj?purpose=fullsize"
-
+    "exampleTranslation": "Моя сестра — студентка.",
+    "url": "https://images.openai.com/static-rsc-4/uypORYxR6fRw1BE2dgMHegShdXFN4VsJzFWxSbTDAegIulDtIKEpR5RavSKzR3oNIAQFLxsC8BAHHYDM7leLw4GiX75yNAjCXegF3Mo7089btXxEkKBECsdiSaWDBdTin-3NBMd7yOw6uufcg2DJ0WV5Ry5s1Hjxw1Q6DF2pozcd4j2uBe-_2flMwUED5idj?purpose=fullsize"
   },
   {
     "id": 68,
     "word": "бобо",
     "sam_dialect": "бобо",
     "translation": "дедушка",
+    "translations": {
+      "ru": "дедушка",
+      "fa": "پدربزرگ",
+      "en": "grandfather",
+      "he": "סבא",
+      "it": "nonno",
+      "uz": "bobo"
+    },
     "transcription": "bobo",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Бобои ман дар деҳа зиндагӣ мекунад.",
-    "exampleTranslation": "Мой дедушка живёт в деревне."    ,"url":"https://thridy.com/i/dicons/grandfather.webp"
-
+    "exampleTranslation": "Мой дедушка живёт в деревне.",
+    "url": "https://thridy.com/i/dicons/grandfather.webp"
   },
   {
     "id": 69,
     "word": "бибӣ",
     "sam_dialect": "Она",
     "translation": "бабушка",
+    "translations": {
+      "ru": "бабушка",
+      "fa": "مادربزرگ",
+      "en": "grandmother",
+      "he": "סבתא",
+      "it": "nonna",
+      "uz": "buvi"
+    },
     "transcription": "bibi",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Бибии ман чой менӯшад.",
-    "exampleTranslation": "Моя бабушка пьёт чай."    ,"url":"https://thridy.com/i/dicons/older-person-f6d59688.webp"
-
+    "exampleTranslation": "Моя бабушка пьёт чай.",
+    "url": "https://thridy.com/i/dicons/older-person-f6d59688.webp"
   },
   {
     "id": 70,
     "word": "шавҳар",
     "sam_dialect": "Шу",
     "translation": "муж",
+    "translations": {
+      "ru": "муж",
+      "fa": "شوهر",
+      "en": "husband",
+      "he": "בעל",
+      "it": "marito",
+      "uz": "er"
+    },
     "transcription": "shavhar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Шавҳари ӯ табиб аст.",
-    "exampleTranslation": "Её муж — врач."    ,"url":"https://thridy.com/i/dicons/man-in-skullcap.webp"
-
+    "exampleTranslation": "Её муж — врач.",
+    "url": "https://thridy.com/i/dicons/man-in-skullcap.webp"
   },
   {
     "id": 71,
     "word": "зан",
     "sam_dialect": "зан",
     "translation": "жена",
+    "translations": {
+      "ru": "жена",
+      "fa": "همسر",
+      "en": "wife",
+      "he": "אישה",
+      "it": "moglie",
+      "uz": "xotin"
+    },
     "transcription": "zan",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Зани ӯ омӯзгор аст.",
-    "exampleTranslation": "Его жена — учительница."    ,"url":"https://thridy.com/i/dicons/woman-hijab.webp"
-
+    "exampleTranslation": "Его жена — учительница.",
+    "url": "https://thridy.com/i/dicons/woman-hijab.webp"
   },
   {
     "id": 72,
     "word": "шавҳарзода",
     "sam_dialect": "Домот",
     "translation": "зять",
+    "translations": {
+      "ru": "зять",
+      "fa": "داماد",
+      "en": "son-in-law",
+      "he": "חתן",
+      "it": "genero",
+      "uz": "kuyov"
+    },
     "transcription": "shavharzoda",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Шавҳарзодаи онҳо дар шаҳр зиндагӣ мекунад.",
-    "exampleTranslation": "Их зять живёт в городе."    ,"url":"https://images.openai.com/static-rsc-4/-UXRnLDr3RJCblwqZlm-Hz_sLKk3K07lMAvE2hRL7nlMUxHyXptDAEC3ZHq3yUJSgZJGTqi1axW8avdXHIb-sJEoc1NSo-AHFwAPiYB6zXckbMuuhm5qFQcFfSXppinpYcV1OrA5TwYkVssC9ZEgQyWlculowwILR2XbrgvdDhaNrkqQsw66j78EaRmDD-Bm?purpose=fullsize"
-
+    "exampleTranslation": "Их зять живёт в городе.",
+    "url": "https://images.openai.com/static-rsc-4/-UXRnLDr3RJCblwqZlm-Hz_sLKk3K07lMAvE2hRL7nlMUxHyXptDAEC3ZHq3yUJSgZJGTqi1axW8avdXHIb-sJEoc1NSo-AHFwAPiYB6zXckbMuuhm5qFQcFfSXppinpYcV1OrA5TwYkVssC9ZEgQyWlculowwILR2XbrgvdDhaNrkqQsw66j78EaRmDD-Bm?purpose=fullsize"
   },
   {
     "id": 73,
     "word": "келин",
     "sam_dialect": "келин",
     "translation": "невестка, невеста",
+    "translations": {
+      "ru": "невестка, невеста",
+      "fa": "عروس",
+      "en": "daughter-in-law, bride",
+      "he": "כלה",
+      "it": "nuora, sposa",
+      "uz": "kelin"
+    },
     "transcription": "kelin",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Келини мо меҳрубон аст.",
-    "exampleTranslation": "Наша невестка добрая."    ,"url":"https://images.openai.com/static-rsc-4/i69NYtJ80ctav8LbC5Z1D8pDCeZPLB-Q6yu0AZLR6XpUNtvUGBOLdSjZZzs1tCPVbzSqgO3K-GKC4aTCbsuQ2cF6aqXS9Ud8NLvlqwq7nOpMpVeuhRBEBvqwuS1iGGt2mWH34PlnwBvcUFSIBcd3c1-4we5c2sHzTTcL_qOLoS-rYcN71_F5-EHyG2D6imXf?purpose=fullsize"
-
+    "exampleTranslation": "Наша невестка добрая.",
+    "url": "https://images.openai.com/static-rsc-4/i69NYtJ80ctav8LbC5Z1D8pDCeZPLB-Q6yu0AZLR6XpUNtvUGBOLdSjZZzs1tCPVbzSqgO3K-GKC4aTCbsuQ2cF6aqXS9Ud8NLvlqwq7nOpMpVeuhRBEBvqwuS1iGGt2mWH34PlnwBvcUFSIBcd3c1-4we5c2sHzTTcL_qOLoS-rYcN71_F5-EHyG2D6imXf?purpose=fullsize"
   },
   {
     "id": 74,
     "word": "амак",
     "sam_dialect": "амак",
     "translation": "дядя по отцу",
+    "translations": {
+      "ru": "дядя по отцу",
+      "fa": "عمو",
+      "en": "paternal uncle",
+      "he": "דוד מצד האב",
+      "it": "zio paterno",
+      "uz": "amaki"
+    },
     "transcription": "amak",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Амаки ман дар Самарқанд зиндагӣ мекунад.",
-    "exampleTranslation": "Мой дядя живёт в Самарканде."    ,"url":"https://thridy.com/i/dicons/father-and-son-8d4829cb.webp"
-
+    "exampleTranslation": "Мой дядя живёт в Самарканде.",
+    "url": "https://thridy.com/i/dicons/father-and-son-8d4829cb.webp"
   },
   {
     "id": 75,
     "word": "тағо",
     "sam_dialect": "тоғо",
     "translation": "дядя по матери",
+    "translations": {
+      "ru": "дядя по матери",
+      "fa": "دایی",
+      "en": "maternal uncle",
+      "he": "דוד מצד האם",
+      "it": "zio materno",
+      "uz": "tog'a"
+    },
     "transcription": "tagho",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Тағои ман меҳмон омад.",
-    "exampleTranslation": "Мой дядя пришёл в гости."    ,"url":"https://thridy.com/i/dicons/father.webp"
-
+    "exampleTranslation": "Мой дядя пришёл в гости.",
+    "url": "https://thridy.com/i/dicons/father.webp"
   },
   {
     "id": 76,
     "word": "хола",
     "sam_dialect": "хола",
     "translation": "тётя по матери",
+    "translations": {
+      "ru": "тётя по матери",
+      "fa": "خاله",
+      "en": "maternal aunt",
+      "he": "דודה מצד האם",
+      "it": "zia materna",
+      "uz": "xola"
+    },
     "transcription": "khola",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Холаи ман дар хона аст.",
     "exampleTranslation": "Моя тётя дома.",
-    "url":"https://thridy.com/i/dicons/woman-7fd6ef5c.webp"
+    "url": "https://thridy.com/i/dicons/woman-7fd6ef5c.webp"
   },
   {
     "id": 77,
     "word": "амма",
     "sam_dialect": "амма",
     "translation": "тётя по отцу",
+    "translations": {
+      "ru": "тётя по отцу",
+      "fa": "عمه",
+      "en": "paternal aunt",
+      "he": "דודה מצד האב",
+      "it": "zia paterna",
+      "uz": "amma"
+    },
     "transcription": "amma",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Аммаи ман дар Душанбе зиндагӣ мекунад.",
-    "exampleTranslation": "Моя тётя живёт в Душанбе."    ,"url":"https://thridy.com/i/dicons/standing-woman-06c45f9b.webp"
-
+    "exampleTranslation": "Моя тётя живёт в Душанбе.",
+    "url": "https://thridy.com/i/dicons/standing-woman-06c45f9b.webp"
   },
   {
     "id": 78,
     "word": "писархола",
     "sam_dialect": "холабача",
     "translation": "двоюродный брат",
+    "translations": {
+      "ru": "двоюродный брат",
+      "fa": "پسرخاله",
+      "en": "male cousin",
+      "he": "בן דודה",
+      "it": "cugino",
+      "uz": "xolavachcha"
+    },
     "transcription": "pisarkhola",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Писархолаи ман дӯсти ман аст.",
-    "exampleTranslation": "Мой двоюродный брат — мой друг."    ,"url":"https://thridy.com/i/dicons/blond-man-e8c89b2f.webp"
-
+    "exampleTranslation": "Мой двоюродный брат — мой друг.",
+    "url": "https://thridy.com/i/dicons/blond-man-e8c89b2f.webp"
   },
   {
     "id": 79,
     "word": "духтархола",
     "sam_dialect": "холабача",
     "translation": "двоюродная сестра",
+    "translations": {
+      "ru": "двоюродная сестра",
+      "fa": "دخترخاله",
+      "en": "female cousin",
+      "he": "בת דודה",
+      "it": "cugina",
+      "uz": "xolavachcha (qiz)"
+    },
     "transcription": "dukhtarkhola",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Духтархолаи ман донишҷӯ аст.",
-    "exampleTranslation": "Моя двоюродная сестра — студентка."    ,"url":"https://thridy.com/i/dicons/blonde-woman-ec454251.webp"
-
+    "exampleTranslation": "Моя двоюродная сестра — студентка.",
+    "url": "https://thridy.com/i/dicons/blonde-woman-ec454251.webp"
   },
   {
     "id": 80,
     "word": "набера",
     "sam_dialect": "невара",
     "translation": "внук, внучка",
+    "translations": {
+      "ru": "внук, внучка",
+      "fa": "نوه",
+      "en": "grandchild",
+      "he": "נכד, נכדה",
+      "it": "nipote",
+      "uz": "nevara"
+    },
     "transcription": "nаbera",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Набераи ман хурд аст.",
-    "exampleTranslation": "Мой внук маленький."    ,"url":"https://thridy.com/i/dicons/kids-playing.webp"
-
+    "exampleTranslation": "Мой внук маленький.",
+    "url": "https://thridy.com/i/dicons/kids-playing.webp"
   },
   {
     "id": 81,
     "word": "кӯдак",
     "sam_dialect": "Чакалок",
     "translation": "ребёнок",
+    "translations": {
+      "ru": "ребёнок",
+      "fa": "کودک",
+      "en": "child",
+      "he": "ילד",
+      "it": "bambino",
+      "uz": "bola"
+    },
     "transcription": "kudak",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Кӯдак дар хона бозӣ мекунад.",
-    "exampleTranslation": "Ребёнок играет дома."    ,"url":"https://thridy.com/i/dicons/baby-feeding-482d45b3.webp"
-
+    "exampleTranslation": "Ребёнок играет дома.",
+    "url": "https://thridy.com/i/dicons/baby-feeding-482d45b3.webp"
   },
   {
     "id": 82,
     "word": "бародари калонӣ",
     "sam_dialect": "Акаи калонӣ",
     "translation": "старший брат",
+    "translations": {
+      "ru": "старший брат",
+      "fa": "برادر بزرگ‌تر",
+      "en": "older brother",
+      "he": "אח גדול",
+      "it": "fratello maggiore",
+      "uz": "aka"
+    },
     "transcription": "barodari kaloni",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Бародари калонии ман кор мекунад.",
-    "exampleTranslation": "Мой старший брат работает."    ,"url":"https://images.openai.com/static-rsc-4/QIag88n9ifWsaRUDKKF37ptwEAs0QSvmArPvgGWpqkzeqhpffSN953BO49dF0RNyNttQITqOfNoMFWkasxyWgvQkQGo59HX7-xH6qJdKh_X8kpm9epdcruMOMQdZGK3M0U0Oumkt_COV7QKVr7WbxzeDonShyfaUbFmYICXY1DYLNKp-5aiXAES5RHNEJI4z?purpose=fullsize"
-
+    "exampleTranslation": "Мой старший брат работает.",
+    "url": "https://images.openai.com/static-rsc-4/QIag88n9ifWsaRUDKKF37ptwEAs0QSvmArPvgGWpqkzeqhpffSN953BO49dF0RNyNttQITqOfNoMFWkasxyWgvQkQGo59HX7-xH6qJdKh_X8kpm9epdcruMOMQdZGK3M0U0Oumkt_COV7QKVr7WbxzeDonShyfaUbFmYICXY1DYLNKp-5aiXAES5RHNEJI4z?purpose=fullsize"
   },
   {
     "id": 83,
     "word": "бародари хурдӣ",
     "sam_dialect": "Ука",
     "translation": "младший брат",
+    "translations": {
+      "ru": "младший брат",
+      "fa": "برادر کوچک‌تر",
+      "en": "younger brother",
+      "he": "אח קטן",
+      "it": "fratello minore",
+      "uz": "uka"
+    },
     "transcription": "barodari khurdi",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Бародари хурдии ман дар мактаб мехонад.",
-    "exampleTranslation": "Мой младший брат учится в школе."    ,"url":"https://thridy.com/i/dicons/angry-boy-6460789f.webp"
-
+    "exampleTranslation": "Мой младший брат учится в школе.",
+    "url": "https://thridy.com/i/dicons/angry-boy-6460789f.webp"
   },
   {
     "id": 84,
     "word": "хоҳари калонӣ",
     "sam_dialect": "Ойти",
     "translation": "старшая сестра",
+    "translations": {
+      "ru": "старшая сестра",
+      "fa": "خواهر بزرگ‌تر",
+      "en": "older sister",
+      "he": "אחות גדולה",
+      "it": "sorella maggiore",
+      "uz": "opa"
+    },
     "transcription": "khohari kaloni",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Хоҳари калонии ман омӯзгор аст.",
-    "exampleTranslation": "Моя старшая сестра — учительница."    ,"url":"https://thridy.com/i/dicons/girls.webp"
-
+    "exampleTranslation": "Моя старшая сестра — учительница.",
+    "url": "https://thridy.com/i/dicons/girls.webp"
   },
   {
     "id": 85,
     "word": "хоҳари хурдӣ",
     "sam_dialect": "Хохарча",
     "translation": "младшая сестра",
+    "translations": {
+      "ru": "младшая сестра",
+      "fa": "خواهر کوچک‌تر",
+      "en": "younger sister",
+      "he": "אחות קטנה",
+      "it": "sorella minore",
+      "uz": "singil"
+    },
     "transcription": "khohari khurdi",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Хоҳари хурдии ман бозӣ мекунад.",
-    "exampleTranslation": "Моя младшая сестра играет."    ,"url":"https://thridy.com/i/dicons/redhead-52997d95.webp"
-
+    "exampleTranslation": "Моя младшая сестра играет.",
+    "url": "https://thridy.com/i/dicons/redhead-52997d95.webp"
   },
   {
     "id": 86,
     "word": "бародарзода",
     "sam_dialect": "Джиян",
     "translation": "племянник, племянница",
+    "translations": {
+      "ru": "племянник, племянница",
+      "fa": "برادرزاده",
+      "en": "nephew, niece",
+      "he": "אחיין, אחיינית",
+      "it": "nipote",
+      "uz": "jiyan"
+    },
     "transcription": "barodarzoda",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Бародарзодаи ман кӯдак аст.",
-    "exampleTranslation": "Мой племянник — ребёнок."    ,"url":"https://thridy.com/i/dicons/profile-silhouettes.webp"
-
+    "exampleTranslation": "Мой племянник — ребёнок.",
+    "url": "https://thridy.com/i/dicons/profile-silhouettes.webp"
   },
   {
     "id": 87,
     "word": "Бобокалон",
     "sam_dialect": "Бобокалон",
     "translation": "прадедушка",
+    "translations": {
+      "ru": "прадедушка",
+      "fa": "پدرِ پدربزرگ",
+      "en": "great-grandfather",
+      "he": "סבא רבא",
+      "it": "bisnonno",
+      "uz": "katta bobo"
+    },
     "transcription": "padarkalon",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Падаркалони ман деҳқон буд.",
-    "exampleTranslation": "Мой дедушка был фермером."    ,"url":"https://thridy.com/i/dicons/older-man-eea93d8f.webp"
-
+    "exampleTranslation": "Мой дедушка был фермером.",
+    "url": "https://thridy.com/i/dicons/older-man-eea93d8f.webp"
   },
   {
     "id": 88,
     "word": "Бибикалон",
     "sam_dialect": "Онакалон",
     "translation": "бабушка",
+    "translations": {
+      "ru": "бабушка",
+      "fa": "مادربزرگ",
+      "en": "grandmother",
+      "he": "סבתא",
+      "it": "nonna",
+      "uz": "buvi"
+    },
     "transcription": "modarkalon",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "family",
     "example": "Модаркалони ман бисёр меҳрубон аст.",
-    "exampleTranslation": "Моя бабушка очень добрая."    ,"url":"https://thridy.com/i/dicons/grandmother.webp"
-
+    "exampleTranslation": "Моя бабушка очень добрая.",
+    "url": "https://thridy.com/i/dicons/grandmother.webp"
   },
   {
     "id": 89,
     "word": "хешованд",
     "sam_dialect": "Хеш",
     "translation": "родственник",
+    "translations": {
+      "ru": "родственник",
+      "fa": "خویشاوند",
+      "en": "relative",
+      "he": "קרוב משפחה",
+      "it": "parente",
+      "uz": "qarindosh"
+    },
     "transcription": "kheshovand",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Хешовандони мо имрӯз меҳмон меоянд.",
-    "exampleTranslation": "Наши родственники сегодня придут в гости."    ,"url":"https://thridy.com/i/dicons/family-tree.webp"
-
+    "exampleTranslation": "Наши родственники сегодня придут в гости.",
+    "url": "https://thridy.com/i/dicons/family-tree.webp"
   },
   {
     "id": 90,
     "word": "падару модар",
     "sam_dialect": "Дадаю Бийи",
     "translation": "родители",
+    "translations": {
+      "ru": "родители",
+      "fa": "والدین",
+      "en": "parents",
+      "he": "הורים",
+      "it": "genitori",
+      "uz": "ota-ona"
+    },
     "transcription": "padaru modar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "family",
     "example": "Ман падару модарамро дӯст медорам.",
-    "exampleTranslation": "Я люблю своих родителей."    ,"url":"https://thridy.com/i/dicons/romantic-couple-51f20199.webp"
-
-  },
-  {
+    "exampleTranslation": "Я люблю своих родителей.",
+    "url": "https://thridy.com/i/dicons/romantic-couple-51f20199.webp"
+  } , {
     "id": 91,
     "word": "хурсанд",
     "sam_dialect": "хурсанд",
     "translation": "счастливый",
+    "translations": {
+      "ru": "счастливый",
+      "fa": "خوشحال",
+      "en": "happy",
+      "he": "שמח",
+      "it": "felice",
+      "uz": "xursand"
+    },
     "transcription": "khursand",
     "partOfSpeech": "adjective",
     "level": "A1",
     "category": "emotions",
     "example": "Ман имрӯз хурсанд ҳастам.",
-    "exampleTranslation": "Я сегодня счастлив."    ,"url":"https://thridy.com/i/dicons/beaming-face.webp"
-
+    "exampleTranslation": "Я сегодня счастлив.",
+    "url": "https://thridy.com/i/dicons/beaming-face.webp"
   },
   {
     "id": 92,
     "word": "ғамгин",
     "sam_dialect": "ғамгин",
     "translation": "грустный",
+    "translations": {
+      "ru": "грустный",
+      "fa": "غمگین",
+      "en": "sad",
+      "he": "עצוב",
+      "it": "triste",
+      "uz": "g'amgin"
+    },
     "transcription": "ghamgin",
     "partOfSpeech": "adjective",
     "level": "A1",
     "category": "emotions",
     "example": "Ӯ имрӯз ғамгин аст.",
-    "exampleTranslation": "Он сегодня грустный."    ,"url":"https://thridy.com/i/dicons/sad-face-ae8b6ef5.webp"
-
+    "exampleTranslation": "Он сегодня грустный.",
+    "url": "https://thridy.com/i/dicons/sad-face-ae8b6ef5.webp"
   },
   {
     "id": 93,
     "word": "шод",
     "sam_dialect": "шод",
     "translation": "радостный",
+    "translations": {
+      "ru": "радостный",
+      "fa": "شاد",
+      "en": "joyful",
+      "he": "עליז",
+      "it": "gioioso",
+      "uz": "shod"
+    },
     "transcription": "shod",
     "partOfSpeech": "adjective",
     "level": "A1",
     "category": "emotions",
     "example": "Кӯдакон хеле шоданд.",
-    "exampleTranslation": "Дети очень рады."    ,"url":"https://thridy.com/i/dicons/hugging-face-578a7be8.webp"
-
+    "exampleTranslation": "Дети очень рады.",
+    "url": "https://thridy.com/i/dicons/hugging-face-578a7be8.webp"
   },
   {
     "id": 94,
     "word": "хашмгин",
     "sam_dialect": "хашмгин",
     "translation": "злой",
+    "translations": {
+      "ru": "злой",
+      "fa": "عصبانی",
+      "en": "angry",
+      "he": "כועס",
+      "it": "arrabbiato",
+      "uz": "jahldor"
+    },
     "transcription": "khashmgin",
     "partOfSpeech": "adjective",
     "level": "A1",
     "category": "emotions",
     "example": "Ӯ аз ин хабар хашмгин шуд.",
-    "exampleTranslation": "Он разозлился из-за этой новости."    ,"url":"https://thridy.com/i/dicons/anger-b3f484ed.webp"
-
+    "exampleTranslation": "Он разозлился из-за этой новости.",
+    "url": "https://thridy.com/i/dicons/anger-b3f484ed.webp"
   },
   {
     "id": 95,
     "word": "тарсон",
     "sam_dialect": "тарсон",
     "translation": "испуганный",
+    "translations": {
+      "ru": "испуганный",
+      "fa": "ترسیده",
+      "en": "scared",
+      "he": "מפוחד",
+      "it": "spaventato",
+      "uz": "qo'rqqan"
+    },
     "transcription": "tarson",
     "partOfSpeech": "adjective",
     "level": "A1",
     "category": "emotions",
     "example": "Кӯдак тарсон аст.",
-    "exampleTranslation": "Ребёнок испуган."    ,"url":"https://thridy.com/i/dicons/scared-face-d6b94dfa.webp"
-
+    "exampleTranslation": "Ребёнок испуган.",
+    "url": "https://thridy.com/i/dicons/scared-face-d6b94dfa.webp"
   },
   {
     "id": 96,
     "word": "ҳайрон",
     "sam_dialect": "ҳайрон",
     "translation": "удивлённый",
+    "translations": {
+      "ru": "удивлённый",
+      "fa": "متعجب",
+      "en": "surprised",
+      "he": "מופתע",
+      "it": "sorpreso",
+      "uz": "hayron"
+    },
     "transcription": "hayron",
     "partOfSpeech": "adjective",
     "level": "A1",
     "category": "emotions",
     "example": "Ман аз ҷавоби ӯ ҳайрон шудам.",
-    "exampleTranslation": "Я удивился его ответу."    ,"url":"https://thridy.com/i/dicons/mind-blown-fe8836b0.webp"
-
+    "exampleTranslation": "Я удивился его ответу.",
+    "url": "https://thridy.com/i/dicons/mind-blown-fe8836b0.webp"
   },
   {
     "id": 97,
     "word": "ошиқ",
     "sam_dialect": "ошиқ",
     "translation": "влюблённый",
+    "translations": {
+      "ru": "влюблённый",
+      "fa": "عاشق",
+      "en": "in love",
+      "he": "מאוהב",
+      "it": "innamorato",
+      "uz": "oshiq"
+    },
     "transcription": "oshiq",
     "partOfSpeech": "adjective",
     "level": "A2",
     "category": "emotions",
     "example": "Ӯ ба духтар ошиқ аст.",
-    "exampleTranslation": "Он влюблён в девушку."    ,"url":"https://thridy.com/i/dicons/heart-eyes-7384de8c.webp"
-
+    "exampleTranslation": "Он влюблён в девушку.",
+    "url": "https://thridy.com/i/dicons/heart-eyes-7384de8c.webp"
   },
   {
     "id": 98,
     "word": "метарсам",
     "sam_dialect": "метарсам",
     "translation": "я боюсь",
+    "translations": {
+      "ru": "я боюсь",
+      "fa": "می‌ترسم",
+      "en": "I am afraid",
+      "he": "אני מפחד",
+      "it": "ho paura",
+      "uz": "qo'rqaman"
+    },
     "transcription": "metarsam",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "emotions",
     "example": "Ман аз торикӣ метарсам.",
-    "exampleTranslation": "Я боюсь темноты."    ,"url":"https://thridy.com/i/dicons/fear-a759f146.webp"
-
+    "exampleTranslation": "Я боюсь темноты.",
+    "url": "https://thridy.com/i/dicons/fear-a759f146.webp"
   },
   {
     "id": 99,
     "word": "дӯст доштан",
     "sam_dialect": "Нагз дидан",
     "translation": "любить",
+    "translations": {
+      "ru": "любить",
+      "fa": "دوست داشتن",
+      "en": "to love",
+      "he": "לאהוב",
+      "it": "amare",
+      "uz": "sevmoq"
+    },
     "transcription": "dust doshtan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "emotions",
     "example": "Ман оилаамро дӯст медорам.",
-    "exampleTranslation": "Я люблю свою семью."    ,"url":"https://thridy.com/i/dicons/orange-heart-91cef7d9.webp"
-
+    "exampleTranslation": "Я люблю свою семью.",
+    "url": "https://thridy.com/i/dicons/orange-heart-91cef7d9.webp"
   },
   {
     "id": 100,
     "word": "нафрат",
     "sam_dialect": "нафрат",
     "translation": "ненависть",
+    "translations": {
+      "ru": "ненависть",
+      "fa": "نفرت",
+      "en": "hatred",
+      "he": "שנאה",
+      "it": "odio",
+      "uz": "nafrat"
+    },
     "transcription": "nafrat",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "emotions",
     "example": "Нафрат эҳсоси манфӣ аст.",
-    "exampleTranslation": "Ненависть — негативное чувство."    ,"url":"https://thridy.com/i/dicons/swearing-face.webp"
-
-  } ,
-
-   {
+    "exampleTranslation": "Ненависть — негативное чувство.",
+    "url": "https://thridy.com/i/dicons/swearing-face.webp"
+  },
+  {
     "id": 101,
     "word": "мактаб",
     "sam_dialect": "мактаб",
     "translation": "школа",
+    "translations": {
+      "ru": "школа",
+      "fa": "مدرسه",
+      "en": "school",
+      "he": "בית ספר",
+      "it": "scuola",
+      "uz": "maktab"
+    },
     "transcription": "maktab",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ман ҳар рӯз ба мактаб меравам.",
-    "exampleTranslation": "Я каждый день хожу в школу."    ,"url":"https://thridy.com/i/dicons/school-476c9e09.webp"
-
+    "exampleTranslation": "Я каждый день хожу в школу.",
+    "url": "https://thridy.com/i/dicons/school-476c9e09.webp"
   },
   {
     "id": 102,
     "word": "донишгоҳ",
     "sam_dialect": "донишгоҳ",
     "translation": "университет",
+    "translations": {
+      "ru": "университет",
+      "fa": "دانشگاه",
+      "en": "university",
+      "he": "אוניברסיטה",
+      "it": "università",
+      "uz": "universitet"
+    },
     "transcription": "donishgoh",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Бародари ман дар донишгоҳ мехонад.",
-    "exampleTranslation": "Мой брат учится в университете."    ,"url":"https://thridy.com/i/dicons/harvard-university-c61f65ed.webp"
-
+    "exampleTranslation": "Мой брат учится в университете.",
+    "url": "https://thridy.com/i/dicons/harvard-university-c61f65ed.webp"
   },
   {
     "id": 103,
     "word": "муаллим",
     "sam_dialect": "муаллим",
     "translation": "учитель",
+    "translations": {
+      "ru": "учитель",
+      "fa": "معلم",
+      "en": "teacher",
+      "he": "מורה",
+      "it": "insegnante",
+      "uz": "o'qituvchi"
+    },
     "transcription": "muallim",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Муаллим дарс медиҳад.",
-    "exampleTranslation": "Учитель ведёт урок."    ,"url":"https://thridy.com/i/dicons/teacher-9745e217.webp"
-
+    "exampleTranslation": "Учитель ведёт урок.",
+    "url": "https://thridy.com/i/dicons/teacher-9745e217.webp"
   },
   {
     "id": 104,
     "word": "муаллима",
     "sam_dialect": "муаллима",
     "translation": "учительница",
+    "translations": {
+      "ru": "учительница",
+      "fa": "معلم زن",
+      "en": "female teacher",
+      "he": "מורה",
+      "it": "insegnante",
+      "uz": "ayol o'qituvchi"
+    },
     "transcription": "muallima",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Муаллима ба савол ҷавоб медиҳад.",
-    "exampleTranslation": "Учительница отвечает на вопрос."    ,"url":"https://thridy.com/i/dicons/librarian.webp"
-
+    "exampleTranslation": "Учительница отвечает на вопрос.",
+    "url": "https://thridy.com/i/dicons/librarian.webp"
   },
   {
     "id": 105,
     "word": "хонанда",
     "sam_dialect": "хонанда",
     "translation": "ученик",
+    "translations": {
+      "ru": "ученик",
+      "fa": "دانش‌آموز",
+      "en": "pupil",
+      "he": "תלמיד",
+      "it": "alunno",
+      "uz": "o'quvchi"
+    },
     "transcription": "khonanda",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Хонанда дар синф нишастааст.",
-    "exampleTranslation": "Ученик сидит в классе."    ,"url":"https://thridy.com/i/dicons/female-student-158fa800.webp"
-
+    "exampleTranslation": "Ученик сидит в классе.",
+    "url": "https://thridy.com/i/dicons/female-student-158fa800.webp"
   },
   {
     "id": 106,
     "word": "донишҷӯ",
     "sam_dialect": "донишҷӯ",
     "translation": "студент",
+    "translations": {
+      "ru": "студент",
+      "fa": "دانشجو",
+      "en": "university student",
+      "he": "סטודנט",
+      "it": "studente",
+      "uz": "talaba"
+    },
     "transcription": "donishju",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ӯ донишҷӯи хуб аст.",
-    "exampleTranslation": "Он хороший студент."    ,"url":"https://thridy.com/i/dicons/student-0a8a722b.webp"
-
+    "exampleTranslation": "Он хороший студент.",
+    "url": "https://thridy.com/i/dicons/student-0a8a722b.webp"
   },
   {
     "id": 107,
     "word": "синф",
     "sam_dialect": "синф",
     "translation": "класс",
+    "translations": {
+      "ru": "класс",
+      "fa": "کلاس",
+      "en": "classroom",
+      "he": "כיתה",
+      "it": "classe",
+      "uz": "sinf"
+    },
     "transcription": "sinf",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Синфи мо калон аст.",
-    "exampleTranslation": "Наш класс большой."    ,"url":"https://thridy.com/i/dicons/classroom-f06bef47.webp"
-
+    "exampleTranslation": "Наш класс большой.",
+    "url": "https://thridy.com/i/dicons/classroom-f06bef47.webp"
   },
   {
     "id": 108,
     "word": "дарс",
     "sam_dialect": "дарс",
     "translation": "урок",
+    "translations": {
+      "ru": "урок",
+      "fa": "درس",
+      "en": "lesson",
+      "he": "שיעור",
+      "it": "lezione",
+      "uz": "dars"
+    },
     "transcription": "dars",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Дарс соати ҳашт оғоз мешавад.",
-    "exampleTranslation": "Урок начинается в восемь часов."    ,"url":"https://thridy.com/i/dicons/science-lecture-e348cb0c.webp"
-
+    "exampleTranslation": "Урок начинается в восемь часов.",
+    "url": "https://thridy.com/i/dicons/science-lecture-e348cb0c.webp"
   },
   {
     "id": 109,
     "word": "китоб",
     "sam_dialect": "китоб",
     "translation": "книга",
+    "translations": {
+      "ru": "книга",
+      "fa": "کتاب",
+      "en": "book",
+      "he": "ספר",
+      "it": "libro",
+      "uz": "kitob"
+    },
     "transcription": "kitob",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ман китоб мехонам.",
-    "exampleTranslation": "Я читаю книгу."    ,"url":"https://thridy.com/i/dicons/reading.webp"
-
+    "exampleTranslation": "Я читаю книгу.",
+    "url": "https://thridy.com/i/dicons/reading.webp"
   },
   {
     "id": 110,
     "word": "дафтар",
     "sam_dialect": "дафтар",
     "translation": "тетрадь",
+    "translations": {
+      "ru": "тетрадь",
+      "fa": "دفتر",
+      "en": "notebook",
+      "he": "מחברת",
+      "it": "quaderno",
+      "uz": "daftar"
+    },
     "transcription": "daftar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Дафтар дар рӯи миз аст.",
-    "exampleTranslation": "Тетрадь лежит на столе."    ,"url":"https://thridy.com/i/dicons/open-book-7159e99b.webp"
-
+    "exampleTranslation": "Тетрадь лежит на столе.",
+    "url": "https://thridy.com/i/dicons/open-book-7159e99b.webp"
   },
   {
     "id": 111,
     "word": "қалам",
     "sam_dialect": "қалам",
     "translation": "ручка",
+    "translations": {
+      "ru": "ручка",
+      "fa": "خودکار",
+      "en": "pen",
+      "he": "עט",
+      "it": "penna",
+      "uz": "ruchka"
+    },
     "transcription": "qalam",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ман бо қалам менависам.",
-    "exampleTranslation": "Я пишу ручкой."    ,"url":"https://thridy.com/i/dicons/pen-ce02e43d.webp"
-
+    "exampleTranslation": "Я пишу ручкой.",
+    "url": "https://thridy.com/i/dicons/pen-ce02e43d.webp"
   },
   {
     "id": 112,
     "word": "қаламдон",
     "sam_dialect": "қаламдон",
     "translation": "пенал",
+    "translations": {
+      "ru": "пенал",
+      "fa": "جامدادی",
+      "en": "pencil case",
+      "he": "קלמר",
+      "it": "astuccio",
+      "uz": "qalamdon"
+    },
     "transcription": "qalamdon",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Қаламдон дар ҷузвдон аст.",
-    "exampleTranslation": "Пенал в рюкзаке."    ,"url":"https://thridy.com/i/dicons/pencil-case.webp"
-
+    "exampleTranslation": "Пенал в рюкзаке.",
+    "url": "https://thridy.com/i/dicons/pencil-case.webp"
   },
   {
     "id": 113,
     "word": "ҷузвдон",
     "sam_dialect": "ҷузвдон",
     "translation": "рюкзак",
+    "translations": {
+      "ru": "рюкзак",
+      "fa": "کوله‌پشتی",
+      "en": "backpack",
+      "he": "תיק גב",
+      "it": "zaino",
+      "uz": "ryukzak"
+    },
     "transcription": "juzvdon",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ҷузвдони ман нав аст.",
-    "exampleTranslation": "Мой рюкзак новый."    ,"url":"https://thridy.com/i/dicons/backpack-38dcb548.webp"
-
+    "exampleTranslation": "Мой рюкзак новый.",
+    "url": "https://thridy.com/i/dicons/backpack-38dcb548.webp"
   },
   {
     "id": 114,
     "word": "тахтаи синф",
     "sam_dialect": "тахтаи синф",
     "translation": "классная доска",
+    "translations": {
+      "ru": "классная доска",
+      "fa": "تخته کلاس",
+      "en": "classroom board",
+      "he": "לוח כיתה",
+      "it": "lavagna",
+      "uz": "sinf doskasi"
+    },
     "transcription": "takhtai sinf",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Муаллим дар тахтаи синф менависад.",
-    "exampleTranslation": "Учитель пишет на доске."    ,"url":"https://thridy.com/i/dicons/study-f4ae3ac9.webp"
-
+    "exampleTranslation": "Учитель пишет на доске.",
+    "url": "https://thridy.com/i/dicons/study-f4ae3ac9.webp"
   },
   {
     "id": 115,
     "word": "имтиҳон",
     "sam_dialect": "имтиҳон",
     "translation": "экзамен",
+    "translations": {
+      "ru": "экзамен",
+      "fa": "امتحان",
+      "en": "exam",
+      "he": "מבחן",
+      "it": "esame",
+      "uz": "imtihon"
+    },
     "transcription": "imtihon",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Фардо имтиҳон дорем.",
-    "exampleTranslation": "Завтра у нас экзамен."    ,"url":"https://thridy.com/i/dicons/exam.webp"
-
+    "exampleTranslation": "Завтра у нас экзамен.",
+    "url": "https://thridy.com/i/dicons/exam.webp"
   },
   {
     "id": 116,
     "word": "санҷиш",
     "sam_dialect": "санҷиш",
     "translation": "тест, проверка",
+    "translations": {
+      "ru": "тест, проверка",
+      "fa": "آزمون، بررسی",
+      "en": "test, check",
+      "he": "מבחן, בדיקה",
+      "it": "test, verifica",
+      "uz": "test, tekshiruv"
+    },
     "transcription": "sanjish",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Имрӯз санҷиш дорем.",
-    "exampleTranslation": "Сегодня у нас тест.","url":"https://thridy.com/i/dicons/quality-control.webp"
+    "exampleTranslation": "Сегодня у нас тест.",
+    "url": "https://thridy.com/i/dicons/quality-control.webp"
   },
   {
     "id": 117,
     "word": "баҳо",
     "sam_dialect": "баҳо",
     "translation": "оценка",
+    "translations": {
+      "ru": "оценка",
+      "fa": "نمره",
+      "en": "grade",
+      "he": "ציון",
+      "it": "voto",
+      "uz": "baho"
+    },
     "transcription": "baho",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ман баҳои хуб гирифтам.",
-    "exampleTranslation": "Я получил хорошую оценку."    ,"url":"https://thridy.com/i/dicons/passing-grade.webp"
-
+    "exampleTranslation": "Я получил хорошую оценку.",
+    "url": "https://thridy.com/i/dicons/passing-grade.webp"
   },
   {
     "id": 118,
     "word": "вазифаи хонагӣ",
     "sam_dialect": "вазифаи хонагӣ",
     "translation": "домашнее задание",
+    "translations": {
+      "ru": "домашнее задание",
+      "fa": "تکلیف خانه",
+      "en": "homework",
+      "he": "שיעורי בית",
+      "it": "compiti a casa",
+      "uz": "uy vazifasi"
+    },
     "transcription": "vazifai khonagi",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Ман вазифаи хонагиро иҷро мекунам.",
-    "exampleTranslation": "Я выполняю домашнее задание."    ,"url":"https://thridy.com/i/dicons/learning.webp"
-
+    "exampleTranslation": "Я выполняю домашнее задание.",
+    "url": "https://thridy.com/i/dicons/learning.webp"
   },
   {
     "id": 119,
     "word": "маълумот",
     "sam_dialect": "маълумот",
     "translation": "знания, информация",
+    "translations": {
+      "ru": "знания, информация",
+      "fa": "اطلاعات",
+      "en": "information",
+      "he": "מידע",
+      "it": "informazioni",
+      "uz": "ma'lumot"
+    },
     "transcription": "malumot",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Ин китоб маълумоти зиёд дорад.",
-    "exampleTranslation": "В этой книге много информации."    ,"url":"https://thridy.com/i/dicons/intelligence.webp"
-
+    "exampleTranslation": "В этой книге много информации.",
+    "url": "https://thridy.com/i/dicons/intelligence.webp"
   },
   {
     "id": 120,
     "word": "дониш",
     "sam_dialect": "дониш",
     "translation": "знание",
+    "translations": {
+      "ru": "знание",
+      "fa": "دانش",
+      "en": "knowledge",
+      "he": "ידע",
+      "it": "conoscenza",
+      "uz": "bilim"
+    },
     "transcription": "donish",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Дониш барои инсон муҳим аст.",
-    "exampleTranslation": "Знания важны для человека."    ,"url":"https://thridy.com/i/dicons/capstone.webp"
-
+    "exampleTranslation": "Знания важны для человека.",
+    "url": "https://thridy.com/i/dicons/capstone.webp"
   },
-  {
+   {
     "id": 121,
     "word": "омӯзиш",
     "sam_dialect": "омӯзиш",
     "translation": "обучение, изучение",
+    "translations": {
+      "ru": "обучение, изучение",
+      "fa": "آموزش، یادگیری",
+      "en": "learning, studying",
+      "he": "למידה, לימוד",
+      "it": "apprendimento, studio",
+      "uz": "o'rganish, ta'lim"
+    },
     "transcription": "omuzish",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Омӯзиш вақти зиёд талаб мекунад.",
-    "exampleTranslation": "Обучение требует много времени."    ,"url":"https://thridy.com/i/dicons/tutor.webp"
-
+    "exampleTranslation": "Обучение требует много времени.",
+    "url": "https://thridy.com/i/dicons/tutor.webp"
   },
   {
     "id": 122,
     "word": "хондан",
     "sam_dialect": "хондан",
     "translation": "учиться, читать",
+    "translations": {
+      "ru": "учиться, читать",
+      "fa": "درس خواندن، خواندن",
+      "en": "to study, to read",
+      "he": "ללמוד, לקרוא",
+      "it": "studiare, leggere",
+      "uz": "o'qimoq, o'rganmoq"
+    },
     "transcription": "khondan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "education",
     "example": "Ман хонданро дӯст медорам.",
-    "exampleTranslation": "Я люблю учиться и читать."    ,"url":"https://thridy.com/i/dicons/student-ebc0f1c5.webp"
-
+    "exampleTranslation": "Я люблю учиться и читать.",
+    "url": "https://thridy.com/i/dicons/student-ebc0f1c5.webp"
   },
   {
     "id": 123,
     "word": "навиштан",
     "sam_dialect": "навестан",
     "translation": "писать",
+    "translations": {
+      "ru": "писать",
+      "fa": "نوشتن",
+      "en": "to write",
+      "he": "לכתוב",
+      "it": "scrivere",
+      "uz": "yozmoq"
+    },
     "transcription": "navishtan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "education",
     "example": "Ман дар дафтар менависам.",
-    "exampleTranslation": "Я пишу в тетради."    ,"url":"https://thridy.com/i/dicons/student-4083deeb.webp"
-
+    "exampleTranslation": "Я пишу в тетради.",
+    "url": "https://thridy.com/i/dicons/student-4083deeb.webp"
   },
   {
     "id": 124,
     "word": "омӯхтан",
     "sam_dialect": "омӯхтан",
     "translation": "изучать, учить",
+    "translations": {
+      "ru": "изучать, учить",
+      "fa": "آموختن، یاد گرفتن",
+      "en": "to learn, to study",
+      "he": "ללמוד",
+      "it": "imparare, studiare",
+      "uz": "o'rganmoq"
+    },
     "transcription": "omukhtan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "education",
     "example": "Ман забони тоҷикӣ меомӯзам.",
-    "exampleTranslation": "Я изучаю таджикский язык."    ,"url":"https://thridy.com/i/dicons/studying.webp"
-
+    "exampleTranslation": "Я изучаю таджикский язык.",
+    "url": "https://thridy.com/i/dicons/studying.webp"
   },
   {
     "id": 125,
     "word": "фаҳмидан",
     "sam_dialect": "фаҳмидан",
     "translation": "понимать",
+    "translations": {
+      "ru": "понимать",
+      "fa": "فهمیدن",
+      "en": "to understand",
+      "he": "להבין",
+      "it": "capire",
+      "uz": "tushunmoq"
+    },
     "transcription": "fahmidan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "education",
     "example": "Ман саволро фаҳмидам.",
-    "exampleTranslation": "Я понял вопрос."    ,"url":"https://thridy.com/i/dicons/socrates.webp"
-
+    "exampleTranslation": "Я понял вопрос.",
+    "url": "https://thridy.com/i/dicons/socrates.webp"
   },
   {
     "id": 126,
     "word": "савол",
     "sam_dialect": "савол",
     "translation": "вопрос",
+    "translations": {
+      "ru": "вопрос",
+      "fa": "سؤال",
+      "en": "question",
+      "he": "שאלה",
+      "it": "domanda",
+      "uz": "savol"
+    },
     "transcription": "savol",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ман як савол дорам.",
-    "exampleTranslation": "У меня есть вопрос."    ,"url":"https://thridy.com/i/dicons/q-a-1080bc86.webp"
-
+    "exampleTranslation": "У меня есть вопрос.",
+    "url": "https://thridy.com/i/dicons/q-a-1080bc86.webp"
   },
   {
     "id": 127,
     "word": "ҷавоб",
     "sam_dialect": "ҷавоб",
     "translation": "ответ",
+    "translations": {
+      "ru": "ответ",
+      "fa": "پاسخ",
+      "en": "answer",
+      "he": "תשובה",
+      "it": "risposta",
+      "uz": "javob"
+    },
     "transcription": "javob",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ҷавоби ман дуруст аст.",
-    "exampleTranslation": "Мой ответ правильный."    ,"url":"https://thridy.com/i/dicons/approved-e92f671f.webp"
-
+    "exampleTranslation": "Мой ответ правильный.",
+    "url": "https://thridy.com/i/dicons/approved-e92f671f.webp"
   },
   {
     "id": 128,
     "word": "фан",
     "sam_dialect": "фан",
     "translation": "предмет",
+    "translations": {
+      "ru": "предмет",
+      "fa": "ماده درسی",
+      "en": "school subject",
+      "he": "מקצוע לימוד",
+      "it": "materia scolastica",
+      "uz": "fan"
+    },
     "transcription": "fan",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Математика фанни дӯстдоштаи ман аст.",
-    "exampleTranslation": "Математика — мой любимый предмет."    ,"url":"https://thridy.com/i/dicons/english-class.webp"
-
+    "exampleTranslation": "Математика — мой любимый предмет.",
+    "url": "https://thridy.com/i/dicons/english-class.webp"
   },
   {
     "id": 129,
     "word": "китобхона",
     "sam_dialect": "китобхона",
     "translation": "библиотека",
+    "translations": {
+      "ru": "библиотека",
+      "fa": "کتابخانه",
+      "en": "library",
+      "he": "ספרייה",
+      "it": "biblioteca",
+      "uz": "kutubxona"
+    },
     "transcription": "kitobkhona",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "education",
     "example": "Ман ба китобхона меравам.",
-    "exampleTranslation": "Я иду в библиотеку."    ,"url":"https://thridy.com/i/dicons/round-library.webp"
-
+    "exampleTranslation": "Я иду в библиотеку.",
+    "url": "https://thridy.com/i/dicons/round-library.webp"
   },
   {
     "id": 130,
     "word": "донишманд",
     "sam_dialect": "донишманд",
     "translation": "учёный, образованный человек",
+    "translations": {
+      "ru": "учёный, образованный человек",
+      "fa": "دانشمند، فرد باسواد",
+      "en": "scholar, educated person",
+      "he": "מלומד, אדם משכיל",
+      "it": "studioso, persona istruita",
+      "uz": "olim, bilimli inson"
+    },
     "transcription": "donishmand",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "education",
     "example": "Ӯ шахси донишманд аст.",
-    "exampleTranslation": "Он образованный человек."    ,"url":"https://thridy.com/i/dicons/scientist-81a46626.webp"
-
+    "exampleTranslation": "Он образованный человек.",
+    "url": "https://thridy.com/i/dicons/scientist-81a46626.webp"
   },
-    {
+  {
     "id": 231,
     "word": "кӯҳ",
     "sam_dialect": "кӯҳ",
     "translation": "гора",
+    "translations": {
+      "ru": "гора",
+      "fa": "کوه",
+      "en": "mountain",
+      "he": "הר",
+      "it": "montagna",
+      "uz": "tog'"
+    },
     "transcription": "kuh",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Ин кӯҳ хеле баланд аст.",
-    "exampleTranslation": "Эта гора очень высокая."     ,"url":"https://thridy.com/i/dicons/himalayan-mountains.webp"
-
+    "exampleTranslation": "Эта гора очень высокая.",
+    "url": "https://thridy.com/i/dicons/himalayan-mountains.webp"
   },
   {
     "id": 232,
     "word": "кӯҳсор",
     "sam_dialect": "кӯҳсор",
     "translation": "горная местность",
+    "translations": {
+      "ru": "горная местность",
+      "fa": "منطقه کوهستانی",
+      "en": "mountainous area",
+      "he": "אזור הררי",
+      "it": "zona montuosa",
+      "uz": "tog'li hudud"
+    },
     "transcription": "kuhsor",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "nature",
     "example": "Кӯҳсор манзараи зебо дорад.",
-    "exampleTranslation": "Горная местность имеет красивый пейзаж."    ,"url":"https://thridy.com/i/dicons/cerro-de-la-silla-870dfe8f.webp"
-
+    "exampleTranslation": "Горная местность имеет красивый пейзаж.",
+    "url": "https://thridy.com/i/dicons/cerro-de-la-silla-870dfe8f.webp"
   },
   {
     "id": 233,
     "word": "водӣ",
     "sam_dialect": "водӣ",
     "translation": "долина",
+    "translations": {
+      "ru": "долина",
+      "fa": "دره",
+      "en": "valley",
+      "he": "עמק",
+      "it": "valle",
+      "uz": "vodiy"
+    },
     "transcription": "vodi",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Водӣ сабзу васеъ аст.",
-    "exampleTranslation": "Долина зелёная и широкая.","url":"https://thridy.com/i/dicons/valley.webp"
+    "exampleTranslation": "Долина зелёная и широкая.",
+    "url": "https://thridy.com/i/dicons/valley.webp"
   },
   {
     "id": 234,
     "word": "дара",
     "sam_dialect": "дара",
     "translation": "ущелье",
+    "translations": {
+      "ru": "ущелье",
+      "fa": "دره باریک",
+      "en": "gorge",
+      "he": "נקיק",
+      "it": "gola",
+      "uz": "dara"
+    },
     "transcription": "dara",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "nature",
     "example": "Роҳ аз дара мегузарад.",
-    "exampleTranslation": "Дорога проходит через ущелье.","url":"https://thridy.com/i/dicons/gorge.webp"
+    "exampleTranslation": "Дорога проходит через ущелье.",
+    "url": "https://thridy.com/i/dicons/gorge.webp"
   },
   {
     "id": 235,
     "word": "теппа",
     "sam_dialect": "теппа",
     "translation": "холм",
+    "translations": {
+      "ru": "холм",
+      "fa": "تپه",
+      "en": "hill",
+      "he": "גבעה",
+      "it": "collina",
+      "uz": "tepalik"
+    },
     "transcription": "teppa",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Мо ба теппа баромадем.",
-    "exampleTranslation": "Мы поднялись на холм.","url":"https://thridy.com/i/dicons/hill.webp"
+    "exampleTranslation": "Мы поднялись на холм.",
+    "url": "https://thridy.com/i/dicons/hill.webp"
   },
   {
     "id": 236,
     "word": "ҷангал",
     "sam_dialect": "дарахтзор",
     "translation": "лес",
+    "translations": {
+      "ru": "лес",
+      "fa": "جنگل",
+      "en": "forest",
+      "he": "יער",
+      "it": "foresta",
+      "uz": "o'rmon"
+    },
     "transcription": "jangal",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Ҷангал хеле калон аст.",
-    "exampleTranslation": "Лес очень большой.","url":"https://thridy.com/i/dicons/pine-forest.webp"
+    "exampleTranslation": "Лес очень большой.",
+    "url": "https://thridy.com/i/dicons/pine-forest.webp"
   },
   {
     "id": 237,
     "word": "дарахт",
     "sam_dialect": "дарахт",
     "translation": "дерево",
+    "translations": {
+      "ru": "дерево",
+      "fa": "درخت",
+      "en": "tree",
+      "he": "עץ",
+      "it": "albero",
+      "uz": "daraxt"
+    },
     "transcription": "darakht",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Дарахт дар канори роҳ аст.",
-    "exampleTranslation": "Дерево находится у дороги.","url":"https://thridy.com/i/dicons/tree-df9918fd.webp"
+    "exampleTranslation": "Дерево находится у дороги.",
+    "url": "https://thridy.com/i/dicons/tree-df9918fd.webp"
   },
   {
     "id": 238,
     "word": "алаф",
     "sam_dialect": "алаф",
     "translation": "трава",
+    "translations": {
+      "ru": "трава",
+      "fa": "علف",
+      "en": "grass",
+      "he": "דשא",
+      "it": "erba",
+      "uz": "o't"
+    },
     "transcription": "alaf",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Алаф сабз аст.",
-    "exampleTranslation": "Трава зелёная.","url":"https://thridy.com/i/dicons/grass-e67f28be.webp"
+    "exampleTranslation": "Трава зелёная.",
+    "url": "https://thridy.com/i/dicons/grass-e67f28be.webp"
   },
   {
     "id": 239,
     "word": "гул",
     "sam_dialect": "гул",
     "translation": "цветок",
+    "translations": {
+      "ru": "цветок",
+      "fa": "گل",
+      "en": "flower",
+      "he": "פרח",
+      "it": "fiore",
+      "uz": "gul"
+    },
     "transcription": "gul",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Гулҳо дар баҳор мешукуфанд.",
-    "exampleTranslation": "Цветы распускаются весной.","url":"https://thridy.com/i/dicons/wildflower.webp"
+    "exampleTranslation": "Цветы распускаются весной.",
+    "url": "https://thridy.com/i/dicons/wildflower.webp"
   },
   {
     "id": 240,
     "word": "биёбон",
     "sam_dialect": "чел",
     "translation": "пустыня",
+    "translations": {
+      "ru": "пустыня",
+      "fa": "بیابان",
+      "en": "desert",
+      "he": "מדבר",
+      "it": "deserto",
+      "uz": "cho'l"
+    },
     "transcription": "biyobon",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Биёбон хеле хушк аст.",
-    "exampleTranslation": "Пустыня очень сухая.","url":"https://thridy.com/i/dicons/desert-ground.webp"
+    "exampleTranslation": "Пустыня очень сухая.",
+    "url": "https://thridy.com/i/dicons/desert-ground.webp"
   },
-  {
+   {
     "id": 241,
     "word": "рег",
     "sam_dialect": "рег",
     "translation": "песок",
+    "translations": {
+      "ru": "песок",
+      "fa": "شن",
+      "en": "sand",
+      "he": "חול",
+      "it": "sabbia",
+      "uz": "qum"
+    },
     "transcription": "reg",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Рег дар биёбон зиёд аст.",
-    "exampleTranslation": "В пустыне много песка.","url":"https://thridy.com/i/dicons/sand-bucket.webp"
+    "exampleTranslation": "В пустыне много песка.",
+    "url": "https://thridy.com/i/dicons/sand-bucket.webp"
   },
   {
     "id": 242,
     "word": "санг",
     "sam_dialect": "санг",
     "translation": "камень",
+    "translations": {
+      "ru": "камень",
+      "fa": "سنگ",
+      "en": "stone",
+      "he": "אבן",
+      "it": "pietra",
+      "uz": "tosh"
+    },
     "transcription": "sang",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Санг дар роҳ аст.",
-    "exampleTranslation": "На дороге лежит камень.","url":"https://thridy.com/i/dicons/rock-b45461c4.webp"
+    "exampleTranslation": "На дороге лежит камень.",
+    "url": "https://thridy.com/i/dicons/rock-b45461c4.webp"
   },
   {
     "id": 243,
     "word": "дарё",
     "sam_dialect": "дарё",
     "translation": "река",
+    "translations": {
+      "ru": "река",
+      "fa": "رودخانه",
+      "en": "river",
+      "he": "נהר",
+      "it": "fiume",
+      "uz": "daryo"
+    },
     "transcription": "daryo",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Дарё аз байни шаҳр мегузарад.",
-    "exampleTranslation": "Река проходит через город.","url":"https://thridy.com/i/dicons/river-a7c085f9.webp"
+    "exampleTranslation": "Река проходит через город.",
+    "url": "https://thridy.com/i/dicons/river-a7c085f9.webp"
   },
   {
     "id": 244,
     "word": "кӯл",
     "sam_dialect": "кӯл",
     "translation": "озеро",
+    "translations": {
+      "ru": "озеро",
+      "fa": "دریاچه",
+      "en": "lake",
+      "he": "אגם",
+      "it": "lago",
+      "uz": "ko'l"
+    },
     "transcription": "kul",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Кӯл хеле соф аст.",
-    "exampleTranslation": "Озеро очень чистое.","url":"https://thridy.com/i/dicons/lake.webp"
+    "exampleTranslation": "Озеро очень чистое.",
+    "url": "https://thridy.com/i/dicons/lake.webp"
   },
   {
     "id": 245,
     "word": "баҳр",
     "sam_dialect": "баҳр",
     "translation": "море",
+    "translations": {
+      "ru": "море",
+      "fa": "دریا",
+      "en": "sea",
+      "he": "ים",
+      "it": "mare",
+      "uz": "dengiz"
+    },
     "transcription": "bahr",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Баҳр хеле калон аст.",
-    "exampleTranslation": "Море очень большое.","url":"https://thridy.com/i/dicons/ocean-457638b9.webp"
+    "exampleTranslation": "Море очень большое.",
+    "url": "https://thridy.com/i/dicons/ocean-457638b9.webp"
   },
   {
     "id": 246,
     "word": "уқёнус",
     "sam_dialect": "уқёнус",
     "translation": "океан",
+    "translations": {
+      "ru": "океан",
+      "fa": "اقیانوس",
+      "en": "ocean",
+      "he": "אוקיינוס",
+      "it": "oceano",
+      "uz": "okean"
+    },
     "transcription": "uqyonus",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Уқёнус аз баҳр хеле калонтар аст.",
-    "exampleTranslation": "Океан намного больше моря.","url":"https://thridy.com/i/dicons/oceanwave.webp"
+    "exampleTranslation": "Океан намного больше моря.",
+    "url": "https://thridy.com/i/dicons/oceanwave.webp"
   },
   {
     "id": 247,
     "word": "ҷазира",
     "sam_dialect": "ҷазира",
     "translation": "остров",
+    "translations": {
+      "ru": "остров",
+      "fa": "جزیره",
+      "en": "island",
+      "he": "אי",
+      "it": "isola",
+      "uz": "orol"
+    },
     "transcription": "jazira",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "nature",
     "example": "Ҷазира дар миёни баҳр ҷойгир аст.",
-    "exampleTranslation": "Остров находится посреди моря.","url":"https://thridy.com/i/dicons/island.webp"
+    "exampleTranslation": "Остров находится посреди моря.",
+    "url": "https://thridy.com/i/dicons/island.webp"
   },
   {
     "id": 248,
     "word": "соҳил",
     "sam_dialect": "соҳил",
     "translation": "берег",
+    "translations": {
+      "ru": "берег",
+      "fa": "ساحل",
+      "en": "shore",
+      "he": "חוף",
+      "it": "riva",
+      "uz": "sohil"
+    },
     "transcription": "sohil",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Мо дар соҳил сайр кардем.",
-    "exampleTranslation": "Мы гуляли на берегу.","url":"https://thridy.com/i/dicons/pebble-beach.webp"
+    "exampleTranslation": "Мы гуляли на берегу.",
+    "url": "https://thridy.com/i/dicons/pebble-beach.webp"
   },
   {
     "id": 249,
     "word": "шаршара",
     "sam_dialect": "шаршара",
     "translation": "водопад",
+    "translations": {
+      "ru": "водопад",
+      "fa": "آبشار",
+      "en": "waterfall",
+      "he": "מפל מים",
+      "it": "cascata",
+      "uz": "sharshara"
+    },
     "transcription": "sharshara",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "nature",
     "example": "Шаршара хеле зебо аст.",
-    "exampleTranslation": "Водопад очень красивый.","url":"https://thridy.com/i/dicons/waterfall-7086d082.webp"
+    "exampleTranslation": "Водопад очень красивый.",
+    "url": "https://thridy.com/i/dicons/waterfall-7086d082.webp"
   },
   {
     "id": 250,
     "word": "ғор",
     "sam_dialect": "ғор",
     "translation": "пещера",
+    "translations": {
+      "ru": "пещера",
+      "fa": "غار",
+      "en": "cave",
+      "he": "מערה",
+      "it": "grotta",
+      "uz": "g'or"
+    },
     "transcription": "ghor",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "nature",
     "example": "Мо ғори калонеро дидем.",
-    "exampleTranslation": "Мы увидели большую пещеру.","url":"https://thridy.com/i/dicons/cave-4f5e344a.webp"
+    "exampleTranslation": "Мы увидели большую пещеру.",
+    "url": "https://thridy.com/i/dicons/cave-4f5e344a.webp"
   },
   {
     "id": 251,
     "word": "осмон",
     "sam_dialect": "осмон",
     "translation": "небо",
+    "translations": {
+      "ru": "небо",
+      "fa": "آسمان",
+      "en": "sky",
+      "he": "שמיים",
+      "it": "cielo",
+      "uz": "osmon"
+    },
     "transcription": "osmon",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Осмон имрӯз соф аст.",
-    "exampleTranslation": "Сегодня небо ясное.","url":"https://thridy.com/i/dicons/starry-night-17fb102c.webp"
+    "exampleTranslation": "Сегодня небо ясное.",
+    "url": "https://thridy.com/i/dicons/starry-night-17fb102c.webp"
   },
   {
     "id": 252,
     "word": "абр",
     "sam_dialect": "булут",
     "translation": "облако",
+    "translations": {
+      "ru": "облако",
+      "fa": "ابر",
+      "en": "cloud",
+      "he": "ענן",
+      "it": "nuvola",
+      "uz": "bulut"
+    },
     "transcription": "abr",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Абрҳо осмонро пӯшонданд.",
-    "exampleTranslation": "Облака закрыли небо.","url":"https://thridy.com/i/dicons/cloud-face.webp"
+    "exampleTranslation": "Облака закрыли небо.",
+    "url": "https://thridy.com/i/dicons/cloud-face.webp"
   },
   {
     "id": 253,
     "word": "борон",
     "sam_dialect": "борон",
     "translation": "дождь",
+    "translations": {
+      "ru": "дождь",
+      "fa": "باران",
+      "en": "rain",
+      "he": "גשם",
+      "it": "pioggia",
+      "uz": "yomg'ir"
+    },
     "transcription": "boron",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Имрӯз борон меборад.",
-    "exampleTranslation": "Сегодня идёт дождь.","url":"https://thridy.com/i/dicons/rain.webp"
+    "exampleTranslation": "Сегодня идёт дождь.",
+    "url": "https://thridy.com/i/dicons/rain.webp"
   },
   {
     "id": 254,
     "word": "барф",
     "sam_dialect": "барф",
     "translation": "снег",
+    "translations": {
+      "ru": "снег",
+      "fa": "برف",
+      "en": "snow",
+      "he": "שלג",
+      "it": "neve",
+      "uz": "qor"
+    },
     "transcription": "barf",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Зимистон барф меборад.",
-    "exampleTranslation": "Зимой идёт снег.","url":"https://thridy.com/i/dicons/snowflake-3d-icon-3ba50eba.webp"
+    "exampleTranslation": "Зимой идёт снег.",
+    "url": "https://thridy.com/i/dicons/snowflake-3d-icon-3ba50eba.webp"
   },
   {
     "id": 255,
     "word": "шамол",
     "sam_dialect": "шамол",
     "translation": "ветер",
+    "translations": {
+      "ru": "ветер",
+      "fa": "باد",
+      "en": "wind",
+      "he": "רוח",
+      "it": "vento",
+      "uz": "shamol"
+    },
     "transcription": "shamol",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Имрӯз шамоли сахт мевазад.",
-    "exampleTranslation": "Сегодня дует сильный ветер.","url":"https://thridy.com/i/dicons/wind-3d-icon-b126db43.webp"
+    "exampleTranslation": "Сегодня дует сильный ветер.",
+    "url": "https://thridy.com/i/dicons/wind-3d-icon-b126db43.webp"
   },
   {
     "id": 256,
     "word": "офтоб",
     "sam_dialect": "офтоб",
     "translation": "солнце",
+    "translations": {
+      "ru": "солнце",
+      "fa": "خورشید",
+      "en": "sun",
+      "he": "שמש",
+      "it": "sole",
+      "uz": "quyosh"
+    },
     "transcription": "oftob",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Офтоб равшан аст.",
-    "exampleTranslation": "Солнце яркое.","url":"https://thridy.com/i/dicons/sun-3d-icon-cb4a9702.webp"
+    "exampleTranslation": "Солнце яркое.",
+    "url": "https://thridy.com/i/dicons/sun-3d-icon-cb4a9702.webp"
   },
   {
     "id": 257,
     "word": "моҳ",
     "sam_dialect": "моҳ",
     "translation": "луна",
+    "translations": {
+      "ru": "луна",
+      "fa": "ماه",
+      "en": "moon",
+      "he": "ירח",
+      "it": "luna",
+      "uz": "oy"
+    },
     "transcription": "moh",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Моҳ дар осмон аст.",
-    "exampleTranslation": "Луна находится на небе.","url":"https://thridy.com/i/dicons/moon-3d-icon-05523286.webp"
+    "exampleTranslation": "Луна находится на небе.",
+    "url": "https://thridy.com/i/dicons/moon-3d-icon-05523286.webp"
   },
   {
     "id": 258,
     "word": "ситора",
     "sam_dialect": "ситора",
     "translation": "звезда",
+    "translations": {
+      "ru": "звезда",
+      "fa": "ستاره",
+      "en": "star",
+      "he": "כוכב",
+      "it": "stella",
+      "uz": "yulduz"
+    },
     "transcription": "sitora",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Шаб ситораҳо бисёр мешаванд.",
-    "exampleTranslation": "Ночью становится много звёзд.","url":"https://thridy.com/i/dicons/star-3d-icon-1b30e6c9.webp"
+    "exampleTranslation": "Ночью становится много звёзд.",
+    "url": "https://thridy.com/i/dicons/star-3d-icon-1b30e6c9.webp"
   },
   {
     "id": 259,
     "word": "замин",
     "sam_dialect": "замин",
     "translation": "земля; почва",
+    "translations": {
+      "ru": "земля; почва",
+      "fa": "زمین؛ خاک",
+      "en": "earth; soil",
+      "he": "אדמה; קרקע",
+      "it": "terra; suolo",
+      "uz": "yer; tuproq"
+    },
     "transcription": "zamin",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Замин баъди борон тар шуд.",
-    "exampleTranslation": "Земля стала мокрой после дождя.","url":"https://thridy.com/i/dicons/soil.webp"
+    "exampleTranslation": "Земля стала мокрой после дождя.",
+    "url": "https://thridy.com/i/dicons/soil.webp"
   },
   {
     "id": 260,
     "word": "майдон",
     "sam_dialect": "майдон",
     "translation": "поле; открытое пространство",
+    "translations": {
+      "ru": "поле; открытое пространство",
+      "fa": "میدان؛ فضای باز",
+      "en": "field; open space",
+      "he": "שדה; שטח פתוח",
+      "it": "campo; spazio aperto",
+      "uz": "maydon; ochiq joy"
+    },
     "transcription": "maydon",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "nature",
     "example": "Майдон бо алафи сабз пӯшида шудааст.",
-    "exampleTranslation": "Поле покрыто зелёной травой.","url":"https://thridy.com/i/dicons/plaza-f12680d6.webp"
+    "exampleTranslation": "Поле покрыто зелёной травой.",
+    "url": "https://thridy.com/i/dicons/plaza-f12680d6.webp"
   },
-  {
+    {
     "id": 131,
     "word": "сафар",
     "sam_dialect": "сафар",
     "translation": "путешествие",
+    "translations": {
+      "ru": "путешествие",
+      "fa": "سفر",
+      "en": "journey, travel",
+      "he": "מסע",
+      "it": "viaggio",
+      "uz": "sayohat"
+    },
     "transcription": "safar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ман сафарро дӯст медорам.",
-    "exampleTranslation": "Я люблю путешествия.","url":"https://thridy.com/i/dicons/travel-app-3d-icon.webp"
+    "exampleTranslation": "Я люблю путешествия.",
+    "url": "https://thridy.com/i/dicons/travel-app-3d-icon.webp"
   },
   {
     "id": 132,
     "word": "роҳ",
     "sam_dialect": "раҳ",
     "translation": "дорога",
+    "translations": {
+      "ru": "дорога",
+      "fa": "جاده",
+      "en": "road",
+      "he": "דרך",
+      "it": "strada",
+      "uz": "yo'l"
+    },
     "transcription": "roh",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Роҳ хеле дароз аст.",
-    "exampleTranslation": "Дорога очень длинная.","url":"https://thridy.com/i/dicons/road-07bf2c80.webp"
+    "exampleTranslation": "Дорога очень длинная.",
+    "url": "https://thridy.com/i/dicons/road-07bf2c80.webp"
   },
   {
     "id": 133,
     "word": "фурудгоҳ",
     "sam_dialect": "фурудгоҳ",
     "translation": "аэропорт",
+    "translations": {
+      "ru": "аэропорт",
+      "fa": "فرودگاه",
+      "en": "airport",
+      "he": "שדה תעופה",
+      "it": "aeroporto",
+      "uz": "aeroport"
+    },
     "transcription": "furudgoh",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Мо ба фурудгоҳ рафтем.",
-    "exampleTranslation": "Мы поехали в аэропорт.","url":"https://thridy.com/i/dicons/airport-terminal-c4dd809f.webp"
+    "exampleTranslation": "Мы поехали в аэропорт.",
+    "url": "https://thridy.com/i/dicons/airport-terminal-c4dd809f.webp"
   },
   {
     "id": 134,
     "word": "истгоҳ",
     "sam_dialect": "истгоҳ",
     "translation": "станция, остановка",
+    "translations": {
+      "ru": "станция, остановка",
+      "fa": "ایستگاه",
+      "en": "station, stop",
+      "he": "תחנה",
+      "it": "stazione, fermata",
+      "uz": "bekat, vokzal"
+    },
     "transcription": "istgoh",
     "audio": "/audio/tajik/travel/134.mp3",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ман дар истгоҳ интизор ҳастам.",
-    "exampleTranslation": "Я жду на остановке.","url":"https://thridy.com/i/dicons/bus-terminal-b1ad2d88.webp"
+    "exampleTranslation": "Я жду на остановке.",
+    "url": "https://thridy.com/i/dicons/bus-terminal-b1ad2d88.webp"
   },
   {
     "id": 135,
     "word": "меҳмонхона",
     "sam_dialect": "меҳмонхона",
     "translation": "отель, гостиница",
+    "translations": {
+      "ru": "отель, гостиница",
+      "fa": "هتل",
+      "en": "hotel",
+      "he": "מלון",
+      "it": "hotel, albergo",
+      "uz": "mehmonxona"
+    },
     "transcription": "mehmonkhona",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Мо дар меҳмонхона зиндагӣ мекунем.",
-    "exampleTranslation": "Мы живём в гостинице.","url":"https://thridy.com/i/dicons/hotel-3d-icon-d30bfcb8.webp"
+    "exampleTranslation": "Мы живём в гостинице.",
+    "url": "https://thridy.com/i/dicons/hotel-3d-icon-d30bfcb8.webp"
   },
   {
     "id": 136,
     "word": "чипта",
     "sam_dialect": "чипта",
     "translation": "билет",
+    "translations": {
+      "ru": "билет",
+      "fa": "بلیت",
+      "en": "ticket",
+      "he": "כרטיס",
+      "it": "biglietto",
+      "uz": "chipta"
+    },
     "transcription": "chipta",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ман чипта харидам.",
-    "exampleTranslation": "Я купил билет.","url":"https://thridy.com/i/dicons/tickets-4f0f9305.webp"
+    "exampleTranslation": "Я купил билет.",
+    "url": "https://thridy.com/i/dicons/tickets-4f0f9305.webp"
   },
   {
     "id": 137,
     "word": "шиноснома",
     "sam_dialect": "шиноснома",
     "translation": "паспорт",
+    "translations": {
+      "ru": "паспорт",
+      "fa": "گذرنامه",
+      "en": "passport",
+      "he": "דרכון",
+      "it": "passaporto",
+      "uz": "pasport"
+    },
     "transcription": "shinosnoma",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Шиносномаи худро фаромӯш накун.",
-    "exampleTranslation": "Не забудь свой паспорт.","url":"https://thridy.com/i/dicons/passport.webp"
+    "exampleTranslation": "Не забудь свой паспорт.",
+    "url": "https://thridy.com/i/dicons/passport.webp"
   },
   {
     "id": 138,
     "word": "бор",
     "sam_dialect": "бор",
     "translation": "багаж",
+    "translations": {
+      "ru": "багаж",
+      "fa": "بار",
+      "en": "luggage, baggage",
+      "he": "מטען",
+      "it": "bagaglio",
+      "uz": "yuk"
+    },
     "transcription": "bor",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "travel",
     "example": "Бори ман вазнин аст.",
-    "exampleTranslation": "Мой багаж тяжёлый.","url":"https://thridy.com/i/dicons/baggage-cart.webp"
+    "exampleTranslation": "Мой багаж тяжёлый.",
+    "url": "https://thridy.com/i/dicons/baggage-cart.webp"
   },
   {
     "id": 139,
     "word": "ҷомадон",
     "sam_dialect": "ҷомадон",
     "translation": "чемодан",
+    "translations": {
+      "ru": "чемодан",
+      "fa": "چمدان",
+      "en": "suitcase",
+      "he": "מזוודה",
+      "it": "valigia",
+      "uz": "chamadon"
+    },
     "transcription": "jomadon",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ҷомадони ман калон аст.",
-    "exampleTranslation": "Мой чемодан большой.","url":"https://thridy.com/i/dicons/travel-bag.webp"
+    "exampleTranslation": "Мой чемодан большой.",
+    "url": "https://thridy.com/i/dicons/travel-bag.webp"
   },
   {
     "id": 140,
     "word": "харита",
     "sam_dialect": "харита",
     "translation": "карта",
+    "translations": {
+      "ru": "карта",
+      "fa": "نقشه",
+      "en": "map",
+      "he": "מפה",
+      "it": "mappa",
+      "uz": "xarita"
+    },
     "transcription": "kharita",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ман ба харита нигоҳ мекунам.",
-    "exampleTranslation": "Я смотрю на карту.","url":"https://thridy.com/i/dicons/silk-road-map-de82cb6b.webp"
+    "exampleTranslation": "Я смотрю на карту.",
+    "url": "https://thridy.com/i/dicons/silk-road-map-de82cb6b.webp"
   },
   {
     "id": 141,
     "word": "шаҳр",
     "sam_dialect": "шаҳр",
     "translation": "город",
+    "translations": {
+      "ru": "город",
+      "fa": "شهر",
+      "en": "city",
+      "he": "עיר",
+      "it": "città",
+      "uz": "shahar"
+    },
     "transcription": "shahr",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Душанбе шаҳри зебо аст.",
-    "exampleTranslation": "Душанбе — красивый город.","url":"https://thridy.com/i/dicons/city-030f6b4a.webp"
+    "exampleTranslation": "Душанбе — красивый город.",
+    "url": "https://thridy.com/i/dicons/city-030f6b4a.webp"
   },
   {
     "id": 142,
     "word": "кишвар",
     "sam_dialect": "кишвар",
     "translation": "страна",
+    "translations": {
+      "ru": "страна",
+      "fa": "کشور",
+      "en": "country",
+      "he": "מדינה",
+      "it": "paese",
+      "uz": "mamlakat"
+    },
     "transcription": "kishvar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ман мехоҳам кишварҳои дигарро бинам.",
-    "exampleTranslation": "Я хочу увидеть другие страны.","url":"https://thridy.com/i/dicons/tajikistan-8f7c4fb1.webp"
+    "exampleTranslation": "Я хочу увидеть другие страны.",
+    "url": "https://thridy.com/i/dicons/tajikistan-8f7c4fb1.webp"
   },
   {
     "id": 143,
     "word": "деҳа",
     "sam_dialect": "деҳа",
     "translation": "деревня",
+    "translations": {
+      "ru": "деревня",
+      "fa": "روستا",
+      "en": "village",
+      "he": "כפר",
+      "it": "villaggio",
+      "uz": "qishloq"
+    },
     "transcription": "deha",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Бибии ман дар деҳа зиндагӣ мекунад.",
-    "exampleTranslation": "Моя бабушка живёт в деревне.","url":"https://thridy.com/i/dicons/village.webp"
+    "exampleTranslation": "Моя бабушка живёт в деревне.",
+    "url": "https://thridy.com/i/dicons/village.webp"
   },
-
-
-    {
+  {
     "id": 144,
     "word": "сайёҳ",
     "sam_dialect": "сайёҳ",
     "translation": "турист",
+    "translations": {
+      "ru": "турист",
+      "fa": "گردشگر",
+      "en": "tourist",
+      "he": "תייר",
+      "it": "turista",
+      "uz": "sayyoh"
+    },
     "transcription": "sayyoh",
     "partOfSpeech": "noun",
     "level": "A1",
@@ -2632,6 +4291,14 @@
     "word": "марз",
     "sam_dialect": "марз",
     "translation": "граница",
+    "translations": {
+      "ru": "граница",
+      "fa": "مرز",
+      "en": "border",
+      "he": "גבול",
+      "it": "confine",
+      "uz": "chegara"
+    },
     "transcription": "marz",
     "partOfSpeech": "noun",
     "level": "A2",
@@ -2645,6 +4312,14 @@
     "word": "чиптафурӯшӣ",
     "sam_dialect": "чиптафурӯшӣ",
     "translation": "касса по продаже билетов",
+    "translations": {
+      "ru": "касса по продаже билетов",
+      "fa": "باجه فروش بلیت",
+      "en": "ticket office",
+      "he": "קופת כרטיסים",
+      "it": "biglietteria",
+      "uz": "chipta kassasi"
+    },
     "transcription": "chiptafурӯshӣ",
     "partOfSpeech": "noun",
     "level": "A2",
@@ -2658,843 +4333,1133 @@
     "word": "тайёра",
     "sam_dialect": "тайёра",
     "translation": "самолёт",
+    "translations": {
+      "ru": "самолёт",
+      "fa": "هواپیما",
+      "en": "airplane",
+      "he": "מטוס",
+      "it": "aereo",
+      "uz": "samolyot"
+    },
     "transcription": "tayyora",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Тайёра соати даҳ парвоз мекунад.",
-    "exampleTranslation": "Самолёт вылетает в десять часов.","url":"https://thridy.com/i/dicons/aviation-329ee354.webp"
+    "exampleTranslation": "Самолёт вылетает в десять часов.",
+    "url": "https://thridy.com/i/dicons/aviation-329ee354.webp"
   },
   {
     "id": 148,
     "word": "қатора",
     "sam_dialect": "қатора",
     "translation": "поезд",
+    "translations": {
+      "ru": "поезд",
+      "fa": "قطار",
+      "en": "train",
+      "he": "רכבת",
+      "it": "treno",
+      "uz": "poyezd"
+    },
     "transcription": "qatora",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Мо бо қатор сафар мекунем.",
-    "exampleTranslation": "Мы путешествуем на поезде.","url":"https://thridy.com/i/dicons/maglev-train-ff50fe4f.webp"
+    "exampleTranslation": "Мы путешествуем на поезде.",
+    "url": "https://thridy.com/i/dicons/maglev-train-ff50fe4f.webp"
   },
   {
     "id": 149,
     "word": "мошин",
     "sam_dialect": "мошин",
     "translation": "машина",
+    "translations": {
+      "ru": "машина",
+      "fa": "ماشین",
+      "en": "car",
+      "he": "מכונית",
+      "it": "macchina",
+      "uz": "mashina"
+    },
     "transcription": "moshin",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Мо бо мошин меравем.",
-    "exampleTranslation": "Мы едем на машине.","url":"https://thridy.com/i/dicons/blue-car-2d6ec6f8.webp"
+    "exampleTranslation": "Мы едем на машине.",
+    "url": "https://thridy.com/i/dicons/blue-car-2d6ec6f8.webp"
   },
   {
     "id": 150,
     "word": "автобус",
     "sam_dialect": "автобус",
     "translation": "автобус",
+    "translations": {
+      "ru": "автобус",
+      "fa": "اتوبوس",
+      "en": "bus",
+      "he": "אוטובוס",
+      "it": "autobus",
+      "uz": "avtobus"
+    },
     "transcription": "avtobus",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ман бо автобус ба шаҳр меравам.",
-    "exampleTranslation": "Я еду в город на автобусе.","url":"https://thridy.com/i/dicons/electric-bus-b5f1d74a.webp"
+    "exampleTranslation": "Я еду в город на автобусе.",
+    "url": "https://thridy.com/i/dicons/electric-bus-b5f1d74a.webp"
   },
   {
     "id": 151,
     "word": "таксӣ",
     "sam_dialect": "таксӣ",
     "translation": "такси",
+    "translations": {
+      "ru": "такси",
+      "fa": "تاکسی",
+      "en": "taxi",
+      "he": "מונית",
+      "it": "taxi",
+      "uz": "taksi"
+    },
     "transcription": "taksi",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Мо таксӣ гирифтем.",
-    "exampleTranslation": "Мы взяли такси.","url":"https://thridy.com/i/dicons/autonomoustaxi.webp"
+    "exampleTranslation": "Мы взяли такси.",
+    "url": "https://thridy.com/i/dicons/autonomoustaxi.webp"
   },
   {
     "id": 152,
     "word": "ронанда",
     "sam_dialect": "ронанда",
     "translation": "водитель",
+    "translations": {
+      "ru": "водитель",
+      "fa": "راننده",
+      "en": "driver",
+      "he": "נהג",
+      "it": "autista",
+      "uz": "haydovchi"
+    },
     "transcription": "ronanda",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Ронанда мошинро меронад.",
-    "exampleTranslation": "Водитель ведёт машину.","url":"https://thridy.com/i/dicons/bus-driver-d9fa7013.webp"
+    "exampleTranslation": "Водитель ведёт машину.",
+    "url": "https://thridy.com/i/dicons/bus-driver-d9fa7013.webp"
   },
   {
     "id": 153,
     "word": "турист",
     "sam_dialect": "турист",
     "translation": "турист",
+    "translations": {
+      "ru": "турист",
+      "fa": "گردشگر",
+      "en": "tourist",
+      "he": "תייר",
+      "it": "turista",
+      "uz": "turist"
+    },
     "transcription": "turist",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Турист аз Тоҷикистон аст.",
-    "exampleTranslation": "Турист из Таджикистана.","url":"https://thridy.com/i/dicons/tour-guide.webp"
+    "exampleTranslation": "Турист из Таджикистана.",
+    "url": "https://thridy.com/i/dicons/tour-guide.webp"
   },
-{
-  "id": 154,
-  "word": "парвоз",
-  "sam_dialect": "парвоз",
-  "translation": "полёт",
-  "transcription": "parvoz",
-  "partOfSpeech": "noun",
-  "level": "A2",
-  "category": "travel",
-  "example": "Парвози мо соати ҳашт аст.",
-  "exampleTranslation": "Наш рейс в восемь часов.",
-  "url": "https://thridy.com/i/dicons/airplane-window-3d-icon.webp"
-},
+  {
+    "id": 154,
+    "word": "парвоз",
+    "sam_dialect": "парвоз",
+    "translation": "полёт",
+    "translations": {
+      "ru": "полёт",
+      "fa": "پرواز",
+      "en": "flight",
+      "he": "טיסה",
+      "it": "volo",
+      "uz": "parvoz"
+    },
+    "transcription": "parvoz",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "travel",
+    "example": "Парвози мо соати ҳашт аст.",
+    "exampleTranslation": "Наш рейс в восемь часов.",
+    "url": "https://thridy.com/i/dicons/airplane-window-3d-icon.webp"
+  },
   {
     "id": 155,
     "word": "саёҳат кардан",
     "sam_dialect": "саёҳат кардан",
     "translation": "путешествовать",
+    "translations": {
+      "ru": "путешествовать",
+      "fa": "سفر کردن",
+      "en": "to travel",
+      "he": "לטייל",
+      "it": "viaggiare",
+      "uz": "sayohat qilmoq"
+    },
     "transcription": "sayohat kardan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "travel",
     "example": "Ман саёҳат карданро дӯст медорам.",
-    "exampleTranslation": "Я люблю путешествовать.","url":"https://thridy.com/i/dicons/travel-agency.webp"
+    "exampleTranslation": "Я люблю путешествовать.",
+    "url": "https://thridy.com/i/dicons/travel-agency.webp"
   },
   {
     "id": 156,
     "word": "рафтан",
     "sam_dialect": "рафтан",
     "translation": "идти, ехать",
+    "translations": {
+      "ru": "идти, ехать",
+      "fa": "رفتن",
+      "en": "to go",
+      "he": "ללכת",
+      "it": "andare",
+      "uz": "bormoq"
+    },
     "transcription": "raftan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "travel",
     "example": "Мо пагоҳ ба Самарқанд меравем.",
-    "exampleTranslation": "Мы завтра едем в Самарканд.","url":"https://thridy.com/i/dicons/plane-departure.webp"
+    "exampleTranslation": "Мы завтра едем в Самарканд.",
+    "url": "https://thridy.com/i/dicons/plane-departure.webp"
   },
   {
     "id": 157,
     "word": "омадан",
     "sam_dialect": "омадан",
     "translation": "приходить, приезжать",
+    "translations": {
+      "ru": "приходить, приезжать",
+      "fa": "آمدن",
+      "en": "to come, to arrive",
+      "he": "לבוא, להגיע",
+      "it": "venire, arrivare",
+      "uz": "kelmoq"
+    },
     "transcription": "omadan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "travel",
     "example": "Ӯ имрӯз ба шаҳр омад.",
-    "exampleTranslation": "Он сегодня приехал в город.","url":"https://thridy.com/i/dicons/plane-arrival-7f7b6c50.webp"
+    "exampleTranslation": "Он сегодня приехал в город.",
+    "url": "https://thridy.com/i/dicons/plane-arrival-7f7b6c50.webp"
   },
   {
     "id": 158,
     "word": "истодан",
     "sam_dialect": "истодан",
     "translation": "останавливаться, стоять",
+    "translations": {
+      "ru": "останавливаться, стоять",
+      "fa": "ایستادن",
+      "en": "to stop, to stand",
+      "he": "לעצור, לעמוד",
+      "it": "fermarsi, stare in piedi",
+      "uz": "to'xtamoq, turmoq"
+    },
     "transcription": "istodan",
     "partOfSpeech": "verb",
     "level": "A1",
     "category": "travel",
     "example": "Автобус дар ин ҷо меистад.",
-    "exampleTranslation": "Автобус останавливается здесь.","url":"https://thridy.com/i/dicons/airport-f53be03a.webp"
+    "exampleTranslation": "Автобус останавливается здесь.",
+    "url": "https://thridy.com/i/dicons/airport-f53be03a.webp"
   },
   {
     "id": 159,
     "word": "фармоиш додан",
     "sam_dialect": "фармоиш додан",
     "translation": "бронировать, заказывать",
+    "translations": {
+      "ru": "бронировать, заказывать",
+      "fa": "رزرو کردن، سفارش دادن",
+      "en": "to book, to order",
+      "he": "להזמין",
+      "it": "prenotare, ordinare",
+      "uz": "band qilmoq, buyurtma bermoq"
+    },
     "transcription": "farmoish dodan",
     "partOfSpeech": "verb",
     "level": "A2",
     "category": "travel",
     "example": "Ман меҳмонхонаро фармоиш додам.",
-    "exampleTranslation": "Я забронировал гостиницу.","url":"https://thridy.com/i/dicons/online-booking-3d-icon.webp"
+    "exampleTranslation": "Я забронировал гостиницу.",
+    "url": "https://thridy.com/i/dicons/online-booking-3d-icon.webp"
   },
   {
     "id": 160,
     "word": "истироҳат",
     "sam_dialect": "истироҳат",
     "translation": "отдых",
+    "translations": {
+      "ru": "отдых",
+      "fa": "استراحت",
+      "en": "rest, relaxation",
+      "he": "מנוחה",
+      "it": "riposo, relax",
+      "uz": "dam olish"
+    },
     "transcription": "istirohat",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "travel",
     "example": "Мо барои истироҳат ба кӯҳ рафтем.",
-    "exampleTranslation": "Мы поехали в горы на отдых.","url":"https://thridy.com/i/dicons/relax-3d-icon.webp"
+    "exampleTranslation": "Мы поехали в горы на отдых.",
+    "url": "https://thridy.com/i/dicons/relax-3d-icon.webp"
   },
-  {
+{
     "id": 161,
     "word": "кор",
     "sam_dialect": "кор",
     "translation": "работа",
+    "translations": {
+      "ru": "работа",
+      "fa": "کار",
+      "en": "work",
+      "he": "עבודה",
+      "it": "lavoro",
+      "uz": "ish"
+    },
     "transcription": "kor",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Ман кор дорам.",
-    "exampleTranslation": "У меня есть работа.","url":"https://thridy.com/i/dicons/job-3d-icon.webp"
+    "exampleTranslation": "У меня есть работа.",
+    "url": "https://thridy.com/i/dicons/job-3d-icon.webp"
   },
   {
     "id": 162,
     "word": "касб",
     "sam_dialect": "касб",
     "translation": "профессия",
+    "translations": {
+      "ru": "профессия",
+      "fa": "حرفه",
+      "en": "profession",
+      "he": "מקצוע",
+      "it": "professione",
+      "uz": "kasb"
+    },
     "transcription": "kasb",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Касби ӯ омӯзгор аст.",
-    "exampleTranslation": "Его профессия — учитель.","url":"https://thridy.com/i/dicons/supervisor-3d-icon-9dbf124c.webp"
+    "exampleTranslation": "Его профессия — учитель.",
+    "url": "https://thridy.com/i/dicons/supervisor-3d-icon-9dbf124c.webp"
   },
   {
     "id": 163,
     "word": "идора",
     "sam_dialect": "идора",
     "translation": "офис",
+    "translations": {
+      "ru": "офис",
+      "fa": "دفتر کار",
+      "en": "office",
+      "he": "משרד",
+      "it": "ufficio",
+      "uz": "idora, ofis"
+    },
     "transcription": "idora",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Ман дар идора кор мекунам.",
-    "exampleTranslation": "Я работаю в офисе.","url":"https://thridy.com/i/dicons/officecubicle.webp"
+    "exampleTranslation": "Я работаю в офисе.",
+    "url": "https://thridy.com/i/dicons/officecubicle.webp"
   },
   {
     "id": 164,
     "word": "ширкат",
     "sam_dialect": "ширкат",
     "translation": "компания",
+    "translations": {
+      "ru": "компания",
+      "fa": "شرکت",
+      "en": "company",
+      "he": "חברה",
+      "it": "azienda",
+      "uz": "kompaniya"
+    },
     "transcription": "shirket",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Ӯ дар як ширкати калон кор мекунад.",
-    "exampleTranslation": "Он работает в большой компании.","url":"https://thridy.com/i/dicons/company-c5919ce5.webp"
+    "exampleTranslation": "Он работает в большой компании.",
+    "url": "https://thridy.com/i/dicons/company-c5919ce5.webp"
   },
   {
     "id": 165,
     "word": "роҳбар",
     "sam_dialect": "раҳбар",
     "translation": "руководитель",
+    "translations": {
+      "ru": "руководитель",
+      "fa": "مدیر",
+      "en": "manager, leader",
+      "he": "מנהל",
+      "it": "responsabile",
+      "uz": "rahbar"
+    },
     "transcription": "rohbar",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Роҳбар ба кормандон ёрӣ медиҳад.",
-    "exampleTranslation": "Руководитель помогает сотрудникам.","url":"https://thridy.com/i/dicons/ceo-3d-icon.webp"
+    "exampleTranslation": "Руководитель помогает сотрудникам.",
+    "url": "https://thridy.com/i/dicons/ceo-3d-icon.webp"
   },
   {
     "id": 166,
     "word": "корманд",
     "sam_dialect": "корманд",
     "translation": "сотрудник",
+    "translations": {
+      "ru": "сотрудник",
+      "fa": "کارمند",
+      "en": "employee",
+      "he": "עובד",
+      "it": "dipendente",
+      "uz": "xodim"
+    },
     "transcription": "kormand",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Корманд имрӯз дар идора аст.",
-    "exampleTranslation": "Сотрудник сегодня в офисе.","url":"https://thridy.com/i/dicons/salesperson-3d-icon-47d01ad3.webp"
+    "exampleTranslation": "Сотрудник сегодня в офисе.",
+    "url": "https://thridy.com/i/dicons/salesperson-3d-icon-47d01ad3.webp"
   },
   {
     "id": 167,
     "word": "ҳамкор",
     "sam_dialect": "ҳамкор",
     "translation": "коллега",
+    "translations": {
+      "ru": "коллега",
+      "fa": "همکار",
+      "en": "colleague",
+      "he": "עמית לעבודה",
+      "it": "collega",
+      "uz": "hamkasb"
+    },
     "transcription": "hamkor",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ҳамкори ман хеле меҳрубон аст.",
-    "exampleTranslation": "Мой коллега очень добрый.","url":"https://thridy.com/i/dicons/business-team-3d-icon.webp"
+    "exampleTranslation": "Мой коллега очень добрый.",
+    "url": "https://thridy.com/i/dicons/business-team-3d-icon.webp"
   },
   {
     "id": 168,
     "word": "муштарӣ",
     "sam_dialect": "муштарӣ",
     "translation": "клиент",
+    "translations": {
+      "ru": "клиент",
+      "fa": "مشتری",
+      "en": "customer, client",
+      "he": "לקוח",
+      "it": "cliente",
+      "uz": "mijoz"
+    },
     "transcription": "mushtari",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Муштарӣ ба мо занг зад.",
-    "exampleTranslation": "Клиент позвонил нам.","url":"https://thridy.com/i/dicons/customer-50db49a7.webp"
+    "exampleTranslation": "Клиент позвонил нам.",
+    "url": "https://thridy.com/i/dicons/customer-50db49a7.webp"
   },
   {
     "id": 169,
     "word": "маош",
     "sam_dialect": "маош",
     "translation": "зарплата",
+    "translations": {
+      "ru": "зарплата",
+      "fa": "حقوق",
+      "en": "salary",
+      "he": "משכורת",
+      "it": "stipendio",
+      "uz": "maosh"
+    },
     "transcription": "maosh",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ман ҳар моҳ маош мегирам.",
-    "exampleTranslation": "Я получаю зарплату каждый месяц.","url":"https://thridy.com/i/dicons/payday-3d-icon-7e17fc8c.webp"
+    "exampleTranslation": "Я получаю зарплату каждый месяц.",
+    "url": "https://thridy.com/i/dicons/payday-3d-icon-7e17fc8c.webp"
   },
   {
     "id": 170,
     "word": "мансаб",
     "sam_dialect": "мансаб",
     "translation": "должность",
+    "translations": {
+      "ru": "должность",
+      "fa": "سمت",
+      "en": "position",
+      "he": "תפקיד",
+      "it": "posizione",
+      "uz": "lavozim"
+    },
     "transcription": "mansab",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ӯ мансаби нав гирифт.",
-    "exampleTranslation": "Он получил новую должность.","url":"https://thridy.com/i/dicons/vip-badge.webp"
+    "exampleTranslation": "Он получил новую должность.",
+    "url": "https://thridy.com/i/dicons/vip-badge.webp"
   },
   {
     "id": 171,
     "word": "таҷриба",
     "sam_dialect": "таҷриба",
     "translation": "опыт",
+    "translations": {
+      "ru": "опыт",
+      "fa": "تجربه",
+      "en": "experience",
+      "he": "ניסיון",
+      "it": "esperienza",
+      "uz": "tajriba"
+    },
     "transcription": "tajriba",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ӯ таҷрибаи зиёд дорад.",
-    "exampleTranslation": "У него большой опыт.","url":"https://thridy.com/i/dicons/xp-points.webp"
+    "exampleTranslation": "У него большой опыт.",
+    "url": "https://thridy.com/i/dicons/xp-points.webp"
   },
   {
     "id": 172,
     "word": "ҷаласа",
     "sam_dialect": "ҷаласа",
     "translation": "совещание",
+    "translations": {
+      "ru": "совещание",
+      "fa": "جلسه",
+      "en": "meeting",
+      "he": "ישיבה",
+      "it": "riunione",
+      "uz": "yig'ilish"
+    },
     "transcription": "jalasa",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ҷаласа соати нӯҳ оғоз мешавад.",
-    "exampleTranslation": "Совещание начинается в девять.","url":"https://thridy.com/i/dicons/business-meeting-3d-icon-2b135ea3.webp"
+    "exampleTranslation": "Совещание начинается в девять.",
+    "url": "https://thridy.com/i/dicons/business-meeting-3d-icon-2b135ea3.webp"
   },
   {
     "id": 173,
     "word": "лоиҳа",
     "sam_dialect": "лоиҳа",
     "translation": "проект",
+    "translations": {
+      "ru": "проект",
+      "fa": "پروژه",
+      "en": "project",
+      "he": "פרויקט",
+      "it": "progetto",
+      "uz": "loyiha"
+    },
     "transcription": "loiha",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Мо дар як лоиҳаи нав кор мекунем.",
-    "exampleTranslation": "Мы работаем над новым проектом.","url":"https://thridy.com/i/dicons/plan-3d-icon.webp"
+    "exampleTranslation": "Мы работаем над новым проектом.",
+    "url": "https://thridy.com/i/dicons/plan-3d-icon.webp"
   },
   {
     "id": 174,
     "word": "вазифа",
     "sam_dialect": "вазифа",
     "translation": "задача, обязанность",
+    "translations": {
+      "ru": "задача, обязанность",
+      "fa": "وظیفه",
+      "en": "task, duty",
+      "he": "משימה, חובה",
+      "it": "compito, dovere",
+      "uz": "vazifa"
+    },
     "transcription": "vazifa",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Имрӯз ман вазифаҳои зиёд дорам.",
-    "exampleTranslation": "Сегодня у меня много задач.","url":"https://thridy.com/i/dicons/checked-folder-3d-icon.webp"
+    "exampleTranslation": "Сегодня у меня много задач.",
+    "url": "https://thridy.com/i/dicons/checked-folder-3d-icon.webp"
   },
   {
     "id": 175,
     "word": "ҷадвал",
     "sam_dialect": "ҷадвал",
     "translation": "расписание, график",
+    "translations": {
+      "ru": "расписание, график",
+      "fa": "برنامه زمانی",
+      "en": "schedule, timetable",
+      "he": "לוח זמנים",
+      "it": "programma, orario",
+      "uz": "jadval"
+    },
     "transcription": "jadval",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ҷадвали кори ман сер аст.",
-    "exampleTranslation": "Мой рабочий график плотный.","url":"https://thridy.com/i/dicons/approved-schedule-3d-icon.webp"
+    "exampleTranslation": "Мой рабочий график плотный.",
+    "url": "https://thridy.com/i/dicons/approved-schedule-3d-icon.webp"
   },
   {
     "id": 176,
     "word": "муҳлат",
     "sam_dialect": "муҳлат",
     "translation": "срок",
+    "translations": {
+      "ru": "срок",
+      "fa": "مهلت",
+      "en": "deadline, time limit",
+      "he": "מועד אחרון",
+      "it": "scadenza",
+      "uz": "muddat"
+    },
     "transcription": "muhlat",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Муҳлати лоиҳа наздик аст.",
-    "exampleTranslation": "Срок проекта приближается.","url":"https://thridy.com/i/dicons/deadline-3d-icon-02dcdfe6.webp"
+    "exampleTranslation": "Срок проекта приближается.",
+    "url": "https://thridy.com/i/dicons/deadline-3d-icon-02dcdfe6.webp"
   },
   {
     "id": 177,
     "word": "маҷлис",
     "sam_dialect": "маҷлис",
     "translation": "собрание",
+    "translations": {
+      "ru": "собрание",
+      "fa": "مجلس، جلسه",
+      "en": "meeting, assembly",
+      "he": "אסיפה",
+      "it": "assemblea",
+      "uz": "majlis, yig'ilish"
+    },
     "transcription": "majlis",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Имрӯз маҷлиси муҳим дорем.",
-    "exampleTranslation": "Сегодня у нас важное собрание.","url":"https://thridy.com/i/dicons/meeting-b2865465.webp"
+    "exampleTranslation": "Сегодня у нас важное собрание.",
+    "url": "https://thridy.com/i/dicons/meeting-b2865465.webp"
   },
   {
     "id": 178,
     "word": "ҳуҷҷат",
     "sam_dialect": "ҳуҷҷат",
     "translation": "документ",
+    "translations": {
+      "ru": "документ",
+      "fa": "سند",
+      "en": "document",
+      "he": "מסמך",
+      "it": "documento",
+      "uz": "hujjat"
+    },
     "transcription": "hujjat",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Ҳуҷҷат дар рӯи миз аст.",
-    "exampleTranslation": "Документ лежит на столе.","url":"https://thridy.com/i/dicons/document-search-3d-icon.webp"
+    "exampleTranslation": "Документ лежит на столе.",
+    "url": "https://thridy.com/i/dicons/document-search-3d-icon.webp"
   },
   {
     "id": 179,
     "word": "имзо",
     "sam_dialect": "имзо",
     "translation": "подпись",
+    "translations": {
+      "ru": "подпись",
+      "fa": "امضا",
+      "en": "signature",
+      "he": "חתימה",
+      "it": "firma",
+      "uz": "imzo"
+    },
     "transcription": "imzo",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ба ин ҳуҷҷат имзо гузоред.",
-    "exampleTranslation": "Подпишите этот документ.","url":"https://thridy.com/i/dicons/signed-document.webp"
+    "exampleTranslation": "Подпишите этот документ.",
+    "url": "https://thridy.com/i/dicons/signed-document.webp"
   },
   {
     "id": 180,
     "word": "мукотиба",
     "sam_dialect": "мукотиба",
     "translation": "переписка",
+    "translations": {
+      "ru": "переписка",
+      "fa": "مکاتبه",
+      "en": "correspondence",
+      "he": "התכתבות",
+      "it": "corrispondenza",
+      "uz": "yozishma"
+    },
     "transcription": "mukotiba",
     "partOfSpeech": "noun",
     "level": "B1",
     "category": "work",
     "example": "Мукотиба бо муштариён муҳим аст.",
-    "exampleTranslation": "Переписка с клиентами важна.","url":"https://thridy.com/i/dicons/stamp-kit-d95e563c.webp"
+    "exampleTranslation": "Переписка с клиентами важна.",
+    "url": "https://thridy.com/i/dicons/stamp-kit-d95e563c.webp"
   },
   {
     "id": 181,
     "word": "маҳорат",
     "sam_dialect": "маҳорат",
     "translation": "навык",
+    "translations": {
+      "ru": "навык",
+      "fa": "مهارت",
+      "en": "skill",
+      "he": "מיומנות",
+      "it": "abilità",
+      "uz": "mahorat, ko'nikma"
+    },
     "transcription": "mahorat",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Ин кор маҳорати хуб талаб мекунад.",
-    "exampleTranslation": "Эта работа требует хороших навыков.","url":"https://thridy.com/i/dicons/talent-3d-icon.webp"
+    "exampleTranslation": "Эта работа требует хороших навыков.",
+    "url": "https://thridy.com/i/dicons/talent-3d-icon.webp"
   },
   {
     "id": 182,
     "word": "муваффақият",
     "sam_dialect": "муваффақият",
     "translation": "успех",
+    "translations": {
+      "ru": "успех",
+      "fa": "موفقیت",
+      "en": "success",
+      "he": "הצלחה",
+      "it": "successo",
+      "uz": "muvaffaqiyat"
+    },
     "transcription": "muvoffaqiyat",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Мо ба муваффақият ноил шудем.",
-    "exampleTranslation": "Мы добились успеха.","url":"https://thridy.com/i/dicons/success-3d-icon-a996646f.webp"
+    "exampleTranslation": "Мы добились успеха.",
+    "url": "https://thridy.com/i/dicons/success-3d-icon-a996646f.webp"
   },
   {
     "id": 183,
     "word": "таътил",
     "sam_dialect": "таътил",
     "translation": "отпуск, каникулы",
+    "translations": {
+      "ru": "отпуск, каникулы",
+      "fa": "تعطیلات، مرخصی",
+      "en": "vacation, holiday, leave",
+      "he": "חופשה",
+      "it": "vacanza, ferie",
+      "uz": "ta'til"
+    },
     "transcription": "tatil",
     "audio": "/audio/tajik/work/183.mp3",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Ман ҳафтаи оянда ба таътил мебароям.",
-    "exampleTranslation": "На следующей неделе я ухожу в отпуск.","url":"https://thridy.com/i/dicons/weekend-3d-icon.webp"
+    "exampleTranslation": "На следующей неделе я ухожу в отпуск.",
+    "url": "https://thridy.com/i/dicons/weekend-3d-icon.webp"
   },
   {
     "id": 184,
     "word": "истироҳатгоҳ",
     "sam_dialect": "истироҳатгоҳ",
     "translation": "место отдыха",
+    "translations": {
+      "ru": "место отдыха",
+      "fa": "محل تفریح و استراحت",
+      "en": "recreation area, resort",
+      "he": "אתר נופש",
+      "it": "luogo di villeggiatura",
+      "uz": "dam olish maskani"
+    },
     "transcription": "istirohatgoh",
     "partOfSpeech": "noun",
     "level": "B1",
     "category": "work",
     "example": "Кормандон дар истироҳатгоҳ истироҳат карданд.",
-    "exampleTranslation": "Сотрудники отдохнули в месте отдыха.","url":"https://thridy.com/i/dicons/theme-park-234287f2.webp"
+    "exampleTranslation": "Сотрудники отдохнули в месте отдыха.",
+    "url": "https://thridy.com/i/dicons/theme-park-234287f2.webp"
   },
   {
     "id": 185,
     "word": "корфармо",
     "sam_dialect": "корфармо",
     "translation": "работодатель",
+    "translations": {
+      "ru": "работодатель",
+      "fa": "کارفرما",
+      "en": "employer",
+      "he": "מעסיק",
+      "it": "datore di lavoro",
+      "uz": "ish beruvchi"
+    },
     "transcription": "korfarmo",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Корфармо бо корманд суҳбат кард.",
-    "exampleTranslation": "Работодатель поговорил с сотрудником.","url":"https://thridy.com/i/dicons/businesswoman-3d-icon-360320db.webp"
+    "exampleTranslation": "Работодатель поговорил с сотрудником.",
+    "url": "https://thridy.com/i/dicons/businesswoman-3d-icon-360320db.webp"
   },
   {
     "id": 186,
     "word": "коргар",
     "sam_dialect": "коргар",
     "translation": "рабочий",
+    "translations": {
+      "ru": "рабочий",
+      "fa": "کارگر",
+      "en": "worker",
+      "he": "פועל",
+      "it": "operaio",
+      "uz": "ishchi"
+    },
     "transcription": "korgar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Коргар саҳар барвақт меояд.",
-    "exampleTranslation": "Рабочий приходит рано утром.","url":"https://thridy.com/i/dicons/id-lanyard.webp"
+    "exampleTranslation": "Рабочий приходит рано утром.",
+    "url": "https://thridy.com/i/dicons/id-lanyard.webp"
   },
   {
     "id": 187,
     "word": "духтур",
     "sam_dialect": "духтур",
     "translation": "врач",
+    "translations": {
+      "ru": "врач",
+      "fa": "پزشک",
+      "en": "doctor",
+      "he": "רופא",
+      "it": "medico",
+      "uz": "shifokor"
+    },
     "transcription": "dukhtur",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Духтур беморонро муоина мекунад.",
-    "exampleTranslation": "Врач осматривает пациентов.","url":"https://thridy.com/i/dicons/woman-doctor.webp"
+    "exampleTranslation": "Врач осматривает пациентов.",
+    "url": "https://thridy.com/i/dicons/woman-doctor.webp"
   },
   {
     "id": 188,
     "word": "муҳандис",
     "sam_dialect": "муҳандис",
     "translation": "инженер",
+    "translations": {
+      "ru": "инженер",
+      "fa": "مهندس",
+      "en": "engineer",
+      "he": "מהנדס",
+      "it": "ingegnere",
+      "uz": "muhandis"
+    },
     "transcription": "muhandis",
     "partOfSpeech": "noun",
     "level": "A2",
     "category": "work",
     "example": "Муҳандис дар корхона кор мекунад.",
-    "exampleTranslation": "Инженер работает на предприятии.","url":"https://thridy.com/i/dicons/engineer-56b8fbee.webp"
+    "exampleTranslation": "Инженер работает на предприятии.",
+    "url": "https://thridy.com/i/dicons/engineer-56b8fbee.webp"
   },
   {
     "id": 189,
     "word": "фурӯшанда",
     "sam_dialect": "фурӯшанда",
     "translation": "продавец",
+    "translations": {
+      "ru": "продавец",
+      "fa": "فروشنده",
+      "en": "seller",
+      "he": "מוכר",
+      "it": "venditore",
+      "uz": "sotuvchi"
+    },
     "transcription": "furushanda",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Фурӯшанда ба муштарӣ кӯмак мекунад.",
-    "exampleTranslation": "Продавец помогает клиенту.","url":"https://thridy.com/i/dicons/seller-3d-icon.webp"
+    "exampleTranslation": "Продавец помогает клиенту.",
+    "url": "https://thridy.com/i/dicons/seller-3d-icon.webp"
   },
   {
     "id": 190,
     "word": "барномасоз",
     "sam_dialect": "барномасоз",
     "translation": "программист",
+    "translations": {
+      "ru": "программист",
+      "fa": "برنامه‌نویس",
+      "en": "programmer",
+      "he": "מתכנת",
+      "it": "programmatore",
+      "uz": "dasturchi"
+    },
     "transcription": "bar-noma-soz",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "work",
     "example": "Барномасоз бо компютер кор мекунад.",
-    "exampleTranslation": "Программист работает с компьютером.","url":"https://thridy.com/i/dicons/app-developer-416e3c95.webp"
+    "exampleTranslation": "Программист работает с компьютером.",
+    "url": "https://thridy.com/i/dicons/app-developer-416e3c95.webp"
   },
-  {
+   {
     "id": 191,
     "word": "хона",
     "sam_dialect": "хона",
     "translation": "дом, комната",
+    "translations": {
+      "ru": "дом, комната",
+      "fa": "خانه، اتاق",
+      "en": "house, room",
+      "he": "בית, חדר",
+      "it": "casa, stanza",
+      "uz": "uy, xona"
+    },
     "transcription": "khona",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Хонаи мо калон аст.",
-    "exampleTranslation": "Наш дом большой.","url":"https://thridy.com/i/dicons/paper-house.webp"
+    "exampleTranslation": "Наш дом большой.",
+    "url": "https://thridy.com/i/dicons/paper-house.webp"
   },
   {
     "id": 192,
     "word": "ошхона",
     "sam_dialect": "ошхона",
     "translation": "кухня",
+    "translations": {
+      "ru": "кухня",
+      "fa": "آشپزخانه",
+      "en": "kitchen",
+      "he": "מטבח",
+      "it": "cucina",
+      "uz": "oshxona"
+    },
     "transcription": "oshkhona",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Модар дар ошхона аст.",
-    "exampleTranslation": "Мама на кухне.","url":"https://thridy.com/i/dicons/kitchen.webp"
+    "exampleTranslation": "Мама на кухне.",
+    "url": "https://thridy.com/i/dicons/kitchen.webp"
   },
   {
     "id": 193,
     "word": "меҳмонхона",
     "sam_dialect": "меҳмонхона",
     "translation": "гостиная",
+    "translations": {
+      "ru": "гостиная",
+      "fa": "اتاق نشیمن",
+      "en": "living room",
+      "he": "סלון",
+      "it": "soggiorno",
+      "uz": "mehmonxona"
+    },
     "transcription": "mehmonkhona",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Мо дар меҳмонхона нишастаем.",
-    "exampleTranslation": "Мы сидим в гостиной.","url":"https://thridy.com/i/dicons/living-room.webp"
+    "exampleTranslation": "Мы сидим в гостиной.",
+    "url": "https://thridy.com/i/dicons/living-room.webp"
   },
   {
     "id": 194,
     "word": "хонаи хоб",
     "sam_dialect": "хонаи хоб",
     "translation": "спальня",
+    "translations": {
+      "ru": "спальня",
+      "fa": "اتاق خواب",
+      "en": "bedroom",
+      "he": "חדר שינה",
+      "it": "camera da letto",
+      "uz": "yotoqxona"
+    },
     "transcription": "khonai khob",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Ман дар хонаи хоб ҳастам.",
-    "exampleTranslation": "Я в спальне.","url":"https://thridy.com/i/dicons/bedroom-9ae3d2f0.webp"
+    "exampleTranslation": "Я в спальне.",
+    "url": "https://thridy.com/i/dicons/bedroom-9ae3d2f0.webp"
   },
   {
     "id": 195,
     "word": "ҳаммом",
     "sam_dialect": "ҳаммом",
     "translation": "ванная",
+    "translations": {
+      "ru": "ванная",
+      "fa": "حمام",
+      "en": "bathroom",
+      "he": "חדר אמבטיה",
+      "it": "bagno",
+      "uz": "hammom"
+    },
     "transcription": "hammom",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Ҳаммом тоза аст.",
-    "exampleTranslation": "Ванная чистая.","url":"https://thridy.com/i/dicons/bathroom-ffdd2b97.webp"
+    "exampleTranslation": "Ванная чистая.",
+    "url": "https://thridy.com/i/dicons/bathroom-ffdd2b97.webp"
   },
   {
     "id": 196,
     "word": "ҳоҷатхона",
     "sam_dialect": "ҳоҷатхона",
     "translation": "туалет",
+    "translations": {
+      "ru": "туалет",
+      "fa": "سرویس بهداشتی",
+      "en": "toilet, restroom",
+      "he": "שירותים",
+      "it": "bagno, toilette",
+      "uz": "hojatxona"
+    },
     "transcription": "hojatkhona",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Ҳоҷатхона дар куҷо аст?",
-    "exampleTranslation": "Где туалет?","url":"https://thridy.com/i/dicons/toilet-5a856305.webp"
+    "exampleTranslation": "Где туалет?",
+    "url": "https://thridy.com/i/dicons/toilet-5a856305.webp"
   },
   {
     "id": 197,
     "word": "долон",
     "sam_dialect": "долон",
     "translation": "коридор",
+    "translations": {
+      "ru": "коридор",
+      "fa": "راهرو",
+      "en": "hallway, corridor",
+      "he": "מסדרון",
+      "it": "corridoio",
+      "uz": "yo'lak"
+    },
     "transcription": "dolon",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Пойафзол дар долон аст.",
-    "exampleTranslation": "Обувь в коридоре.","url":"https://images.openai.com/static-rsc-4/3rOkExRiuc-27Swb86SdPamlDwF4wAw___9s5ddOaqxpwVocI8EpOPa8cq82Eby_Oj2ObrsWQnPy3fvX9r-ztcotrYm4ZFz2LbsvPwWoeoxR29_vjrMZWEtWzOX1m60dds86UdAj-tkfbLDXFmKxAIt2-HSbtoQnYsXxcUu6wculhcFkjwNpXwyFfD-68yQd?purpose=fullsize"
+    "exampleTranslation": "Обувь в коридоре.",
+    "url": "https://images.openai.com/static-rsc-4/3rOkExRiuc-27Swb86SdPamlDwF4wAw___9s5ddOaqxpwVocI8EpOPa8cq82Eby_Oj2ObrsWQnPy3fvX9r-ztcotrYm4ZFz2LbsvPwWoeoxR29_vjrMZWEtWzOX1m60dds86UdAj-tkfbLDXFmKxAIt2-HSbtoQnYsXxcUu6wculhcFkjwNpXwyFfD-68yQd?purpose=fullsize"
   },
   {
     "id": 198,
     "word": "дар",
     "sam_dialect": "дар",
     "translation": "дверь",
+    "translations": {
+      "ru": "дверь",
+      "fa": "در",
+      "en": "door",
+      "he": "דלת",
+      "it": "porta",
+      "uz": "eshik"
+    },
     "transcription": "dar",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Дар кушода аст.",
-    "exampleTranslation": "Дверь открыта.","url":"https://thridy.com/i/dicons/door-7f4ffbf2.webp"
+    "exampleTranslation": "Дверь открыта.",
+    "url": "https://thridy.com/i/dicons/door-7f4ffbf2.webp"
   },
   {
     "id": 199,
     "word": "тиреза",
     "sam_dialect": "тиреза",
     "translation": "окно",
+    "translations": {
+      "ru": "окно",
+      "fa": "پنجره",
+      "en": "window",
+      "he": "חלון",
+      "it": "finestra",
+      "uz": "deraza"
+    },
     "transcription": "tireza",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Тиреза калон аст.",
-    "exampleTranslation": "Окно большое.","url":"https://thridy.com/i/dicons/open-window.webp"
+    "exampleTranslation": "Окно большое.",
+    "url": "https://thridy.com/i/dicons/open-window.webp"
   },
   {
     "id": 200,
     "word": "ҳавлӣ",
     "sam_dialect": "ҳавлӣ",
     "translation": "двор",
+    "translations": {
+      "ru": "двор",
+      "fa": "حیاط",
+      "en": "courtyard, yard",
+      "he": "חצר",
+      "it": "cortile",
+      "uz": "hovli"
+    },
     "transcription": "havli",
     "partOfSpeech": "noun",
     "level": "A1",
     "category": "home",
     "example": "Кӯдакон дар ҳавлӣ бозӣ мекунанд.",
-    "exampleTranslation": "Дети играют во дворе.","url":"https://thridy.com/i/dicons/farm-37ded411.webp"
-  } ,
-   {
-    "id": 186,
-    "word": "worker",
-    "sam_dialect": "laborer",
-    "translation": "рабочий",
-    "transcription": "ˈwɝːkər",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "work",
-    "example": "The worker arrives early in the morning.",
-    "exampleTranslation": "Рабочий приходит рано утром.",
-    "url": "https://thridy.com/i/dicons/id-lanyard.webp"
-  },
-  {
-    "id": 187,
-    "word": "doctor",
-    "sam_dialect": "physician",
-    "translation": "врач",
-    "transcription": "ˈdɑːktər",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "work",
-    "example": "The doctor examines patients.",
-    "exampleTranslation": "Врач осматривает пациентов.",
-    "url": "https://thridy.com/i/dicons/woman-doctor.webp"
-  },
-  {
-    "id": 188,
-    "word": "engineer",
-    "sam_dialect": "engineer",
-    "translation": "инженер",
-    "transcription": "ˌendʒɪˈnɪr",
-    "partOfSpeech": "noun",
-    "level": "A2",
-    "category": "work",
-    "example": "The engineer works at a factory.",
-    "exampleTranslation": "Инженер работает на предприятии.",
-    "url": "https://thridy.com/i/dicons/engineer-56b8fbee.webp"
-  },
-  {
-    "id": 189,
-    "word": "seller",
-    "sam_dialect": "salesperson",
-    "translation": "продавец",
-    "transcription": "ˈselər",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "work",
-    "example": "The salesperson helps the customer.",
-    "exampleTranslation": "Продавец помогает клиенту.",
-    "url": "https://thridy.com/i/dicons/seller-3d-icon.webp"
-  },
-  {
-    "id": 190,
-    "word": "programmer",
-    "sam_dialect": "coder",
-    "translation": "программист",
-    "transcription": "ˈproʊˌɡræmər",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "work",
-    "example": "The programmer works with a computer.",
-    "exampleTranslation": "Программист работает с компьютером.",
-    "url": "https://thridy.com/i/dicons/app-developer-416e3c95.webp"
-  },
-  {
-    "id": 191,
-    "word": "house",
-    "sam_dialect": "home",
-    "translation": "дом, комната",
-    "transcription": "haʊs",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "Our house is big.",
-    "exampleTranslation": "Наш дом большой.",
-    "url": "https://thridy.com/i/dicons/paper-house.webp"
-  },
-  {
-    "id": 192,
-    "word": "kitchen",
-    "sam_dialect": "kitchen",
-    "translation": "кухня",
-    "transcription": "ˈkɪtʃən",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "Mom is in the kitchen.",
-    "exampleTranslation": "Мама на кухне.",
-    "url": "https://thridy.com/i/dicons/kitchen.webp"
-  },
-  {
-    "id": 193,
-    "word": "living room",
-    "sam_dialect": "lounge",
-    "translation": "гостиная",
-    "transcription": "ˈlɪvɪŋ ruːm",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "We are sitting in the living room.",
-    "exampleTranslation": "Мы сидим в гостиной.",
-    "url": "https://thridy.com/i/dicons/living-room.webp"
-  },
-  {
-    "id": 194,
-    "word": "bedroom",
-    "sam_dialect": "bedroom",
-    "translation": "спальня",
-    "transcription": "ˈbedruːm",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "I am in the bedroom.",
-    "exampleTranslation": "Я в спальне.",
-    "url": "https://thridy.com/i/dicons/bedroom-9ae3d2f0.webp"
-  },
-  {
-    "id": 195,
-    "word": "bathroom",
-    "sam_dialect": "bathroom",
-    "translation": "ванная",
-    "transcription": "ˈbæθruːm",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "The bathroom is clean.",
-    "exampleTranslation": "Ванная чистая.",
-    "url": "https://thridy.com/i/dicons/bathroom-ffdd2b97.webp"
-  },
-  {
-    "id": 196,
-    "word": "toilet",
-    "sam_dialect": "restroom",
-    "translation": "туалет",
-    "transcription": "ˈtɔɪlət",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "Where is the restroom?",
-    "exampleTranslation": "Где туалет?",
-    "url": "https://thridy.com/i/dicons/toilet-5a856305.webp"
-  },
-  {
-    "id": 197,
-    "word": "hallway",
-    "sam_dialect": "corridor",
-    "translation": "коридор",
-    "transcription": "ˈhɔːlweɪ",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "The shoes are in the hallway.",
-    "exampleTranslation": "Обувь в коридоре.",
-    "url": "https://images.openai.com/static-rsc-4/3rOkExRiuc-27Swb86SdPamlDwF4wAw___9s5ddOaqxpwVocI8EpOPa8cq82Eby_Oj2ObrsWQnPy3fvX9r-ztcotrYm4ZFz2LbsvPwWoeoxR29_vjrMZWEtWzOX1m60dds86UdAj-tkfbLDXFmKxAIt2-HSbtoQnYsXxcUu6wculhcFkjwNpXwyFfD-68yQd?purpose=fullsize"
-  },
-  {
-    "id": 198,
-    "word": "door",
-    "sam_dialect": "door",
-    "translation": "дверь",
-    "transcription": "dɔːr",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "The door is open.",
-    "exampleTranslation": "Дверь открыта.",
-    "url": "https://thridy.com/i/dicons/door-7f4ffbf2.webp"
-  },
-  {
-    "id": 199,
-    "word": "window",
-    "sam_dialect": "window",
-    "translation": "окно",
-    "transcription": "ˈwɪndoʊ",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "The window is big.",
-    "exampleTranslation": "Окно большое.",
-    "url": "https://thridy.com/i/dicons/open-window.webp"
-  },
-  {
-    "id": 200,
-    "word": "yard",
-    "sam_dialect": "backyard",
-    "translation": "двор",
-    "transcription": "jɑːrd",
-    "partOfSpeech": "noun",
-    "level": "A1",
-    "category": "home",
-    "example": "The children are playing in the yard.",
     "exampleTranslation": "Дети играют во дворе.",
     "url": "https://thridy.com/i/dicons/farm-37ded411.webp"
   }

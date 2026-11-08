@@ -6,7 +6,14 @@
     "transcription": "â",
     "word": "انار",
     "wordTranscription": "anar",
-    "translation": "Гранат",
+    "translations": {
+      "ru": "Гранат",
+      "uz": "Anor",
+      "tj": "Анор",
+      "it": "Melagrana",
+      "en": "Pomegranate",
+      "he": "רימון"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f352.svg"
   },
   {
@@ -15,7 +22,14 @@
     "transcription": "b",
     "word": "باد",
     "wordTranscription": "bad",
-    "translation": "Ветер",
+    "translations": {
+      "ru": "Ветер",
+      "uz": "Shamol",
+      "tj": "Шамол",
+      "it": "Vento",
+      "en": "Wind",
+      "he": "רוח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f32c.svg"
   },
   {
@@ -24,7 +38,14 @@
     "transcription": "p",
     "word": "پدر",
     "wordTranscription": "pedar",
-    "translation": "Отец",
+    "translations": {
+      "ru": "Отец",
+      "uz": "Ota",
+      "tj": "Падар",
+      "it": "Padre",
+      "en": "Father",
+      "he": "אבא"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f468.svg"
   },
   {
@@ -33,7 +54,14 @@
     "transcription": "t",
     "word": "توپ",
     "wordTranscription": "tup",
-    "translation": "Мяч",
+    "translations": {
+      "ru": "Мяч",
+      "uz": "To‘p",
+      "tj": "Тӯб",
+      "it": "Palla",
+      "en": "Ball",
+      "he": "כדור"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/26bd.svg"
   },
   {
@@ -42,7 +70,14 @@
     "transcription": "s",
     "word": "ثروت",
     "wordTranscription": "servat",
-    "translation": "Богатство",
+    "translations": {
+      "ru": "Богатство",
+      "uz": "Boylik",
+      "tj": "Сарват",
+      "it": "Ricchezza",
+      "en": "Wealth",
+      "he": "עושר"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4b0.svg"
   },
   {
@@ -51,7 +86,14 @@
     "transcription": "j",
     "word": "جوجه",
     "wordTranscription": "juje",
-    "translation": "Цыплёнок",
+    "translations": {
+      "ru": "Цыплёнок",
+      "uz": "Jo‘ja",
+      "tj": "Ҷӯҷа",
+      "it": "Pulcino",
+      "en": "Chick",
+      "he": "אפרוח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f425.svg"
   },
   {
@@ -60,7 +102,14 @@
     "transcription": "ch",
     "word": "چای",
     "wordTranscription": "chay",
-    "translation": "Чай",
+    "translations": {
+      "ru": "Чай",
+      "uz": "Choy",
+      "tj": "Чой",
+      "it": "Tè",
+      "en": "Tea",
+      "he": "תה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f375.svg"
   },
   {
@@ -69,7 +118,14 @@
     "transcription": "h",
     "word": "حلوا",
     "wordTranscription": "halva",
-    "translation": "Халва",
+    "translations": {
+      "ru": "Халва",
+      "uz": "Holva",
+      "tj": "Ҳалво",
+      "it": "Halva",
+      "en": "Halva",
+      "he": "חלבה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f36e.svg"
   },
   {
@@ -78,7 +134,14 @@
     "transcription": "kh",
     "word": "خرگوش",
     "wordTranscription": "khargush",
-    "translation": "Кролик",
+    "translations": {
+      "ru": "Кролик",
+      "uz": "Quyon",
+      "tj": "Харгӯш",
+      "it": "Coniglio",
+      "en": "Rabbit",
+      "he": "ארנב"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f430.svg"
   },
   {
@@ -87,7 +150,14 @@
     "transcription": "d",
     "word": "درخت",
     "wordTranscription": "derakht",
-    "translation": "Дерево",
+    "translations": {
+      "ru": "Дерево",
+      "uz": "Daraxt",
+      "tj": "Дарахт",
+      "it": "Albero",
+      "en": "Tree",
+      "he": "עץ"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f333.svg"
   },
   {
@@ -96,7 +166,14 @@
     "transcription": "z",
     "word": "ذرت",
     "wordTranscription": "zorrat",
-    "translation": "Кукуруза",
+    "translations": {
+      "ru": "Кукуруза",
+      "uz": "Makkajo‘xori",
+      "tj": "Ҷуворимакка",
+      "it": "Mais",
+      "en": "Corn",
+      "he": "תירס"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f33d.svg"
   },
   {
@@ -105,7 +182,14 @@
     "transcription": "r",
     "word": "رنگ",
     "wordTranscription": "rang",
-    "translation": "Цвет",
+    "translations": {
+      "ru": "Цвет",
+      "uz": "Rang",
+      "tj": "Ранг",
+      "it": "Colore",
+      "en": "Color",
+      "he": "צבע"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f3a8.svg"
   },
   {
@@ -114,7 +198,14 @@
     "transcription": "z",
     "word": "زرافه",
     "wordTranscription": "zarafe",
-    "translation": "Жираф",
+    "translations": {
+      "ru": "Жираф",
+      "uz": "Jirafa",
+      "tj": "Заррофа",
+      "it": "Giraffa",
+      "en": "Giraffe",
+      "he": "ג'ירפה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f992.svg"
   },
   {
@@ -123,7 +214,14 @@
     "transcription": "zh",
     "word": "ژاکت",
     "wordTranscription": "zhaket",
-    "translation": "Жакет",
+    "translations": {
+      "ru": "Жакет",
+      "uz": "Kurtka",
+      "tj": "Курта",
+      "it": "Giacca",
+      "en": "Jacket",
+      "he": "ז'קט"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9e5.svg"
   },
   {
@@ -132,7 +230,14 @@
     "transcription": "s",
     "word": "سیب",
     "wordTranscription": "sib",
-    "translation": "Яблоко",
+    "translations": {
+      "ru": "Яблоко",
+      "uz": "Olma",
+      "tj": "Себ",
+      "it": "Mela",
+      "en": "Apple",
+      "he": "תפוח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34e.svg"
   },
   {
@@ -141,7 +246,14 @@
     "transcription": "sh",
     "word": "شیر",
     "wordTranscription": "shir",
-    "translation": "Молоко",
+    "translations": {
+      "ru": "Молоко",
+      "uz": "Sut",
+      "tj": "Шир",
+      "it": "Latte",
+      "en": "Milk",
+      "he": "חלב"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f95b.svg"
   },
   {
@@ -150,7 +262,14 @@
     "transcription": "s",
     "word": "صابون",
     "wordTranscription": "sabun",
-    "translation": "Мыло",
+    "translations": {
+      "ru": "Мыло",
+      "uz": "Sovun",
+      "tj": "Собун",
+      "it": "Sapone",
+      "en": "Soap",
+      "he": "סבון"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9fc.svg"
   },
   {
@@ -159,7 +278,14 @@
     "transcription": "z",
     "word": "ضربان",
     "wordTranscription": "zaraban",
-    "translation": "Пульс",
+    "translations": {
+      "ru": "Пульс",
+      "uz": "Tomir urishi",
+      "tj": "Набз",
+      "it": "Battito",
+      "en": "Pulse",
+      "he": "דופק"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f493.svg"
   },
   {
@@ -168,7 +294,14 @@
     "transcription": "t",
     "word": "طوطی",
     "wordTranscription": "tuti",
-    "translation": "Попугай",
+    "translations": {
+      "ru": "Попугай",
+      "uz": "To‘tiqush",
+      "tj": "Тӯтӣ",
+      "it": "Pappagallo",
+      "en": "Parrot",
+      "he": "תוכי"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f99c.svg"
   },
   {
@@ -177,7 +310,14 @@
     "transcription": "z",
     "word": "ظرف",
     "wordTranscription": "zarf",
-    "translation": "Посуда, ёмкость",
+    "translations": {
+      "ru": "Посуда",
+      "uz": "Idish",
+      "tj": "Зарф",
+      "it": "Recipiente",
+      "en": "Container",
+      "he": "כלי"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f963.svg"
   },
   {
@@ -186,7 +326,14 @@
     "transcription": "ʔ",
     "word": "عسل",
     "wordTranscription": "asal",
-    "translation": "Мёд",
+    "translations": {
+      "ru": "Мёд",
+      "uz": "Asal",
+      "tj": "Асал",
+      "it": "Miele",
+      "en": "Honey",
+      "he": "דבש"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f36f.svg"
   },
   {
@@ -195,7 +342,14 @@
     "transcription": "gh",
     "word": "غذا",
     "wordTranscription": "ghaza",
-    "translation": "Еда",
+    "translations": {
+      "ru": "Еда",
+      "uz": "Ovqat",
+      "tj": "Ғизо",
+      "it": "Cibo",
+      "en": "Food",
+      "he": "אוכל"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f372.svg"
   },
   {
@@ -204,7 +358,14 @@
     "transcription": "f",
     "word": "فیل",
     "wordTranscription": "fil",
-    "translation": "Слон",
+    "translations": {
+      "ru": "Слон",
+      "uz": "Fil",
+      "tj": "Фил",
+      "it": "Elefante",
+      "en": "Elephant",
+      "he": "פיל"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f418.svg"
   },
   {
@@ -213,7 +374,14 @@
     "transcription": "gh",
     "word": "قورباغه",
     "wordTranscription": "ghurbaghe",
-    "translation": "Лягушка",
+    "translations": {
+      "ru": "Лягушка",
+      "uz": "Qurbaqa",
+      "tj": "Қурбоққа",
+      "it": "Rana",
+      "en": "Frog",
+      "he": "צפרדע"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f438.svg"
   },
   {
@@ -222,7 +390,14 @@
     "transcription": "k",
     "word": "کتاب",
     "wordTranscription": "ketab",
-    "translation": "Книга",
+    "translations": {
+      "ru": "Книга",
+      "uz": "Kitob",
+      "tj": "Китоб",
+      "it": "Libro",
+      "en": "Book",
+      "he": "ספר"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4d8.svg"
   },
   {
@@ -231,7 +406,14 @@
     "transcription": "g",
     "word": "گربه",
     "wordTranscription": "gorbe",
-    "translation": "Кошка",
+    "translations": {
+      "ru": "Кошка",
+      "uz": "Mushuk",
+      "tj": "Гурба",
+      "it": "Gatto",
+      "en": "Cat",
+      "he": "חתול"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f431.svg"
   },
   {
@@ -240,7 +422,14 @@
     "transcription": "l",
     "word": "لیمو",
     "wordTranscription": "limu",
-    "translation": "Лимон",
+    "translations": {
+      "ru": "Лимон",
+      "uz": "Limon",
+      "tj": "Лимӯ",
+      "it": "Limone",
+      "en": "Lemon",
+      "he": "לימון"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34b.svg"
   },
   {
@@ -249,7 +438,14 @@
     "transcription": "m",
     "word": "موز",
     "wordTranscription": "muz",
-    "translation": "Банан",
+    "translations": {
+      "ru": "Банан",
+      "uz": "Banan",
+      "tj": "Банан",
+      "it": "Banana",
+      "en": "Banana",
+      "he": "בננה"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f34c.svg"
   },
   {
@@ -258,7 +454,14 @@
     "transcription": "n",
     "word": "نان",
     "wordTranscription": "nan",
-    "translation": "Хлеб",
+    "translations": {
+      "ru": "Хлеб",
+      "uz": "Non",
+      "tj": "Нон",
+      "it": "Pane",
+      "en": "Bread",
+      "he": "לחם"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f35e.svg"
   },
   {
@@ -267,7 +470,14 @@
     "transcription": "v",
     "word": "ورزش",
     "wordTranscription": "varzesh",
-    "translation": "Спорт",
+    "translations": {
+      "ru": "Спорт",
+      "uz": "Sport",
+      "tj": "Варзиш",
+      "it": "Sport",
+      "en": "Sport",
+      "he": "ספורט"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f3c3.svg"
   },
   {
@@ -276,7 +486,14 @@
     "transcription": "h",
     "word": "هوا",
     "wordTranscription": "hava",
-    "translation": "Воздух, погода",
+    "translations": {
+      "ru": "Воздух",
+      "uz": "Havo",
+      "tj": "Ҳаво",
+      "it": "Aria",
+      "en": "Air",
+      "he": "אוויר"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/2601.svg"
   },
   {
@@ -285,7 +502,14 @@
     "transcription": "y",
     "word": "یخ",
     "wordTranscription": "yakh",
-    "translation": "Лёд",
+    "translations": {
+      "ru": "Лёд",
+      "uz": "Muz",
+      "tj": "Ях",
+      "it": "Ghiaccio",
+      "en": "Ice",
+      "he": "קרח"
+    },
     "url": "https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f9ca.svg"
   }
 ]
